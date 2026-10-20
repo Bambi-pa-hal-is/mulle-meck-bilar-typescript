@@ -1,0 +1,889 @@
+{
+ "file": "MOVIES/LBSTART.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 7,
+     "name": "CatchClick",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 8,
+     "name": "",
+     "type": "shape",
+     "spec": "00010000000001e1028200010000010205"
+    },
+    {
+     "num": 28,
+     "name": "B-FRAM1",
+     "type": "bitmap",
+     "w": 53,
+     "h": 25,
+     "regX": 51,
+     "regY": 87,
+     "bpp": 8,
+     "file": "28.png"
+    },
+    {
+     "num": 29,
+     "name": "B-FRAM2",
+     "type": "bitmap",
+     "w": 61,
+     "h": 70,
+     "regX": 76,
+     "regY": 107,
+     "bpp": 8,
+     "file": "29.png"
+    },
+    {
+     "num": 30,
+     "name": "B-FRAM4",
+     "type": "bitmap",
+     "w": 94,
+     "h": 112,
+     "regX": 130,
+     "regY": 110,
+     "bpp": 8,
+     "file": "30.png"
+    },
+    {
+     "num": 31,
+     "name": "B-FRAM5",
+     "type": "bitmap",
+     "w": 65,
+     "h": 116,
+     "regX": 126,
+     "regY": 91,
+     "bpp": 8,
+     "file": "31.png"
+    },
+    {
+     "num": 32,
+     "name": "B-FRAM6",
+     "type": "bitmap",
+     "w": 60,
+     "h": 117,
+     "regX": 131,
+     "regY": 70,
+     "bpp": 8,
+     "file": "32.png"
+    },
+    {
+     "num": 33,
+     "name": "B-FRAM7",
+     "type": "bitmap",
+     "w": 65,
+     "h": 115,
+     "regX": 136,
+     "regY": 40,
+     "bpp": 8,
+     "file": "33.png"
+    },
+    {
+     "num": 34,
+     "name": "B-FRAM8",
+     "type": "bitmap",
+     "w": 65,
+     "h": 116,
+     "regX": 137,
+     "regY": 27,
+     "bpp": 8,
+     "file": "34.png"
+    },
+    {
+     "num": 35,
+     "name": "B-FRAM9",
+     "type": "bitmap",
+     "w": 63,
+     "h": 114,
+     "regX": 139,
+     "regY": 17,
+     "bpp": 8,
+     "file": "35.png"
+    },
+    {
+     "num": 36,
+     "name": "B-FRAM91",
+     "type": "bitmap",
+     "w": 78,
+     "h": 96,
+     "regX": 140,
+     "regY": -1,
+     "bpp": 8,
+     "file": "36.png"
+    },
+    {
+     "num": 37,
+     "name": "FRAM-3",
+     "type": "bitmap",
+     "w": 93,
+     "h": 112,
+     "regX": 46,
+     "regY": 56,
+     "bpp": 8,
+     "file": "37.png"
+    },
+    {
+     "num": 38,
+     "name": "",
+     "type": "bitmap",
+     "w": 208,
+     "h": 152,
+     "regX": 104,
+     "regY": 76,
+     "bpp": 8,
+     "file": "38.png"
+    },
+    {
+     "num": 39,
+     "name": "G-1",
+     "type": "bitmap",
+     "w": 64,
+     "h": 118,
+     "regX": 142,
+     "regY": 21,
+     "bpp": 8,
+     "file": "39.png"
+    },
+    {
+     "num": 40,
+     "name": "G-2",
+     "type": "bitmap",
+     "w": 87,
+     "h": 116,
+     "regX": 132,
+     "regY": 20,
+     "bpp": 8,
+     "file": "40.png"
+    },
+    {
+     "num": 41,
+     "name": "G-3",
+     "type": "bitmap",
+     "w": 76,
+     "h": 117,
+     "regX": 120,
+     "regY": 20,
+     "bpp": 8,
+     "file": "41.png"
+    },
+    {
+     "num": 42,
+     "name": "G-4",
+     "type": "bitmap",
+     "w": 73,
+     "h": 109,
+     "regX": 110,
+     "regY": 12,
+     "bpp": 8,
+     "file": "42.png"
+    },
+    {
+     "num": 43,
+     "name": "G-5",
+     "type": "bitmap",
+     "w": 64,
+     "h": 118,
+     "regX": 105,
+     "regY": 22,
+     "bpp": 8,
+     "file": "43.png"
+    },
+    {
+     "num": 44,
+     "name": "G-6",
+     "type": "bitmap",
+     "w": 89,
+     "h": 115,
+     "regX": 89,
+     "regY": 19,
+     "bpp": 8,
+     "file": "44.png"
+    },
+    {
+     "num": 45,
+     "name": "G-7",
+     "type": "bitmap",
+     "w": 76,
+     "h": 118,
+     "regX": 64,
+     "regY": 21,
+     "bpp": 8,
+     "file": "45.png"
+    },
+    {
+     "num": 46,
+     "name": "G-8",
+     "type": "bitmap",
+     "w": 76,
+     "h": 110,
+     "regX": 45,
+     "regY": 13,
+     "bpp": 8,
+     "file": "46.png"
+    },
+    {
+     "num": 47,
+     "name": "G-9",
+     "type": "bitmap",
+     "w": 65,
+     "h": 118,
+     "regX": 34,
+     "regY": 21,
+     "bpp": 8,
+     "file": "47.png"
+    },
+    {
+     "num": 48,
+     "name": "G-91",
+     "type": "bitmap",
+     "w": 89,
+     "h": 115,
+     "regX": 14,
+     "regY": 19,
+     "bpp": 8,
+     "file": "48.png"
+    },
+    {
+     "num": 49,
+     "name": "G-92",
+     "type": "bitmap",
+     "w": 90,
+     "h": 118,
+     "regX": -13,
+     "regY": 21,
+     "bpp": 8,
+     "file": "49.png"
+    },
+    {
+     "num": 50,
+     "name": "G-93",
+     "type": "bitmap",
+     "w": 75,
+     "h": 109,
+     "regX": -29,
+     "regY": 12,
+     "bpp": 8,
+     "file": "50.png"
+    },
+    {
+     "num": 51,
+     "name": "G-94",
+     "type": "bitmap",
+     "w": 64,
+     "h": 119,
+     "regX": -41,
+     "regY": 22,
+     "bpp": 8,
+     "file": "51.png"
+    },
+    {
+     "num": 52,
+     "name": "G-95",
+     "type": "bitmap",
+     "w": 88,
+     "h": 114,
+     "regX": -38,
+     "regY": 18,
+     "bpp": 8,
+     "file": "52.png"
+    },
+    {
+     "num": 53,
+     "name": "G-96",
+     "type": "bitmap",
+     "w": 75,
+     "h": 117,
+     "regX": -58,
+     "regY": 20,
+     "bpp": 8,
+     "file": "53.png"
+    },
+    {
+     "num": 54,
+     "name": "t-1",
+     "type": "bitmap",
+     "w": 317,
+     "h": 38,
+     "regX": 158,
+     "regY": 19,
+     "bpp": 8,
+     "file": "54.png"
+    },
+    {
+     "num": 55,
+     "name": "t-2",
+     "type": "bitmap",
+     "w": 317,
+     "h": 37,
+     "regX": 158,
+     "regY": 18,
+     "bpp": 8,
+     "file": "55.png"
+    },
+    {
+     "num": 56,
+     "name": "t-3",
+     "type": "bitmap",
+     "w": 314,
+     "h": 37,
+     "regX": 157,
+     "regY": 18,
+     "bpp": 8,
+     "file": "56.png"
+    },
+    {
+     "num": 57,
+     "name": "t-4",
+     "type": "bitmap",
+     "w": 307,
+     "h": 37,
+     "regX": 153,
+     "regY": 18,
+     "bpp": 8,
+     "file": "57.png"
+    },
+    {
+     "num": 58,
+     "name": "t-5",
+     "type": "bitmap",
+     "w": 273,
+     "h": 35,
+     "regX": 136,
+     "regY": 17,
+     "bpp": 8,
+     "file": "58.png"
+    },
+    {
+     "num": 59,
+     "name": "t-6",
+     "type": "bitmap",
+     "w": 249,
+     "h": 43,
+     "regX": 124,
+     "regY": 21,
+     "bpp": 8,
+     "file": "59.png"
+    },
+    {
+     "num": 60,
+     "name": "t-7",
+     "type": "bitmap",
+     "w": 226,
+     "h": 30,
+     "regX": 113,
+     "regY": 15,
+     "bpp": 8,
+     "file": "60.png"
+    },
+    {
+     "num": 61,
+     "name": "t-8",
+     "type": "bitmap",
+     "w": 221,
+     "h": 29,
+     "regX": 110,
+     "regY": 14,
+     "bpp": 8,
+     "file": "61.png"
+    },
+    {
+     "num": 62,
+     "name": "t-9",
+     "type": "bitmap",
+     "w": 154,
+     "h": 29,
+     "regX": 77,
+     "regY": 14,
+     "bpp": 8,
+     "file": "62.png"
+    },
+    {
+     "num": 63,
+     "name": "t-91",
+     "type": "bitmap",
+     "w": 134,
+     "h": 30,
+     "regX": 67,
+     "regY": 15,
+     "bpp": 8,
+     "file": "63.png"
+    },
+    {
+     "num": 64,
+     "name": "t-92",
+     "type": "bitmap",
+     "w": 109,
+     "h": 30,
+     "regX": 54,
+     "regY": 15,
+     "bpp": 8,
+     "file": "64.png"
+    },
+    {
+     "num": 65,
+     "name": "t-93",
+     "type": "bitmap",
+     "w": 80,
+     "h": 30,
+     "regX": 40,
+     "regY": 15,
+     "bpp": 8,
+     "file": "65.png"
+    },
+    {
+     "num": 66,
+     "name": "t-94",
+     "type": "bitmap",
+     "w": 62,
+     "h": 29,
+     "regX": 31,
+     "regY": 14,
+     "bpp": 8,
+     "file": "66.png"
+    },
+    {
+     "num": 67,
+     "name": "t-95",
+     "type": "bitmap",
+     "w": 35,
+     "h": 29,
+     "regX": 17,
+     "regY": 14,
+     "bpp": 8,
+     "file": "67.png"
+    },
+    {
+     "num": 68,
+     "name": "t-96",
+     "type": "bitmap",
+     "w": 6,
+     "h": 13,
+     "regX": 3,
+     "regY": 6,
+     "bpp": 8,
+     "file": "68.png"
+    },
+    {
+     "num": 69,
+     "name": "BAKGRUND",
+     "type": "bitmap",
+     "w": 317,
+     "h": 195,
+     "regX": 158,
+     "regY": 97,
+     "bpp": 8,
+     "file": "69.png"
+    },
+    {
+     "num": 70,
+     "name": "FLYG-1",
+     "type": "bitmap",
+     "w": 73,
+     "h": 108,
+     "regX": -67,
+     "regY": 30,
+     "bpp": 8,
+     "file": "70.png"
+    },
+    {
+     "num": 71,
+     "name": "FLYG-2",
+     "type": "bitmap",
+     "w": 117,
+     "h": 112,
+     "regX": -12,
+     "regY": 87,
+     "bpp": 8,
+     "file": "71.png"
+    },
+    {
+     "num": 72,
+     "name": "FLYG-3",
+     "type": "bitmap",
+     "w": 115,
+     "h": 88,
+     "regX": -1,
+     "regY": 106,
+     "bpp": 8,
+     "file": "72.png"
+    },
+    {
+     "num": 73,
+     "name": "FLYG-4",
+     "type": "bitmap",
+     "w": 109,
+     "h": 121,
+     "regX": 19,
+     "regY": 129,
+     "bpp": 8,
+     "file": "73.png"
+    },
+    {
+     "num": 74,
+     "name": "FLYG-5",
+     "type": "bitmap",
+     "w": 116,
+     "h": 116,
+     "regX": 83,
+     "regY": 116,
+     "bpp": 8,
+     "file": "74.png"
+    },
+    {
+     "num": 75,
+     "name": "FLYG-6",
+     "type": "bitmap",
+     "w": 120,
+     "h": 109,
+     "regX": 90,
+     "regY": 85,
+     "bpp": 8,
+     "file": "75.png"
+    },
+    {
+     "num": 76,
+     "name": "FLYG-7",
+     "type": "bitmap",
+     "w": 94,
+     "h": 125,
+     "regX": 85,
+     "regY": 76,
+     "bpp": 8,
+     "file": "76.png"
+    },
+    {
+     "num": 77,
+     "name": "LANDA-1",
+     "type": "bitmap",
+     "w": 100,
+     "h": 102,
+     "regX": 83,
+     "regY": 39,
+     "bpp": 8,
+     "file": "77.png"
+    },
+    {
+     "num": 78,
+     "name": "LANDA-2",
+     "type": "bitmap",
+     "w": 108,
+     "h": 83,
+     "regX": 88,
+     "regY": 23,
+     "bpp": 8,
+     "file": "78.png"
+    },
+    {
+     "num": 79,
+     "name": "LANDA-3",
+     "type": "bitmap",
+     "w": 110,
+     "h": 85,
+     "regX": 88,
+     "regY": 26,
+     "bpp": 8,
+     "file": "79.png"
+    },
+    {
+     "num": 80,
+     "name": "LANDA-4",
+     "type": "bitmap",
+     "w": 97,
+     "h": 115,
+     "regX": 87,
+     "regY": 65,
+     "bpp": 8,
+     "file": "80.png"
+    },
+    {
+     "num": 81,
+     "name": "FINAL-1",
+     "type": "bitmap",
+     "w": 66,
+     "h": 121,
+     "regX": 88,
+     "regY": 64,
+     "bpp": 8,
+     "file": "81.png"
+    },
+    {
+     "num": 82,
+     "name": "FINAL-2",
+     "type": "bitmap",
+     "w": 82,
+     "h": 111,
+     "regX": 74,
+     "regY": 53,
+     "bpp": 8,
+     "file": "82.png"
+    },
+    {
+     "num": 83,
+     "name": "FINAL-3",
+     "type": "bitmap",
+     "w": 83,
+     "h": 122,
+     "regX": 75,
+     "regY": 63,
+     "bpp": 8,
+     "file": "83.png"
+    },
+    {
+     "num": 84,
+     "name": "FINAL-4",
+     "type": "bitmap",
+     "w": 150,
+     "h": 118,
+     "regX": 73,
+     "regY": 58,
+     "bpp": 8,
+     "file": "84.png"
+    },
+    {
+     "num": 85,
+     "name": "FINAL-5",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "85.png"
+    },
+    {
+     "num": 86,
+     "name": "FINAL-6",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "86.png"
+    },
+    {
+     "num": 87,
+     "name": "FINAL-7",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "87.png"
+    },
+    {
+     "num": 88,
+     "name": "FINAL-8",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "88.png"
+    },
+    {
+     "num": 89,
+     "name": "FINAL-9",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "89.png"
+    },
+    {
+     "num": 90,
+     "name": "FINAL-91",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "90.png"
+    },
+    {
+     "num": 91,
+     "name": "FINAL-92",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "91.png"
+    },
+    {
+     "num": 92,
+     "name": "FINAL-93",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "92.png"
+    },
+    {
+     "num": 95,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 99,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 100,
+     "name": "FINAL-992",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "100.png"
+    },
+    {
+     "num": 101,
+     "name": "FINAL-992",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "101.png"
+    },
+    {
+     "num": 102,
+     "name": "final-99991",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "102.png"
+    },
+    {
+     "num": 103,
+     "name": "final-99992",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "103.png"
+    },
+    {
+     "num": 104,
+     "name": "final-99993",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "104.png"
+    },
+    {
+     "num": 105,
+     "name": "final-99994",
+     "type": "bitmap",
+     "w": 205,
+     "h": 152,
+     "regX": 102,
+     "regY": 76,
+     "bpp": 8,
+     "file": "105.png"
+    },
+    {
+     "num": 106,
+     "name": "LBVINJ",
+     "type": "sound",
+     "loop": false,
+     "file": "106.wav",
+     "duration": 11.27
+    },
+    {
+     "num": 107,
+     "name": "",
+     "type": "transition",
+     "spec": "000133020c80"
+    },
+    {
+     "num": 108,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 16,
+   "name": "B-FRAM"
+  },
+  {
+   "frame": 26,
+   "name": "G"
+  },
+  {
+   "frame": 29,
+   "name": "TEXT"
+  },
+  {
+   "frame": 41,
+   "name": "FLYG"
+  },
+  {
+   "frame": 48,
+   "name": "LANDA"
+  },
+  {
+   "frame": 53,
+   "name": "FINAL"
+  },
+  {
+   "frame": 70,
+   "name": "Leave"
+  }
+ ]
+}

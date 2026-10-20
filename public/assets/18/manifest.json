@@ -1,0 +1,182 @@
+{
+ "file": "MOVIES/18.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 2,
+   "members": [
+    {
+     "num": 2,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 3,
+     "name": "Dummy",
+     "type": "bitmap",
+     "w": 0,
+     "h": 0,
+     "regX": 0,
+     "regY": 0,
+     "bpp": 8
+    },
+    {
+     "num": 9,
+     "name": "18b001v0",
+     "type": "bitmap",
+     "w": 422,
+     "h": 300,
+     "regX": 211,
+     "regY": 150,
+     "bpp": 8,
+     "file": "9.png"
+    },
+    {
+     "num": 10,
+     "name": "18b003v0",
+     "type": "bitmap",
+     "w": 27,
+     "h": 44,
+     "regX": 208,
+     "regY": 90,
+     "bpp": 8,
+     "file": "10.png"
+    },
+    {
+     "num": 11,
+     "name": "18b004v0",
+     "type": "bitmap",
+     "w": 25,
+     "h": 46,
+     "regX": -185,
+     "regY": 93,
+     "bpp": 8,
+     "file": "11.png"
+    },
+    {
+     "num": 13,
+     "name": "18b001v0",
+     "type": "bitmap",
+     "w": 422,
+     "h": 196,
+     "regX": 211,
+     "regY": 46,
+     "bpp": 8,
+     "file": "13.png"
+    },
+    {
+     "num": 14,
+     "name": "18b001v0",
+     "type": "bitmap",
+     "w": 422,
+     "h": 146,
+     "regX": 211,
+     "regY": 150,
+     "bpp": 8,
+     "file": "14.png"
+    },
+    {
+     "num": 15,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 17,
+     "name": "WorldScrollBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 18,
+     "name": "ArrowBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 20,
+     "name": "Choose",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 28,
+     "name": "18b005v0",
+     "type": "bitmap",
+     "w": 16,
+     "h": 125,
+     "regX": 15,
+     "regY": 138,
+     "bpp": 8,
+     "file": "28.png"
+    },
+    {
+     "num": 29,
+     "name": "",
+     "type": "bitmap",
+     "w": 61,
+     "h": 112,
+     "regX": 25,
+     "regY": 56,
+     "bpp": 8,
+     "file": "29.png"
+    },
+    {
+     "num": 30,
+     "name": "Cancel",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 33,
+     "name": "18d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 2351,
+       "name": "silence"
+      },
+      {
+       "time": 2966,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "33.wav",
+     "duration": 4.978
+    },
+    {
+     "num": 49,
+     "name": "ZZWorldScrollBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

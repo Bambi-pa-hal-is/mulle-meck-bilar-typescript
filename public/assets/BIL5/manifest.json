@@ -1,0 +1,117 @@
+{
+ "file": "Plugins/bil5.cst",
+ "kind": "MC95",
+ "castLibs": [],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "PartsDB",
+     "type": "text",
+     "font": {
+      "name": "MS Sans Serif",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[281]\n"
+    },
+    {
+     "num": 2,
+     "name": "ExternalPartsDB",
+     "type": "text",
+     "font": {
+      "name": "MS Sans Serif",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Postal:[281], #JunkMan:[], #Destinations:[], #Random:[]]"
+    },
+    {
+     "num": 3,
+     "name": "WorldsDB",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[]"
+    },
+    {
+     "num": 4,
+     "name": "mapsDB",
+     "type": "text",
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[]"
+    },
+    {
+     "num": 5,
+     "name": "ObjectsDB",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[]"
+    },
+    {
+     "num": 6,
+     "name": "MissionsDB",
+     "type": "text",
+     "font": {
+      "name": "MS Sans Serif",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[]"
+    }
+   ]
+  }
+ ],
+ "labels": []
+}

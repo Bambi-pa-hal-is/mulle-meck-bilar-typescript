@@ -1,0 +1,118 @@
+{
+ "file": "MOVIES/84.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 18,
+     "name": "TittAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#suck:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1,1]], #Paths:[]]"
+    },
+    {
+     "num": 23,
+     "name": "",
+     "type": "transition",
+     "spec": "000409020000"
+    },
+    {
+     "num": 25,
+     "name": "85b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "25.png"
+    },
+    {
+     "num": 201,
+     "name": "84d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 2274,
+       "name": "silence"
+      },
+      {
+       "time": 2874,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "201.wav",
+     "duration": 1.675
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 3,
+   "name": "Prata"
+  },
+  {
+   "frame": 7,
+   "name": "Pause"
+  },
+  {
+   "frame": 13,
+   "name": "Tillbaka"
+  },
+  {
+   "frame": 21,
+   "name": "Leave"
+  }
+ ]
+}

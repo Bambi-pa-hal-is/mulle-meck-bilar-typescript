@@ -1,0 +1,504 @@
+{
+ "file": "MOVIES/08.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 2,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 4,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 7,
+     "name": "ScrollBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 8,
+     "name": "Dummy",
+     "type": "bitmap",
+     "w": 0,
+     "h": 0,
+     "regX": 0,
+     "regY": 0,
+     "bpp": 8
+    },
+    {
+     "num": 9,
+     "name": "ToBeCaptured",
+     "type": "shape",
+     "spec": "0001000000000170020600010000000205"
+    },
+    {
+     "num": 13,
+     "name": "ArrowBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 15,
+     "name": "08b006v0",
+     "type": "bitmap",
+     "w": 59,
+     "h": 480,
+     "regX": 29,
+     "regY": 240,
+     "bpp": 8,
+     "file": "15.png"
+    },
+    {
+     "num": 17,
+     "name": "08b007v0",
+     "type": "bitmap",
+     "w": 34,
+     "h": 21,
+     "regX": 17,
+     "regY": 10,
+     "bpp": 8,
+     "file": "17.png"
+    },
+    {
+     "num": 18,
+     "name": "08b008v0",
+     "type": "bitmap",
+     "w": 34,
+     "h": 21,
+     "regX": 17,
+     "regY": 10,
+     "bpp": 8,
+     "file": "18.png"
+    },
+    {
+     "num": 21,
+     "name": "00n004v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "21.png"
+    },
+    {
+     "num": 22,
+     "name": "00n005v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 51,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "22.png"
+    },
+    {
+     "num": 23,
+     "name": "00n006v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 51,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "23.png"
+    },
+    {
+     "num": 24,
+     "name": "00n007v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "24.png"
+    },
+    {
+     "num": 25,
+     "name": "00n008v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "25.png"
+    },
+    {
+     "num": 26,
+     "name": "00n009v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "26.png"
+    },
+    {
+     "num": 27,
+     "name": "00n010v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 52,
+     "regX": 25,
+     "regY": 26,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 29,
+     "name": "",
+     "type": "shape",
+     "spec": "00010000000001f7024b00010000010205"
+    },
+    {
+     "num": 30,
+     "name": "FilledCover",
+     "type": "shape",
+     "spec": "00010000000001df000d00010000010205"
+    },
+    {
+     "num": 31,
+     "name": "Diplom",
+     "type": "bitmap",
+     "w": 571,
+     "h": 812,
+     "regX": 285,
+     "regY": 406,
+     "bpp": 8,
+     "file": "31.png"
+    },
+    {
+     "num": 34,
+     "name": "GoBackBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 38,
+     "name": "PrintBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 39,
+     "name": "LeftR",
+     "type": "bitmap",
+     "w": 2,
+     "h": 793,
+     "regX": 285,
+     "regY": 406,
+     "bpp": 8,
+     "file": "39.png"
+    },
+    {
+     "num": 40,
+     "name": "RightR",
+     "type": "bitmap",
+     "w": 2,
+     "h": 793,
+     "regX": -271,
+     "regY": 406,
+     "bpp": 8,
+     "file": "40.png"
+    },
+    {
+     "num": 49,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 50,
+     "name": "UserName",
+     "type": "text",
+     "font": {
+      "name": "Times",
+      "size": 36,
+      "style": 0,
+      "lineHeight": 44,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": " "
+    },
+    {
+     "num": 52,
+     "name": "SavedCarName",
+     "type": "text",
+     "font": {
+      "name": "Times",
+      "size": 36,
+      "style": 0,
+      "lineHeight": 44,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": " "
+    },
+    {
+     "num": 66,
+     "name": "08b005v0",
+     "type": "bitmap",
+     "w": 460,
+     "h": 150,
+     "regX": 230,
+     "regY": 75,
+     "bpp": 8,
+     "file": "66.png"
+    },
+    {
+     "num": 67,
+     "name": "08b002v0",
+     "type": "bitmap",
+     "w": 54,
+     "h": 61,
+     "regX": 27,
+     "regY": 30,
+     "bpp": 8,
+     "file": "67.png"
+    },
+    {
+     "num": 68,
+     "name": "06b007v0",
+     "type": "bitmap",
+     "w": 37,
+     "h": 52,
+     "regX": 18,
+     "regY": 26,
+     "bpp": 8,
+     "file": "68.png"
+    },
+    {
+     "num": 69,
+     "name": "08t007v0",
+     "type": "text",
+     "font": {
+      "name": "Times",
+      "size": 24,
+      "style": 0,
+      "lineHeight": 29,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "för bilen"
+    },
+    {
+     "num": 70,
+     "name": "08b004v0",
+     "type": "bitmap",
+     "w": 558,
+     "h": 50,
+     "regX": 285,
+     "regY": -346,
+     "bpp": 8,
+     "file": "70.png"
+    },
+    {
+     "num": 71,
+     "name": "Title",
+     "type": "bitmap",
+     "w": 558,
+     "h": 164,
+     "regX": 285,
+     "regY": 406,
+     "bpp": 8,
+     "file": "71.png"
+    },
+    {
+     "num": 81,
+     "name": "08t001v0",
+     "type": "richText",
+     "text": "Backkörar- medalj",
+     "w": 90,
+     "h": 44,
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 1,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "align": "center"
+    },
+    {
+     "num": 82,
+     "name": "08t002v0",
+     "type": "richText",
+     "text": "Långfärds- medalj",
+     "w": 90,
+     "h": 44,
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 1,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "align": "center"
+    },
+    {
+     "num": 83,
+     "name": "08t003v0",
+     "type": "richText",
+     "text": "Geggkörar- medalj",
+     "w": 90,
+     "h": 44,
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 1,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "align": "center"
+    },
+    {
+     "num": 84,
+     "name": "08t004v0",
+     "type": "richText",
+     "text": "Kul bil- medalj",
+     "w": 90,
+     "h": 44,
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 1,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "align": "center"
+    },
+    {
+     "num": 85,
+     "name": "08t005v0",
+     "type": "richText",
+     "text": "Snabbhets- medalj",
+     "w": 90,
+     "h": 44,
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 1,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "align": "center"
+    },
+    {
+     "num": 86,
+     "name": "08t006v0",
+     "type": "richText",
+     "text": "Lätt bil- medalj",
+     "w": 90,
+     "h": 44,
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 1,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "align": "center"
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 24,
+   "name": "02"
+  },
+  {
+   "frame": 28,
+   "name": "03"
+  },
+  {
+   "frame": 32,
+   "name": "04"
+  },
+  {
+   "frame": 36,
+   "name": "05"
+  }
+ ]
+}

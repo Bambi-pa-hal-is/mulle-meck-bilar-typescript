@@ -1,0 +1,294 @@
+{
+ "file": "MOVIES/12.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 2,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "shape",
+     "spec": "00010000000000e1027a00010000010205"
+    },
+    {
+     "num": 4,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 5,
+     "name": "",
+     "type": "shape",
+     "spec": "000100000000005c027a00010000010205"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "transition",
+     "spec": "0002010201f4"
+    },
+    {
+     "num": 7,
+     "name": "",
+     "type": "transition",
+     "spec": "00040a0207d0"
+    },
+    {
+     "num": 8,
+     "name": "",
+     "type": "transition",
+     "spec": "0008340202bc"
+    },
+    {
+     "num": 9,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 21,
+     "name": "12e001v0",
+     "type": "sound",
+     "loop": true,
+     "file": "21.wav",
+     "duration": 7.616
+    },
+    {
+     "num": 22,
+     "name": "12e002v0",
+     "type": "sound",
+     "loop": false,
+     "file": "22.wav",
+     "duration": 1.448
+    },
+    {
+     "num": 23,
+     "name": "12e003v0",
+     "type": "sound",
+     "loop": false,
+     "file": "23.wav",
+     "duration": 2.577
+    },
+    {
+     "num": 41,
+     "name": "12 b001v0",
+     "type": "bitmap",
+     "w": 634,
+     "h": 424,
+     "regX": 317,
+     "regY": 212,
+     "bpp": 8,
+     "file": "41.png"
+    },
+    {
+     "num": 42,
+     "name": "1",
+     "type": "bitmap",
+     "w": 543,
+     "h": 143,
+     "regX": 281,
+     "regY": 201,
+     "bpp": 8,
+     "file": "42.png"
+    },
+    {
+     "num": 43,
+     "name": "temp 2",
+     "type": "bitmap",
+     "w": 513,
+     "h": 217,
+     "regX": 256,
+     "regY": 108,
+     "bpp": 8,
+     "file": "43.png"
+    },
+    {
+     "num": 44,
+     "name": "3",
+     "type": "bitmap",
+     "w": 506,
+     "h": 205,
+     "regX": 258,
+     "regY": 226,
+     "bpp": 8,
+     "file": "44.png"
+    },
+    {
+     "num": 45,
+     "name": "4",
+     "type": "bitmap",
+     "w": 420,
+     "h": 207,
+     "regX": 225,
+     "regY": 231,
+     "bpp": 8,
+     "file": "45.png"
+    },
+    {
+     "num": 46,
+     "name": "5",
+     "type": "bitmap",
+     "w": 421,
+     "h": 175,
+     "regX": 213,
+     "regY": 226,
+     "bpp": 8,
+     "file": "46.png"
+    },
+    {
+     "num": 47,
+     "name": "STICKA7.TIF",
+     "type": "bitmap",
+     "w": 36,
+     "h": 123,
+     "regX": 7,
+     "regY": 187,
+     "bpp": 8,
+     "file": "47.png"
+    },
+    {
+     "num": 48,
+     "name": "STICKA8.TIF",
+     "type": "bitmap",
+     "w": 37,
+     "h": 122,
+     "regX": 6,
+     "regY": 187,
+     "bpp": 8,
+     "file": "48.png"
+    },
+    {
+     "num": 49,
+     "name": "STICKA1.TIF",
+     "type": "bitmap",
+     "w": 76,
+     "h": 105,
+     "regX": 131,
+     "regY": 137,
+     "bpp": 8,
+     "file": "49.png"
+    },
+    {
+     "num": 50,
+     "name": "STICKA2.TIF",
+     "type": "bitmap",
+     "w": 71,
+     "h": 95,
+     "regX": 118,
+     "regY": 135,
+     "bpp": 8,
+     "file": "50.png"
+    },
+    {
+     "num": 51,
+     "name": "STICKA3.TIF",
+     "type": "bitmap",
+     "w": 63,
+     "h": 124,
+     "regX": 111,
+     "regY": 137,
+     "bpp": 8,
+     "file": "51.png"
+    },
+    {
+     "num": 52,
+     "name": "STICKA4.TIF",
+     "type": "bitmap",
+     "w": 85,
+     "h": 131,
+     "regX": 114,
+     "regY": 129,
+     "bpp": 8,
+     "file": "52.png"
+    },
+    {
+     "num": 53,
+     "name": "STICKA5.TIF",
+     "type": "bitmap",
+     "w": 160,
+     "h": 119,
+     "regX": 117,
+     "regY": 131,
+     "bpp": 8,
+     "file": "53.png"
+    },
+    {
+     "num": 54,
+     "name": "STICKA6.TIF",
+     "type": "bitmap",
+     "w": 104,
+     "h": 170,
+     "regX": 80,
+     "regY": 185,
+     "bpp": 8,
+     "file": "54.png"
+    },
+    {
+     "num": 55,
+     "name": "tick1",
+     "type": "bitmap",
+     "w": 77,
+     "h": 63,
+     "regX": 80,
+     "regY": 132,
+     "bpp": 8,
+     "file": "55.png"
+    },
+    {
+     "num": 56,
+     "name": "",
+     "type": "bitmap",
+     "w": 231,
+     "h": 168,
+     "regX": 153,
+     "regY": 89,
+     "bpp": 8,
+     "file": "56.png"
+    },
+    {
+     "num": 57,
+     "name": "12b002v0.pct",
+     "type": "bitmap",
+     "w": 227,
+     "h": 227,
+     "regX": 113,
+     "regY": 113,
+     "bpp": 8,
+     "file": "57.png"
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 13,
+   "name": "Eldmatch"
+  }
+ ]
+}

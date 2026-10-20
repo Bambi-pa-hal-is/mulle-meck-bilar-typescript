@@ -1,0 +1,2960 @@
+{
+ "file": "MOVIES/05.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 2,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 4,
+     "name": "Cheats",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 5,
+     "name": "CarDriving",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 6,
+     "name": "Wheels",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 7,
+     "name": "DrivingHandlers",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 8,
+     "name": "OutOfFuelScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 9,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 10,
+     "name": "KeyStuff",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 11,
+     "name": "DisplayCar",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 12,
+     "name": "KeyHandlers",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 13,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 14,
+     "name": "ShowTime",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "113"
+    },
+    {
+     "num": 16,
+     "name": "05CursorBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 17,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 20,
+     "name": "RollOverBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 21,
+     "name": "00b023v0",
+     "type": "bitmap",
+     "w": 31,
+     "h": 31,
+     "regX": 15,
+     "regY": 15,
+     "bpp": 8,
+     "file": "21.png"
+    },
+    {
+     "num": 22,
+     "name": "",
+     "type": "bitmap",
+     "w": 14,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 8,
+     "file": "22.png"
+    },
+    {
+     "num": 23,
+     "name": "",
+     "type": "shape",
+     "spec": "0001000000000055005000019100010205"
+    },
+    {
+     "num": 25,
+     "name": "01b003v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 80,
+     "regX": 320,
+     "regY": 40,
+     "bpp": 8,
+     "file": "25.png"
+    },
+    {
+     "num": 26,
+     "name": "01b003v0",
+     "type": "bitmap",
+     "w": 88,
+     "h": 35,
+     "regX": 320,
+     "regY": 14,
+     "bpp": 8,
+     "file": "26.png"
+    },
+    {
+     "num": 27,
+     "name": "01a001v0",
+     "type": "bitmap",
+     "w": 42,
+     "h": 19,
+     "regX": 41,
+     "regY": 2,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 28,
+     "name": "02",
+     "type": "bitmap",
+     "w": 41,
+     "h": 25,
+     "regX": 38,
+     "regY": 8,
+     "bpp": 8,
+     "file": "28.png"
+    },
+    {
+     "num": 29,
+     "name": "03",
+     "type": "bitmap",
+     "w": 34,
+     "h": 32,
+     "regX": 33,
+     "regY": 15,
+     "bpp": 8,
+     "file": "29.png"
+    },
+    {
+     "num": 30,
+     "name": "04",
+     "type": "bitmap",
+     "w": 27,
+     "h": 38,
+     "regX": 26,
+     "regY": 21,
+     "bpp": 8,
+     "file": "30.png"
+    },
+    {
+     "num": 31,
+     "name": "05",
+     "type": "bitmap",
+     "w": 19,
+     "h": 42,
+     "regX": 17,
+     "regY": 25,
+     "bpp": 8,
+     "file": "31.png"
+    },
+    {
+     "num": 32,
+     "name": "06",
+     "type": "bitmap",
+     "w": 11,
+     "h": 45,
+     "regX": 9,
+     "regY": 28,
+     "bpp": 8,
+     "file": "32.png"
+    },
+    {
+     "num": 33,
+     "name": "07",
+     "type": "bitmap",
+     "w": 5,
+     "h": 45,
+     "regX": 1,
+     "regY": 28,
+     "bpp": 8,
+     "file": "33.png"
+    },
+    {
+     "num": 34,
+     "name": "08",
+     "type": "bitmap",
+     "w": 13,
+     "h": 44,
+     "regX": 1,
+     "regY": 27,
+     "bpp": 8,
+     "file": "34.png"
+    },
+    {
+     "num": 35,
+     "name": "09",
+     "type": "bitmap",
+     "w": 20,
+     "h": 41,
+     "regX": 0,
+     "regY": 24,
+     "bpp": 8,
+     "file": "35.png"
+    },
+    {
+     "num": 36,
+     "name": "10",
+     "type": "bitmap",
+     "w": 29,
+     "h": 36,
+     "regX": 1,
+     "regY": 19,
+     "bpp": 8,
+     "file": "36.png"
+    },
+    {
+     "num": 37,
+     "name": "11",
+     "type": "bitmap",
+     "w": 35,
+     "h": 31,
+     "regX": 1,
+     "regY": 14,
+     "bpp": 8,
+     "file": "37.png"
+    },
+    {
+     "num": 38,
+     "name": "12",
+     "type": "bitmap",
+     "w": 39,
+     "h": 26,
+     "regX": 0,
+     "regY": 9,
+     "bpp": 8,
+     "file": "38.png"
+    },
+    {
+     "num": 39,
+     "name": "13",
+     "type": "bitmap",
+     "w": 45,
+     "h": 19,
+     "regX": 2,
+     "regY": 2,
+     "bpp": 8,
+     "file": "39.png"
+    },
+    {
+     "num": 40,
+     "name": "14",
+     "type": "bitmap",
+     "w": 35,
+     "h": 21,
+     "regX": -6,
+     "regY": 4,
+     "bpp": 8,
+     "file": "40.png"
+    },
+    {
+     "num": 41,
+     "name": "15",
+     "type": "bitmap",
+     "w": 20,
+     "h": 23,
+     "regX": -18,
+     "regY": 6,
+     "bpp": 8,
+     "file": "41.png"
+    },
+    {
+     "num": 42,
+     "name": "16",
+     "type": "bitmap",
+     "w": 10,
+     "h": 22,
+     "regX": -26,
+     "regY": 5,
+     "bpp": 8,
+     "file": "42.png"
+    },
+    {
+     "num": 43,
+     "name": "PetrolBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 46,
+     "name": "01a003v0",
+     "type": "bitmap",
+     "w": 317,
+     "h": 8,
+     "regX": 315,
+     "regY": 4,
+     "bpp": 8,
+     "file": "46.png"
+    },
+    {
+     "num": 47,
+     "name": "KPHBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 49,
+     "name": "",
+     "type": "shape",
+     "spec": "00010000000001e102800001ff00010205"
+    },
+    {
+     "num": 51,
+     "name": "MedalBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 53,
+     "name": "19b001v0",
+     "type": "bitmap",
+     "w": 425,
+     "h": 301,
+     "regX": 212,
+     "regY": 150,
+     "bpp": 8,
+     "file": "53.png"
+    },
+    {
+     "num": 54,
+     "name": "09b005v0",
+     "type": "bitmap",
+     "w": 84,
+     "h": 83,
+     "regX": 206,
+     "regY": 128,
+     "bpp": 8,
+     "file": "54.png"
+    },
+    {
+     "num": 55,
+     "name": "FDialogWorldBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 57,
+     "name": "platta",
+     "type": "bitmap",
+     "w": 259,
+     "h": 239,
+     "regX": 129,
+     "regY": 119,
+     "bpp": 8,
+     "file": "57.png"
+    },
+    {
+     "num": 61,
+     "name": "ShowOffScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 62,
+     "name": "ShowCarDriving",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 65,
+     "name": "P38ef005",
+     "type": "sound",
+     "loop": false,
+     "file": "65.wav",
+     "duration": 0.051
+    },
+    {
+     "num": 66,
+     "name": "P38ef006",
+     "type": "sound",
+     "loop": false,
+     "file": "66.wav",
+     "duration": 0.052
+    },
+    {
+     "num": 69,
+     "name": "00n004v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "69.png"
+    },
+    {
+     "num": 70,
+     "name": "00n005v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 51,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "70.png"
+    },
+    {
+     "num": 71,
+     "name": "00n006v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 51,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "71.png"
+    },
+    {
+     "num": 72,
+     "name": "00n007v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "72.png"
+    },
+    {
+     "num": 73,
+     "name": "00n008v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "73.png"
+    },
+    {
+     "num": 74,
+     "name": "00n009v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "74.png"
+    },
+    {
+     "num": 75,
+     "name": "00n010v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 52,
+     "regX": 25,
+     "regY": 26,
+     "bpp": 8,
+     "file": "75.png"
+    },
+    {
+     "num": 77,
+     "name": "CarPic",
+     "type": "bitmap",
+     "w": 14,
+     "h": 17,
+     "regX": 7,
+     "regY": 13,
+     "bpp": 8,
+     "file": "77.png"
+    },
+    {
+     "num": 78,
+     "name": "ang-20009",
+     "type": "bitmap",
+     "w": 19,
+     "h": 18,
+     "regX": 8,
+     "regY": 13,
+     "bpp": 8,
+     "file": "78.png"
+    },
+    {
+     "num": 79,
+     "name": "ang-20010",
+     "type": "bitmap",
+     "w": 23,
+     "h": 21,
+     "regX": 8,
+     "regY": 13,
+     "bpp": 8,
+     "file": "79.png"
+    },
+    {
+     "num": 80,
+     "name": "ang-20011",
+     "type": "bitmap",
+     "w": 25,
+     "h": 23,
+     "regX": 7,
+     "regY": 12,
+     "bpp": 8,
+     "file": "80.png"
+    },
+    {
+     "num": 81,
+     "name": "ang-20012",
+     "type": "bitmap",
+     "w": 24,
+     "h": 25,
+     "regX": 6,
+     "regY": 12,
+     "bpp": 8,
+     "file": "81.png"
+    },
+    {
+     "num": 82,
+     "name": "ang-20013",
+     "type": "bitmap",
+     "w": 25,
+     "h": 28,
+     "regX": 7,
+     "regY": 12,
+     "bpp": 8,
+     "file": "82.png"
+    },
+    {
+     "num": 83,
+     "name": "ang-20014",
+     "type": "bitmap",
+     "w": 25,
+     "h": 29,
+     "regX": 8,
+     "regY": 11,
+     "bpp": 8,
+     "file": "83.png"
+    },
+    {
+     "num": 84,
+     "name": "ang-20015",
+     "type": "bitmap",
+     "w": 21,
+     "h": 29,
+     "regX": 8,
+     "regY": 10,
+     "bpp": 8,
+     "file": "84.png"
+    },
+    {
+     "num": 85,
+     "name": "ang-20000",
+     "type": "bitmap",
+     "w": 15,
+     "h": 29,
+     "regX": 7,
+     "regY": 10,
+     "bpp": 8,
+     "file": "85.png"
+    },
+    {
+     "num": 86,
+     "name": "ang-20001",
+     "type": "bitmap",
+     "w": 21,
+     "h": 29,
+     "regX": 13,
+     "regY": 10,
+     "bpp": 8,
+     "file": "86.png"
+    },
+    {
+     "num": 87,
+     "name": "ang-20002",
+     "type": "bitmap",
+     "w": 25,
+     "h": 29,
+     "regX": 17,
+     "regY": 11,
+     "bpp": 8,
+     "file": "87.png"
+    },
+    {
+     "num": 88,
+     "name": "ang-20003",
+     "type": "bitmap",
+     "w": 25,
+     "h": 27,
+     "regX": 18,
+     "regY": 11,
+     "bpp": 8,
+     "file": "88.png"
+    },
+    {
+     "num": 89,
+     "name": "ang-20004",
+     "type": "bitmap",
+     "w": 24,
+     "h": 25,
+     "regX": 18,
+     "regY": 12,
+     "bpp": 8,
+     "file": "89.png"
+    },
+    {
+     "num": 90,
+     "name": "ang-20005",
+     "type": "bitmap",
+     "w": 25,
+     "h": 23,
+     "regX": 18,
+     "regY": 12,
+     "bpp": 8,
+     "file": "90.png"
+    },
+    {
+     "num": 91,
+     "name": "ang-20006",
+     "type": "bitmap",
+     "w": 24,
+     "h": 21,
+     "regX": 16,
+     "regY": 13,
+     "bpp": 8,
+     "file": "91.png"
+    },
+    {
+     "num": 92,
+     "name": "ang-20007",
+     "type": "bitmap",
+     "w": 20,
+     "h": 18,
+     "regX": 12,
+     "regY": 13,
+     "bpp": 8,
+     "file": "92.png"
+    },
+    {
+     "num": 93,
+     "name": "ang-20008",
+     "type": "bitmap",
+     "w": 14,
+     "h": 17,
+     "regX": 7,
+     "regY": 13,
+     "bpp": 8,
+     "file": "93.png"
+    },
+    {
+     "num": 94,
+     "name": "ang-10009",
+     "type": "bitmap",
+     "w": 20,
+     "h": 19,
+     "regX": 8,
+     "regY": 15,
+     "bpp": 8,
+     "file": "94.png"
+    },
+    {
+     "num": 95,
+     "name": "ang-10010",
+     "type": "bitmap",
+     "w": 26,
+     "h": 19,
+     "regX": 9,
+     "regY": 14,
+     "bpp": 8,
+     "file": "95.png"
+    },
+    {
+     "num": 96,
+     "name": "ang-10011",
+     "type": "bitmap",
+     "w": 28,
+     "h": 21,
+     "regX": 9,
+     "regY": 14,
+     "bpp": 8,
+     "file": "96.png"
+    },
+    {
+     "num": 97,
+     "name": "ang-10012",
+     "type": "bitmap",
+     "w": 27,
+     "h": 23,
+     "regX": 7,
+     "regY": 13,
+     "bpp": 8,
+     "file": "97.png"
+    },
+    {
+     "num": 98,
+     "name": "ang-10013",
+     "type": "bitmap",
+     "w": 29,
+     "h": 25,
+     "regX": 9,
+     "regY": 12,
+     "bpp": 8,
+     "file": "98.png"
+    },
+    {
+     "num": 99,
+     "name": "ang-10014",
+     "type": "bitmap",
+     "w": 27,
+     "h": 27,
+     "regX": 9,
+     "regY": 12,
+     "bpp": 8,
+     "file": "99.png"
+    },
+    {
+     "num": 100,
+     "name": "ang-10015",
+     "type": "bitmap",
+     "w": 22,
+     "h": 27,
+     "regX": 8,
+     "regY": 11,
+     "bpp": 8,
+     "file": "100.png"
+    },
+    {
+     "num": 101,
+     "name": "ang-10000",
+     "type": "bitmap",
+     "w": 16,
+     "h": 26,
+     "regX": 8,
+     "regY": 10,
+     "bpp": 8,
+     "file": "101.png"
+    },
+    {
+     "num": 102,
+     "name": "ang-10001",
+     "type": "bitmap",
+     "w": 22,
+     "h": 28,
+     "regX": 14,
+     "regY": 11,
+     "bpp": 8,
+     "file": "102.png"
+    },
+    {
+     "num": 103,
+     "name": "ang-10002",
+     "type": "bitmap",
+     "w": 27,
+     "h": 27,
+     "regX": 18,
+     "regY": 12,
+     "bpp": 8,
+     "file": "103.png"
+    },
+    {
+     "num": 104,
+     "name": "ang-10003",
+     "type": "bitmap",
+     "w": 29,
+     "h": 25,
+     "regX": 20,
+     "regY": 12,
+     "bpp": 8,
+     "file": "104.png"
+    },
+    {
+     "num": 105,
+     "name": "ang-10004",
+     "type": "bitmap",
+     "w": 27,
+     "h": 23,
+     "regX": 20,
+     "regY": 13,
+     "bpp": 8,
+     "file": "105.png"
+    },
+    {
+     "num": 106,
+     "name": "ang-10005",
+     "type": "bitmap",
+     "w": 28,
+     "h": 20,
+     "regX": 20,
+     "regY": 13,
+     "bpp": 8,
+     "file": "106.png"
+    },
+    {
+     "num": 107,
+     "name": "ang-10006",
+     "type": "bitmap",
+     "w": 26,
+     "h": 19,
+     "regX": 17,
+     "regY": 14,
+     "bpp": 8,
+     "file": "107.png"
+    },
+    {
+     "num": 108,
+     "name": "ang-10007",
+     "type": "bitmap",
+     "w": 20,
+     "h": 18,
+     "regX": 12,
+     "regY": 14,
+     "bpp": 8,
+     "file": "108.png"
+    },
+    {
+     "num": 109,
+     "name": "ang-10008",
+     "type": "bitmap",
+     "w": 14,
+     "h": 17,
+     "regX": 7,
+     "regY": 14,
+     "bpp": 8,
+     "file": "109.png"
+    },
+    {
+     "num": 110,
+     "name": "embil0009",
+     "type": "bitmap",
+     "w": 21,
+     "h": 20,
+     "regX": 9,
+     "regY": 15,
+     "bpp": 8,
+     "file": "110.png"
+    },
+    {
+     "num": 111,
+     "name": "embil0010",
+     "type": "bitmap",
+     "w": 26,
+     "h": 20,
+     "regX": 10,
+     "regY": 15,
+     "bpp": 8,
+     "file": "111.png"
+    },
+    {
+     "num": 112,
+     "name": "embil0011",
+     "type": "bitmap",
+     "w": 29,
+     "h": 21,
+     "regX": 10,
+     "regY": 15,
+     "bpp": 8,
+     "file": "112.png"
+    },
+    {
+     "num": 113,
+     "name": "embil0012",
+     "type": "bitmap",
+     "w": 29,
+     "h": 20,
+     "regX": 9,
+     "regY": 14,
+     "bpp": 8,
+     "file": "113.png"
+    },
+    {
+     "num": 114,
+     "name": "embil0013",
+     "type": "bitmap",
+     "w": 30,
+     "h": 22,
+     "regX": 10,
+     "regY": 13,
+     "bpp": 8,
+     "file": "114.png"
+    },
+    {
+     "num": 115,
+     "name": "embil0014",
+     "type": "bitmap",
+     "w": 28,
+     "h": 24,
+     "regX": 10,
+     "regY": 13,
+     "bpp": 8,
+     "file": "115.png"
+    },
+    {
+     "num": 116,
+     "name": "embil0015",
+     "type": "bitmap",
+     "w": 23,
+     "h": 24,
+     "regX": 9,
+     "regY": 12,
+     "bpp": 8,
+     "file": "116.png"
+    },
+    {
+     "num": 117,
+     "name": "embil0000",
+     "type": "bitmap",
+     "w": 16,
+     "h": 23,
+     "regX": 8,
+     "regY": 11,
+     "bpp": 8,
+     "file": "117.png"
+    },
+    {
+     "num": 118,
+     "name": "embil0001",
+     "type": "bitmap",
+     "w": 22,
+     "h": 24,
+     "regX": 13,
+     "regY": 12,
+     "bpp": 8,
+     "file": "118.png"
+    },
+    {
+     "num": 119,
+     "name": "embil0002",
+     "type": "bitmap",
+     "w": 28,
+     "h": 24,
+     "regX": 18,
+     "regY": 13,
+     "bpp": 8,
+     "file": "119.png"
+    },
+    {
+     "num": 120,
+     "name": "embil0003",
+     "type": "bitmap",
+     "w": 30,
+     "h": 22,
+     "regX": 20,
+     "regY": 13,
+     "bpp": 8,
+     "file": "120.png"
+    },
+    {
+     "num": 121,
+     "name": "embil0004",
+     "type": "bitmap",
+     "w": 29,
+     "h": 20,
+     "regX": 20,
+     "regY": 14,
+     "bpp": 8,
+     "file": "121.png"
+    },
+    {
+     "num": 122,
+     "name": "embil0005",
+     "type": "bitmap",
+     "w": 29,
+     "h": 21,
+     "regX": 19,
+     "regY": 15,
+     "bpp": 8,
+     "file": "122.png"
+    },
+    {
+     "num": 123,
+     "name": "embil0006",
+     "type": "bitmap",
+     "w": 27,
+     "h": 20,
+     "regX": 17,
+     "regY": 15,
+     "bpp": 8,
+     "file": "123.png"
+    },
+    {
+     "num": 124,
+     "name": "embil0007",
+     "type": "bitmap",
+     "w": 21,
+     "h": 20,
+     "regX": 12,
+     "regY": 15,
+     "bpp": 8,
+     "file": "124.png"
+    },
+    {
+     "num": 125,
+     "name": "embil0008",
+     "type": "bitmap",
+     "w": 14,
+     "h": 19,
+     "regX": 7,
+     "regY": 15,
+     "bpp": 8,
+     "file": "125.png"
+    },
+    {
+     "num": 126,
+     "name": "ang10009",
+     "type": "bitmap",
+     "w": 22,
+     "h": 25,
+     "regX": 10,
+     "regY": 18,
+     "bpp": 8,
+     "file": "126.png"
+    },
+    {
+     "num": 127,
+     "name": "ang10010",
+     "type": "bitmap",
+     "w": 26,
+     "h": 24,
+     "regX": 11,
+     "regY": 17,
+     "bpp": 8,
+     "file": "127.png"
+    },
+    {
+     "num": 128,
+     "name": "ang10011",
+     "type": "bitmap",
+     "w": 29,
+     "h": 22,
+     "regX": 11,
+     "regY": 16,
+     "bpp": 8,
+     "file": "128.png"
+    },
+    {
+     "num": 129,
+     "name": "ang10012",
+     "type": "bitmap",
+     "w": 28,
+     "h": 21,
+     "regX": 10,
+     "regY": 15,
+     "bpp": 8,
+     "file": "129.png"
+    },
+    {
+     "num": 130,
+     "name": "ang10013",
+     "type": "bitmap",
+     "w": 29,
+     "h": 21,
+     "regX": 11,
+     "regY": 15,
+     "bpp": 8,
+     "file": "130.png"
+    },
+    {
+     "num": 131,
+     "name": "ang10014",
+     "type": "bitmap",
+     "w": 28,
+     "h": 21,
+     "regX": 11,
+     "regY": 14,
+     "bpp": 8,
+     "file": "131.png"
+    },
+    {
+     "num": 132,
+     "name": "ang10015",
+     "type": "bitmap",
+     "w": 22,
+     "h": 21,
+     "regX": 9,
+     "regY": 13,
+     "bpp": 8,
+     "file": "132.png"
+    },
+    {
+     "num": 133,
+     "name": "ang10000",
+     "type": "bitmap",
+     "w": 16,
+     "h": 20,
+     "regX": 8,
+     "regY": 13,
+     "bpp": 8,
+     "file": "133.png"
+    },
+    {
+     "num": 134,
+     "name": "ang10001",
+     "type": "bitmap",
+     "w": 22,
+     "h": 21,
+     "regX": 13,
+     "regY": 13,
+     "bpp": 8,
+     "file": "134.png"
+    },
+    {
+     "num": 135,
+     "name": "ang10002",
+     "type": "bitmap",
+     "w": 28,
+     "h": 21,
+     "regX": 17,
+     "regY": 14,
+     "bpp": 8,
+     "file": "135.png"
+    },
+    {
+     "num": 136,
+     "name": "ang10003",
+     "type": "bitmap",
+     "w": 29,
+     "h": 20,
+     "regX": 18,
+     "regY": 14,
+     "bpp": 8,
+     "file": "136.png"
+    },
+    {
+     "num": 137,
+     "name": "ang10004",
+     "type": "bitmap",
+     "w": 28,
+     "h": 21,
+     "regX": 18,
+     "regY": 15,
+     "bpp": 8,
+     "file": "137.png"
+    },
+    {
+     "num": 138,
+     "name": "ang10005",
+     "type": "bitmap",
+     "w": 29,
+     "h": 22,
+     "regX": 18,
+     "regY": 16,
+     "bpp": 8,
+     "file": "138.png"
+    },
+    {
+     "num": 139,
+     "name": "ang10006",
+     "type": "bitmap",
+     "w": 27,
+     "h": 24,
+     "regX": 16,
+     "regY": 17,
+     "bpp": 8,
+     "file": "139.png"
+    },
+    {
+     "num": 140,
+     "name": "ang10007",
+     "type": "bitmap",
+     "w": 22,
+     "h": 25,
+     "regX": 12,
+     "regY": 18,
+     "bpp": 8,
+     "file": "140.png"
+    },
+    {
+     "num": 141,
+     "name": "ang10008",
+     "type": "bitmap",
+     "w": 15,
+     "h": 24,
+     "regX": 8,
+     "regY": 18,
+     "bpp": 8,
+     "file": "141.png"
+    },
+    {
+     "num": 142,
+     "name": "CarPic",
+     "type": "bitmap",
+     "w": 21,
+     "h": 29,
+     "regX": 10,
+     "regY": 20,
+     "bpp": 8,
+     "file": "142.png"
+    },
+    {
+     "num": 143,
+     "name": "ang20010",
+     "type": "bitmap",
+     "w": 26,
+     "h": 29,
+     "regX": 12,
+     "regY": 20,
+     "bpp": 8,
+     "file": "143.png"
+    },
+    {
+     "num": 144,
+     "name": "ang20011",
+     "type": "bitmap",
+     "w": 27,
+     "h": 26,
+     "regX": 12,
+     "regY": 18,
+     "bpp": 8,
+     "file": "144.png"
+    },
+    {
+     "num": 145,
+     "name": "ang20012",
+     "type": "bitmap",
+     "w": 26,
+     "h": 24,
+     "regX": 11,
+     "regY": 17,
+     "bpp": 8,
+     "file": "145.png"
+    },
+    {
+     "num": 146,
+     "name": "ang20013",
+     "type": "bitmap",
+     "w": 27,
+     "h": 21,
+     "regX": 12,
+     "regY": 15,
+     "bpp": 8,
+     "file": "146.png"
+    },
+    {
+     "num": 147,
+     "name": "ang20014",
+     "type": "bitmap",
+     "w": 26,
+     "h": 20,
+     "regX": 11,
+     "regY": 15,
+     "bpp": 8,
+     "file": "147.png"
+    },
+    {
+     "num": 148,
+     "name": "ang20015",
+     "type": "bitmap",
+     "w": 22,
+     "h": 19,
+     "regX": 10,
+     "regY": 15,
+     "bpp": 8,
+     "file": "148.png"
+    },
+    {
+     "num": 149,
+     "name": "ang20000",
+     "type": "bitmap",
+     "w": 16,
+     "h": 17,
+     "regX": 8,
+     "regY": 14,
+     "bpp": 8,
+     "file": "149.png"
+    },
+    {
+     "num": 150,
+     "name": "ang20001",
+     "type": "bitmap",
+     "w": 22,
+     "h": 19,
+     "regX": 12,
+     "regY": 15,
+     "bpp": 8,
+     "file": "150.png"
+    },
+    {
+     "num": 151,
+     "name": "ang20002",
+     "type": "bitmap",
+     "w": 27,
+     "h": 20,
+     "regX": 15,
+     "regY": 15,
+     "bpp": 8,
+     "file": "151.png"
+    },
+    {
+     "num": 152,
+     "name": "ang20003",
+     "type": "bitmap",
+     "w": 27,
+     "h": 21,
+     "regX": 15,
+     "regY": 15,
+     "bpp": 8,
+     "file": "152.png"
+    },
+    {
+     "num": 153,
+     "name": "ang20004",
+     "type": "bitmap",
+     "w": 26,
+     "h": 24,
+     "regX": 15,
+     "regY": 17,
+     "bpp": 8,
+     "file": "153.png"
+    },
+    {
+     "num": 154,
+     "name": "ang20005",
+     "type": "bitmap",
+     "w": 27,
+     "h": 26,
+     "regX": 15,
+     "regY": 18,
+     "bpp": 8,
+     "file": "154.png"
+    },
+    {
+     "num": 155,
+     "name": "ang20006",
+     "type": "bitmap",
+     "w": 26,
+     "h": 28,
+     "regX": 14,
+     "regY": 19,
+     "bpp": 8,
+     "file": "155.png"
+    },
+    {
+     "num": 156,
+     "name": "ang20007",
+     "type": "bitmap",
+     "w": 21,
+     "h": 29,
+     "regX": 11,
+     "regY": 20,
+     "bpp": 8,
+     "file": "156.png"
+    },
+    {
+     "num": 157,
+     "name": "CarPic",
+     "type": "bitmap",
+     "w": 15,
+     "h": 28,
+     "regX": 8,
+     "regY": 20,
+     "bpp": 8,
+     "file": "157.png"
+    },
+    {
+     "num": 161,
+     "name": "05n002v0",
+     "type": "bitmap",
+     "w": 13,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "161.png"
+    },
+    {
+     "num": 162,
+     "name": "02",
+     "type": "bitmap",
+     "w": 13,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "162.png"
+    },
+    {
+     "num": 163,
+     "name": "03",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "163.png"
+    },
+    {
+     "num": 164,
+     "name": "03",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "164.png"
+    },
+    {
+     "num": 165,
+     "name": "04",
+     "type": "bitmap",
+     "w": 16,
+     "h": 12,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "165.png"
+    },
+    {
+     "num": 166,
+     "name": "04",
+     "type": "bitmap",
+     "w": 16,
+     "h": 12,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "166.png"
+    },
+    {
+     "num": 167,
+     "name": "05",
+     "type": "bitmap",
+     "w": 16,
+     "h": 11,
+     "regX": 8,
+     "regY": 5,
+     "bpp": 1,
+     "file": "167.png"
+    },
+    {
+     "num": 168,
+     "name": "05",
+     "type": "bitmap",
+     "w": 16,
+     "h": 11,
+     "regX": 12,
+     "regY": 5,
+     "bpp": 1,
+     "file": "168.png"
+    },
+    {
+     "num": 169,
+     "name": "06",
+     "type": "bitmap",
+     "w": 16,
+     "h": 13,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "169.png"
+    },
+    {
+     "num": 170,
+     "name": "06",
+     "type": "bitmap",
+     "w": 16,
+     "h": 13,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "170.png"
+    },
+    {
+     "num": 171,
+     "name": "07",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "171.png"
+    },
+    {
+     "num": 172,
+     "name": "07",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "172.png"
+    },
+    {
+     "num": 173,
+     "name": "08",
+     "type": "bitmap",
+     "w": 12,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "173.png"
+    },
+    {
+     "num": 174,
+     "name": "08",
+     "type": "bitmap",
+     "w": 12,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "174.png"
+    },
+    {
+     "num": 175,
+     "name": "09",
+     "type": "bitmap",
+     "w": 11,
+     "h": 16,
+     "regX": 5,
+     "regY": 8,
+     "bpp": 1,
+     "file": "175.png"
+    },
+    {
+     "num": 176,
+     "name": "09",
+     "type": "bitmap",
+     "w": 11,
+     "h": 16,
+     "regX": 5,
+     "regY": 8,
+     "bpp": 1,
+     "file": "176.png"
+    },
+    {
+     "num": 177,
+     "name": "10",
+     "type": "bitmap",
+     "w": 12,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "177.png"
+    },
+    {
+     "num": 178,
+     "name": "10",
+     "type": "bitmap",
+     "w": 12,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "178.png"
+    },
+    {
+     "num": 179,
+     "name": "11",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "179.png"
+    },
+    {
+     "num": 180,
+     "name": "11",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "180.png"
+    },
+    {
+     "num": 181,
+     "name": "12",
+     "type": "bitmap",
+     "w": 16,
+     "h": 13,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "181.png"
+    },
+    {
+     "num": 182,
+     "name": "12",
+     "type": "bitmap",
+     "w": 16,
+     "h": 13,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "182.png"
+    },
+    {
+     "num": 183,
+     "name": "13",
+     "type": "bitmap",
+     "w": 16,
+     "h": 11,
+     "regX": 8,
+     "regY": 5,
+     "bpp": 1,
+     "file": "183.png"
+    },
+    {
+     "num": 184,
+     "name": "13",
+     "type": "bitmap",
+     "w": 16,
+     "h": 11,
+     "regX": 12,
+     "regY": 5,
+     "bpp": 1,
+     "file": "184.png"
+    },
+    {
+     "num": 185,
+     "name": "14",
+     "type": "bitmap",
+     "w": 16,
+     "h": 12,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "185.png"
+    },
+    {
+     "num": 186,
+     "name": "14",
+     "type": "bitmap",
+     "w": 16,
+     "h": 12,
+     "regX": 8,
+     "regY": 6,
+     "bpp": 1,
+     "file": "186.png"
+    },
+    {
+     "num": 187,
+     "name": "15",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "187.png"
+    },
+    {
+     "num": 188,
+     "name": "15",
+     "type": "bitmap",
+     "w": 15,
+     "h": 15,
+     "regX": 7,
+     "regY": 7,
+     "bpp": 1,
+     "file": "188.png"
+    },
+    {
+     "num": 189,
+     "name": "16",
+     "type": "bitmap",
+     "w": 13,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "189.png"
+    },
+    {
+     "num": 190,
+     "name": "16",
+     "type": "bitmap",
+     "w": 13,
+     "h": 16,
+     "regX": 6,
+     "regY": 8,
+     "bpp": 1,
+     "file": "190.png"
+    },
+    {
+     "num": 191,
+     "name": "01",
+     "type": "bitmap",
+     "w": 11,
+     "h": 16,
+     "regX": 5,
+     "regY": 8,
+     "bpp": 1,
+     "file": "191.png"
+    },
+    {
+     "num": 192,
+     "name": "01",
+     "type": "bitmap",
+     "w": 11,
+     "h": 16,
+     "regX": 5,
+     "regY": 8,
+     "bpp": 1,
+     "file": "192.png"
+    },
+    {
+     "num": 197,
+     "name": "ShowCarPic",
+     "type": "bitmap",
+     "w": 27,
+     "h": 19,
+     "regX": 8,
+     "regY": 13,
+     "bpp": 8,
+     "file": "197.png"
+    },
+    {
+     "num": 198,
+     "name": "embil0013",
+     "type": "bitmap",
+     "w": 28,
+     "h": 21,
+     "regX": 9,
+     "regY": 12,
+     "bpp": 8,
+     "file": "198.png"
+    },
+    {
+     "num": 199,
+     "name": "embil0014",
+     "type": "bitmap",
+     "w": 26,
+     "h": 23,
+     "regX": 9,
+     "regY": 12,
+     "bpp": 8,
+     "file": "199.png"
+    },
+    {
+     "num": 200,
+     "name": "embil0015",
+     "type": "bitmap",
+     "w": 21,
+     "h": 23,
+     "regX": 8,
+     "regY": 11,
+     "bpp": 8,
+     "file": "200.png"
+    },
+    {
+     "num": 201,
+     "name": "embil0000",
+     "type": "bitmap",
+     "w": 14,
+     "h": 21,
+     "regX": 7,
+     "regY": 10,
+     "bpp": 8,
+     "file": "201.png"
+    },
+    {
+     "num": 209,
+     "name": "05b001v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 55,
+     "bpp": 8,
+     "file": "209.png"
+    },
+    {
+     "num": 210,
+     "name": "05b002v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 49,
+     "bpp": 8,
+     "file": "210.png"
+    },
+    {
+     "num": 211,
+     "name": "05b003v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 56,
+     "bpp": 8,
+     "file": "211.png"
+    },
+    {
+     "num": 212,
+     "name": "05b004v0",
+     "type": "bitmap",
+     "w": 63,
+     "h": 51,
+     "regX": 31,
+     "regY": 50,
+     "bpp": 8,
+     "file": "212.png"
+    },
+    {
+     "num": 213,
+     "name": "05b005v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 56,
+     "bpp": 8,
+     "file": "213.png"
+    },
+    {
+     "num": 214,
+     "name": "05b006v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 50,
+     "bpp": 8,
+     "file": "214.png"
+    },
+    {
+     "num": 215,
+     "name": "05b007v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 56,
+     "bpp": 8,
+     "file": "215.png"
+    },
+    {
+     "num": 216,
+     "name": "05b008v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 50,
+     "bpp": 8,
+     "file": "216.png"
+    },
+    {
+     "num": 233,
+     "name": "05d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8,
+       "name": "talk"
+      },
+      {
+       "time": 733,
+       "name": "silence"
+      },
+      {
+       "time": 1066,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "233.wav",
+     "duration": 5.184
+    },
+    {
+     "num": 234,
+     "name": "05d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 833,
+       "name": "silence"
+      },
+      {
+       "time": 1210,
+       "name": "talk"
+      },
+      {
+       "time": 2424,
+       "name": "silence"
+      },
+      {
+       "time": 3116,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "234.wav",
+     "duration": 5.91
+    },
+    {
+     "num": 235,
+     "name": "05d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1841,
+       "name": "silence"
+      },
+      {
+       "time": 2416,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "235.wav",
+     "duration": 6.106
+    },
+    {
+     "num": 236,
+     "name": "05d004v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1108,
+       "name": "silence"
+      },
+      {
+       "time": 1520,
+       "name": "talk"
+      },
+      {
+       "time": 2849,
+       "name": "silence"
+      },
+      {
+       "time": 3200,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "236.wav",
+     "duration": 4.551
+    },
+    {
+     "num": 237,
+     "name": "05d005v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 966,
+       "name": "silence"
+      },
+      {
+       "time": 1324,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "237.wav",
+     "duration": 4.156
+    },
+    {
+     "num": 238,
+     "name": "05d006v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 3091,
+       "name": "silence"
+      },
+      {
+       "time": 3716,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "238.wav",
+     "duration": 7.105
+    },
+    {
+     "num": 239,
+     "name": "05d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 2554,
+       "name": "silence"
+      },
+      {
+       "time": 3158,
+       "name": "talk"
+      },
+      {
+       "time": 5283,
+       "name": "silence"
+      },
+      {
+       "time": 5641,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "239.wav",
+     "duration": 8.576
+    },
+    {
+     "num": 240,
+     "name": "05d008v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1216,
+       "name": "silence"
+      },
+      {
+       "time": 1616,
+       "name": "talk"
+      },
+      {
+       "time": 2883,
+       "name": "silence"
+      },
+      {
+       "time": 3249,
+       "name": "talk"
+      },
+      {
+       "time": 5116,
+       "name": "silence"
+      },
+      {
+       "time": 5633,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "240.wav",
+     "duration": 8.143
+    },
+    {
+     "num": 241,
+     "name": "05d009v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1424,
+       "name": "silence"
+      },
+      {
+       "time": 1904,
+       "name": "talk"
+      },
+      {
+       "time": 6874,
+       "name": "silence"
+      },
+      {
+       "time": 7741,
+       "name": "talk"
+      },
+      {
+       "time": 9941,
+       "name": "silence"
+      },
+      {
+       "time": 10263,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "241.wav",
+     "duration": 11.658
+    },
+    {
+     "num": 242,
+     "name": "05d010v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk "
+      },
+      {
+       "time": 1866,
+       "name": "Cue 3"
+      },
+      {
+       "time": 2658,
+       "name": "talk"
+      },
+      {
+       "time": 5456,
+       "name": "silence"
+      },
+      {
+       "time": 5933,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "242.wav",
+     "duration": 9.16
+    },
+    {
+     "num": 243,
+     "name": "05d011v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 946,
+       "name": "silence"
+      },
+      {
+       "time": 1258,
+       "name": "talk"
+      },
+      {
+       "time": 1859,
+       "name": "Cue 3"
+      },
+      {
+       "time": 3533,
+       "name": "silence"
+      },
+      {
+       "time": 4074,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "243.wav",
+     "duration": 5.721
+    },
+    {
+     "num": 244,
+     "name": "05d012v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1358,
+       "name": "silence"
+      },
+      {
+       "time": 1983,
+       "name": "talk"
+      },
+      {
+       "time": 3033,
+       "name": "silence"
+      },
+      {
+       "time": 3133,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "244.wav",
+     "duration": 3.953
+    },
+    {
+     "num": 245,
+     "name": "05d013v0",
+     "type": "sound",
+     "loop": false,
+     "file": "245.wav",
+     "duration": 3.327
+    },
+    {
+     "num": 246,
+     "name": "05d014v0",
+     "type": "sound",
+     "loop": false,
+     "file": "246.wav",
+     "duration": 5.428
+    },
+    {
+     "num": 247,
+     "name": "05d015v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "247.wav",
+     "duration": 9.346
+    },
+    {
+     "num": 248,
+     "name": "05d016v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "248.wav",
+     "duration": 6.884
+    },
+    {
+     "num": 249,
+     "name": "05d017v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "249.wav",
+     "duration": 5.601
+    },
+    {
+     "num": 265,
+     "name": "05e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "265.wav",
+     "duration": 0.701
+    },
+    {
+     "num": 266,
+     "name": "05e002v0",
+     "type": "sound",
+     "loop": false,
+     "file": "266.wav",
+     "duration": 0.701
+    },
+    {
+     "num": 269,
+     "name": "05e042v0",
+     "type": "sound",
+     "loop": false,
+     "file": "269.wav",
+     "duration": 1.634
+    },
+    {
+     "num": 270,
+     "name": "05e043v0",
+     "type": "sound",
+     "loop": false,
+     "file": "270.wav",
+     "duration": 2.586
+    },
+    {
+     "num": 271,
+     "name": "05e044v0",
+     "type": "sound",
+     "loop": false,
+     "file": "271.wav",
+     "duration": 1.753
+    },
+    {
+     "num": 272,
+     "name": "05e049v0",
+     "type": "sound",
+     "loop": false,
+     "file": "272.wav",
+     "duration": 0.662
+    },
+    {
+     "num": 273,
+     "name": "05e042v0",
+     "type": "sound",
+     "loop": false,
+     "file": "273.wav",
+     "duration": 1.667
+    },
+    {
+     "num": 274,
+     "name": "05e049v0",
+     "type": "sound",
+     "loop": false,
+     "file": "274.wav",
+     "duration": 1.144
+    },
+    {
+     "num": 275,
+     "name": "05e050V0",
+     "type": "sound",
+     "loop": false,
+     "file": "275.wav",
+     "duration": 2.171
+    },
+    {
+     "num": 292,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 294,
+     "name": "05e005v0",
+     "type": "sound",
+     "loop": true,
+     "file": "294.wav",
+     "duration": 1.66
+    },
+    {
+     "num": 295,
+     "name": "05e006v0",
+     "type": "sound",
+     "loop": true,
+     "file": "295.wav",
+     "duration": 1.787
+    },
+    {
+     "num": 296,
+     "name": "05e007v0",
+     "type": "sound",
+     "loop": true,
+     "file": "296.wav",
+     "duration": 0.809
+    },
+    {
+     "num": 297,
+     "name": "05e008v0",
+     "type": "sound",
+     "loop": true,
+     "file": "297.wav",
+     "duration": 0.732
+    },
+    {
+     "num": 298,
+     "name": "05e009v0",
+     "type": "sound",
+     "loop": true,
+     "file": "298.wav",
+     "duration": 0.548
+    },
+    {
+     "num": 299,
+     "name": "05e010v0",
+     "type": "sound",
+     "loop": false,
+     "file": "299.wav",
+     "duration": 1.964
+    },
+    {
+     "num": 301,
+     "name": "05e012v0",
+     "type": "sound",
+     "loop": true,
+     "file": "301.wav",
+     "duration": 1.453
+    },
+    {
+     "num": 302,
+     "name": "05e013v0",
+     "type": "sound",
+     "loop": true,
+     "file": "302.wav",
+     "duration": 1.119
+    },
+    {
+     "num": 303,
+     "name": "05e014v0",
+     "type": "sound",
+     "loop": true,
+     "file": "303.wav",
+     "duration": 3.123
+    },
+    {
+     "num": 304,
+     "name": "05e015v0",
+     "type": "sound",
+     "loop": true,
+     "file": "304.wav",
+     "duration": 1.506
+    },
+    {
+     "num": 305,
+     "name": "05e016v0",
+     "type": "sound",
+     "loop": true,
+     "file": "305.wav",
+     "duration": 1.128
+    },
+    {
+     "num": 306,
+     "name": "05e017v0",
+     "type": "sound",
+     "loop": false,
+     "file": "306.wav",
+     "duration": 2.386
+    },
+    {
+     "num": 308,
+     "name": "05e019v0",
+     "type": "sound",
+     "loop": true,
+     "file": "308.wav",
+     "duration": 3.913
+    },
+    {
+     "num": 309,
+     "name": "05e020v0",
+     "type": "sound",
+     "loop": true,
+     "file": "309.wav",
+     "duration": 2.868
+    },
+    {
+     "num": 310,
+     "name": "05e021v0",
+     "type": "sound",
+     "loop": true,
+     "file": "310.wav",
+     "duration": 3.053
+    },
+    {
+     "num": 311,
+     "name": "05e022v0",
+     "type": "sound",
+     "loop": true,
+     "file": "311.wav",
+     "duration": 3.111
+    },
+    {
+     "num": 312,
+     "name": "05e023v0",
+     "type": "sound",
+     "loop": true,
+     "file": "312.wav",
+     "duration": 2.077
+    },
+    {
+     "num": 313,
+     "name": "05e024v0",
+     "type": "sound",
+     "loop": false,
+     "file": "313.wav",
+     "duration": 5.619
+    },
+    {
+     "num": 315,
+     "name": "05e026v0",
+     "type": "sound",
+     "loop": true,
+     "file": "315.wav",
+     "duration": 3.396
+    },
+    {
+     "num": 316,
+     "name": "05e027v0",
+     "type": "sound",
+     "loop": true,
+     "file": "316.wav",
+     "duration": 3.065
+    },
+    {
+     "num": 317,
+     "name": "05e028v0",
+     "type": "sound",
+     "loop": true,
+     "file": "317.wav",
+     "duration": 2.972
+    },
+    {
+     "num": 318,
+     "name": "05e029v0",
+     "type": "sound",
+     "loop": true,
+     "file": "318.wav",
+     "duration": 3.053
+    },
+    {
+     "num": 319,
+     "name": "05e030v0",
+     "type": "sound",
+     "loop": true,
+     "file": "319.wav",
+     "duration": 2.786
+    },
+    {
+     "num": 320,
+     "name": "05e031v0",
+     "type": "sound",
+     "loop": false,
+     "file": "320.wav",
+     "duration": 1.495
+    },
+    {
+     "num": 322,
+     "name": "05e033v0",
+     "type": "sound",
+     "loop": true,
+     "file": "322.wav",
+     "duration": 2.995
+    },
+    {
+     "num": 323,
+     "name": "05e034v0",
+     "type": "sound",
+     "loop": true,
+     "file": "323.wav",
+     "duration": 2.961
+    },
+    {
+     "num": 324,
+     "name": "05e035v0",
+     "type": "sound",
+     "loop": true,
+     "file": "324.wav",
+     "duration": 2.372
+    },
+    {
+     "num": 325,
+     "name": "05e036v0",
+     "type": "sound",
+     "loop": true,
+     "file": "325.wav",
+     "duration": 2.648
+    },
+    {
+     "num": 326,
+     "name": "05e037v0",
+     "type": "sound",
+     "loop": true,
+     "file": "326.wav",
+     "duration": 1.984
+    },
+    {
+     "num": 327,
+     "name": "05e038v0",
+     "type": "sound",
+     "loop": false,
+     "file": "327.wav",
+     "duration": 3.675
+    },
+    {
+     "num": 333,
+     "name": "05e054v0",
+     "type": "sound",
+     "loop": true,
+     "file": "333.wav",
+     "duration": 11.505
+    },
+    {
+     "num": 334,
+     "name": "05e055v0",
+     "type": "sound",
+     "loop": true,
+     "file": "334.wav",
+     "duration": 2.645
+    },
+    {
+     "num": 335,
+     "name": "05e056v0",
+     "type": "sound",
+     "loop": true,
+     "file": "335.wav",
+     "duration": 1.718
+    },
+    {
+     "num": 336,
+     "name": "05e057v0",
+     "type": "sound",
+     "loop": true,
+     "file": "336.wav",
+     "duration": 2.694
+    },
+    {
+     "num": 337,
+     "name": "05e058v0",
+     "type": "sound",
+     "loop": true,
+     "file": "337.wav",
+     "duration": 1.33
+    },
+    {
+     "num": 338,
+     "name": "05e059v0",
+     "type": "sound",
+     "loop": false,
+     "file": "338.wav",
+     "duration": 2.229
+    },
+    {
+     "num": 340,
+     "name": "05e061v0",
+     "type": "sound",
+     "loop": true,
+     "file": "340.wav",
+     "duration": 2.316
+    },
+    {
+     "num": 341,
+     "name": "05e062v0",
+     "type": "sound",
+     "loop": true,
+     "file": "341.wav",
+     "duration": 2.473
+    },
+    {
+     "num": 342,
+     "name": "05e063v0",
+     "type": "sound",
+     "loop": true,
+     "file": "342.wav",
+     "duration": 11.889
+    },
+    {
+     "num": 343,
+     "name": "05e064v0",
+     "type": "sound",
+     "loop": true,
+     "file": "343.wav",
+     "duration": 3.158
+    },
+    {
+     "num": 344,
+     "name": "05e065v0",
+     "type": "sound",
+     "loop": true,
+     "file": "344.wav",
+     "duration": 2.506
+    },
+    {
+     "num": 345,
+     "name": "05e066v0",
+     "type": "sound",
+     "loop": false,
+     "file": "345.wav",
+     "duration": 6.255
+    },
+    {
+     "num": 347,
+     "name": "05e068v0",
+     "type": "sound",
+     "loop": false,
+     "file": "347.wav",
+     "duration": 1.265
+    },
+    {
+     "num": 348,
+     "name": "05e069v0",
+     "type": "sound",
+     "loop": true,
+     "file": "348.wav",
+     "duration": 0.929
+    },
+    {
+     "num": 349,
+     "name": "05e070v0",
+     "type": "sound",
+     "loop": true,
+     "file": "349.wav",
+     "duration": 0.758
+    },
+    {
+     "num": 350,
+     "name": "05e071v0",
+     "type": "sound",
+     "loop": true,
+     "file": "350.wav",
+     "duration": 0.604
+    },
+    {
+     "num": 351,
+     "name": "05e072v0",
+     "type": "sound",
+     "loop": true,
+     "file": "351.wav",
+     "duration": 0.497
+    },
+    {
+     "num": 352,
+     "name": "05e073v0",
+     "type": "sound",
+     "loop": false,
+     "file": "352.wav",
+     "duration": 1.265
+    },
+    {
+     "num": 354,
+     "name": "05e075v0",
+     "type": "sound",
+     "loop": true,
+     "file": "354.wav",
+     "duration": 4.238
+    },
+    {
+     "num": 355,
+     "name": "05e076v0",
+     "type": "sound",
+     "loop": true,
+     "file": "355.wav",
+     "duration": 4.418
+    },
+    {
+     "num": 356,
+     "name": "05e077v0",
+     "type": "sound",
+     "loop": true,
+     "file": "356.wav",
+     "duration": 4.563
+    },
+    {
+     "num": 357,
+     "name": "05e078v0",
+     "type": "sound",
+     "loop": true,
+     "file": "357.wav",
+     "duration": 4.226
+    },
+    {
+     "num": 358,
+     "name": "05e079v0",
+     "type": "sound",
+     "loop": false,
+     "file": "358.wav",
+     "duration": 3.715
+    },
+    {
+     "num": 359,
+     "name": "05e080v0",
+     "type": "sound",
+     "loop": false,
+     "file": "359.wav",
+     "duration": 2.485
+    },
+    {
+     "num": 365,
+     "name": "05e012v0",
+     "type": "sound",
+     "loop": true,
+     "file": "365.wav",
+     "duration": 0.492
+    },
+    {
+     "num": 366,
+     "name": "05e013v0",
+     "type": "sound",
+     "loop": true,
+     "file": "366.wav",
+     "duration": 0.259
+    },
+    {
+     "num": 367,
+     "name": "05e014v0",
+     "type": "sound",
+     "loop": true,
+     "file": "367.wav",
+     "duration": 0.362
+    },
+    {
+     "num": 368,
+     "name": "05e015v0",
+     "type": "sound",
+     "loop": true,
+     "file": "368.wav",
+     "duration": 0.195
+    },
+    {
+     "num": 369,
+     "name": "05e016v0",
+     "type": "sound",
+     "loop": true,
+     "file": "369.wav",
+     "duration": 0.205
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 11,
+   "name": "Leave"
+  },
+  {
+   "frame": 17,
+   "name": "GoHome"
+  },
+  {
+   "frame": 24,
+   "name": "08"
+  }
+ ]
+}

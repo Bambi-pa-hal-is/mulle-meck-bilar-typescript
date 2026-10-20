@@ -1,0 +1,41 @@
+{
+ "file": "MOVIES/UNLOAD.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "left"
+  },
+  {
+   "frame": 10,
+   "name": "right"
+  }
+ ]
+}

@@ -1,0 +1,937 @@
+{
+ "file": "Plugins/66.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 2,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 4,
+     "name": "MovieScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 5,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 6,
+     "name": "Parent CanStack",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 7,
+     "name": "GivePart",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 8,
+     "name": "PluginGameDB(dummy)",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[612,620,629,664,689]"
+    },
+    {
+     "num": 9,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 10,
+     "name": "Synk Sound pilar",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 11,
+     "name": "PluginGameDB",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[601,602,603,604,605,606,607]"
+    },
+    {
+     "num": 12,
+     "name": "CursorSpriteBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 13,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 14,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 15,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 18,
+     "name": "TittAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#suck:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1,1]], #Paths:[]]"
+    },
+    {
+     "num": 25,
+     "name": "66b002v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "25.png"
+    },
+    {
+     "num": 26,
+     "name": "StuffToGetScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 27,
+     "name": "GameDummy",
+     "type": "bitmap",
+     "w": 1,
+     "h": 1,
+     "regX": 1,
+     "regY": 0,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 33,
+     "name": "66b005v0",
+     "type": "bitmap",
+     "w": 197,
+     "h": 134,
+     "regX": 98,
+     "regY": 67,
+     "bpp": 8,
+     "file": "33.png"
+    },
+    {
+     "num": 34,
+     "name": "66b006v0",
+     "type": "bitmap",
+     "w": 132,
+     "h": 108,
+     "regX": 66,
+     "regY": 54,
+     "bpp": 8,
+     "file": "34.png"
+    },
+    {
+     "num": 35,
+     "name": "66b007v0",
+     "type": "bitmap",
+     "w": 129,
+     "h": 81,
+     "regX": 64,
+     "regY": 40,
+     "bpp": 8,
+     "file": "35.png"
+    },
+    {
+     "num": 36,
+     "name": "66b004v0",
+     "type": "bitmap",
+     "w": 82,
+     "h": 61,
+     "regX": 41,
+     "regY": 30,
+     "bpp": 8,
+     "file": "36.png"
+    },
+    {
+     "num": 37,
+     "name": "66b003v0",
+     "type": "bitmap",
+     "w": 43,
+     "h": 44,
+     "regX": 21,
+     "regY": 22,
+     "bpp": 8,
+     "file": "37.png"
+    },
+    {
+     "num": 38,
+     "name": "66d001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "38.wav",
+     "duration": 4.412
+    },
+    {
+     "num": 39,
+     "name": "66d002v0",
+     "type": "sound",
+     "loop": false,
+     "file": "39.wav",
+     "duration": 8.847
+    },
+    {
+     "num": 40,
+     "name": "66d003v0",
+     "type": "sound",
+     "loop": false,
+     "file": "40.wav",
+     "duration": 18.222
+    },
+    {
+     "num": 41,
+     "name": "66d004v0",
+     "type": "sound",
+     "loop": false,
+     "file": "41.wav",
+     "duration": 9.799
+    },
+    {
+     "num": 42,
+     "name": "66d005v0",
+     "type": "sound",
+     "loop": false,
+     "file": "42.wav",
+     "duration": 8.777
+    },
+    {
+     "num": 45,
+     "name": "06b007v0",
+     "type": "bitmap",
+     "w": 37,
+     "h": 52,
+     "regX": 18,
+     "regY": 26,
+     "bpp": 8,
+     "file": "45.png"
+    },
+    {
+     "num": 46,
+     "name": "Go leave",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 51,
+     "name": "84d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 2274,
+       "name": "silence"
+      },
+      {
+       "time": 2874,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "51.wav",
+     "duration": 1.675
+    },
+    {
+     "num": 52,
+     "name": "P09ef001",
+     "type": "sound",
+     "loop": false,
+     "file": "52.wav",
+     "duration": 1.162
+    },
+    {
+     "num": 53,
+     "name": "P09ef004",
+     "type": "sound",
+     "loop": false,
+     "file": "53.wav",
+     "duration": 0.072
+    },
+    {
+     "num": 54,
+     "name": "P09ef005",
+     "type": "sound",
+     "loop": false,
+     "file": "54.wav",
+     "duration": 0.165
+    },
+    {
+     "num": 55,
+     "name": "P36ef004",
+     "type": "sound",
+     "loop": false,
+     "file": "55.wav",
+     "duration": 0.045
+    },
+    {
+     "num": 56,
+     "name": "P36ef008",
+     "type": "sound",
+     "loop": false,
+     "file": "56.wav",
+     "duration": 0.351
+    },
+    {
+     "num": 57,
+     "name": "Kran1",
+     "type": "bitmap",
+     "w": 230,
+     "h": 150,
+     "regX": 200,
+     "regY": 233,
+     "bpp": 8,
+     "file": "57.png"
+    },
+    {
+     "num": 58,
+     "name": "Kran2",
+     "type": "bitmap",
+     "w": 47,
+     "h": 154,
+     "regX": 12,
+     "regY": 237,
+     "bpp": 8,
+     "file": "58.png"
+    },
+    {
+     "num": 59,
+     "name": "Kran3",
+     "type": "bitmap",
+     "w": 237,
+     "h": 150,
+     "regX": 26,
+     "regY": 230,
+     "bpp": 8,
+     "file": "59.png"
+    },
+    {
+     "num": 68,
+     "name": "NeighbourAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1], #Wait:[[#RndHold, 0, 10, 44], #Blink], #Talk:[2,3,[#RndFrame, [1,2,3,4]],4,5], #Blink:[6]], #Paths:[]]"
+    },
+    {
+     "num": 69,
+     "name": "01",
+     "type": "bitmap",
+     "w": 78,
+     "h": 220,
+     "regX": -85,
+     "regY": 78,
+     "bpp": 8,
+     "file": "69.png"
+    },
+    {
+     "num": 70,
+     "name": "Granne1",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "70.png"
+    },
+    {
+     "num": 71,
+     "name": "03",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "71.png"
+    },
+    {
+     "num": 72,
+     "name": "04",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "72.png"
+    },
+    {
+     "num": 73,
+     "name": "05",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "73.png"
+    },
+    {
+     "num": 74,
+     "name": "06",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "74.png"
+    },
+    {
+     "num": 75,
+     "name": "07",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "75.png"
+    },
+    {
+     "num": 76,
+     "name": "08",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "76.png"
+    },
+    {
+     "num": 77,
+     "name": "09",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "77.png"
+    },
+    {
+     "num": 78,
+     "name": "02",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "78.png"
+    },
+    {
+     "num": 81,
+     "name": "platta",
+     "type": "bitmap",
+     "w": 259,
+     "h": 163,
+     "regX": 129,
+     "regY": 119,
+     "bpp": 8,
+     "file": "81.png"
+    },
+    {
+     "num": 82,
+     "name": "05b001v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 55,
+     "bpp": 8,
+     "file": "82.png"
+    },
+    {
+     "num": 83,
+     "name": "05b002v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 49,
+     "bpp": 8,
+     "file": "83.png"
+    },
+    {
+     "num": 84,
+     "name": "05b003v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 56,
+     "bpp": 8,
+     "file": "84.png"
+    },
+    {
+     "num": 85,
+     "name": "05b004v0",
+     "type": "bitmap",
+     "w": 63,
+     "h": 51,
+     "regX": 31,
+     "regY": 50,
+     "bpp": 8,
+     "file": "85.png"
+    },
+    {
+     "num": 86,
+     "name": "05b005v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 56,
+     "bpp": 8,
+     "file": "86.png"
+    },
+    {
+     "num": 87,
+     "name": "05b006v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 50,
+     "bpp": 8,
+     "file": "87.png"
+    },
+    {
+     "num": 88,
+     "name": "05b007v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 57,
+     "regX": 30,
+     "regY": 56,
+     "bpp": 8,
+     "file": "88.png"
+    },
+    {
+     "num": 89,
+     "name": "05b008v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 50,
+     "bpp": 8,
+     "file": "89.png"
+    },
+    {
+     "num": 91,
+     "name": "05b002v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 49,
+     "bpp": 8,
+     "file": "91.png"
+    },
+    {
+     "num": 92,
+     "name": "05b004v0",
+     "type": "bitmap",
+     "w": 63,
+     "h": 51,
+     "regX": 31,
+     "regY": 50,
+     "bpp": 8,
+     "file": "92.png"
+    },
+    {
+     "num": 93,
+     "name": "05b006v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 50,
+     "bpp": 8,
+     "file": "93.png"
+    },
+    {
+     "num": 94,
+     "name": "05b008v0",
+     "type": "bitmap",
+     "w": 61,
+     "h": 51,
+     "regX": 30,
+     "regY": 50,
+     "bpp": 8,
+     "file": "94.png"
+    },
+    {
+     "num": 97,
+     "name": "MulleGameAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1], #Wait:[1, #Still], #Talk:[1,2,3,4,5,6,7,8],#TalkToMe:[9,10,11,12,13,14,15,16,17,18]], #Paths:[#Test:[point(100,100), point(200,200)]]]"
+    },
+    {
+     "num": 98,
+     "name": "StartL",
+     "type": "bitmap",
+     "w": 45,
+     "h": 48,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "98.png"
+    },
+    {
+     "num": 99,
+     "name": "28",
+     "type": "bitmap",
+     "w": 44,
+     "h": 46,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "99.png"
+    },
+    {
+     "num": 100,
+     "name": "29",
+     "type": "bitmap",
+     "w": 44,
+     "h": 46,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "100.png"
+    },
+    {
+     "num": 101,
+     "name": "30",
+     "type": "bitmap",
+     "w": 44,
+     "h": 45,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "101.png"
+    },
+    {
+     "num": 102,
+     "name": "31",
+     "type": "bitmap",
+     "w": 44,
+     "h": 45,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "102.png"
+    },
+    {
+     "num": 103,
+     "name": "32",
+     "type": "bitmap",
+     "w": 44,
+     "h": 45,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "103.png"
+    },
+    {
+     "num": 104,
+     "name": "33",
+     "type": "bitmap",
+     "w": 44,
+     "h": 45,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "104.png"
+    },
+    {
+     "num": 105,
+     "name": "34",
+     "type": "bitmap",
+     "w": 44,
+     "h": 45,
+     "regX": 4,
+     "regY": 88,
+     "bpp": 8,
+     "file": "105.png"
+    },
+    {
+     "num": 106,
+     "name": "00a008v2",
+     "type": "bitmap",
+     "w": 42,
+     "h": 51,
+     "regX": 1,
+     "regY": 91,
+     "bpp": 8,
+     "file": "106.png"
+    },
+    {
+     "num": 107,
+     "name": "19",
+     "type": "bitmap",
+     "w": 44,
+     "h": 51,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "107.png"
+    },
+    {
+     "num": 108,
+     "name": "20",
+     "type": "bitmap",
+     "w": 44,
+     "h": 51,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "108.png"
+    },
+    {
+     "num": 109,
+     "name": "21",
+     "type": "bitmap",
+     "w": 43,
+     "h": 50,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "109.png"
+    },
+    {
+     "num": 110,
+     "name": "22",
+     "type": "bitmap",
+     "w": 43,
+     "h": 49,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "110.png"
+    },
+    {
+     "num": 111,
+     "name": "23",
+     "type": "bitmap",
+     "w": 43,
+     "h": 49,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "111.png"
+    },
+    {
+     "num": 112,
+     "name": "24",
+     "type": "bitmap",
+     "w": 43,
+     "h": 50,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "112.png"
+    },
+    {
+     "num": 113,
+     "name": "25",
+     "type": "bitmap",
+     "w": 43,
+     "h": 50,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "113.png"
+    },
+    {
+     "num": 114,
+     "name": "26",
+     "type": "bitmap",
+     "w": 43,
+     "h": 50,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "114.png"
+    },
+    {
+     "num": 115,
+     "name": "27",
+     "type": "bitmap",
+     "w": 43,
+     "h": 50,
+     "regX": 3,
+     "regY": 91,
+     "bpp": 8,
+     "file": "115.png"
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 5,
+   "name": "New Marker"
+  },
+  {
+   "frame": 6,
+   "name": "Intro"
+  },
+  {
+   "frame": 7,
+   "name": "GameIntro"
+  },
+  {
+   "frame": 18,
+   "name": "StartGame"
+  },
+  {
+   "frame": 19,
+   "name": "Game"
+  },
+  {
+   "frame": 24,
+   "name": "Give"
+  },
+  {
+   "frame": 30,
+   "name": "Prata"
+  },
+  {
+   "frame": 34,
+   "name": "Pause"
+  },
+  {
+   "frame": 40,
+   "name": "Tillbaka"
+  },
+  {
+   "frame": 47,
+   "name": "Leave"
+  },
+  {
+   "frame": 53,
+   "name": "NoGive"
+  },
+  {
+   "frame": 60,
+   "name": "Leave"
+  }
+ ]
+}

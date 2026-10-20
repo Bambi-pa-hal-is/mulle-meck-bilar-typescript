@@ -1,0 +1,2728 @@
+{
+ "file": "MOVIES/03.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 2,
+     "name": "PartsCommon",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 4,
+     "name": "MovieController",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 5,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 7,
+     "name": "",
+     "type": "shape",
+     "spec": "0001000000000075002900010000000105"
+    },
+    {
+     "num": 8,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "DrawJunkBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 10,
+     "name": "FloorPartBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 11,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 12,
+     "name": "MouseCheck",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 13,
+     "name": "DragPartBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 14,
+     "name": "CarPartBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 15,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 16,
+     "name": "FetchCarBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 17,
+     "name": "SafeDragScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 18,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 19,
+     "name": "SaveCarBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 20,
+     "name": "DoorBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 21,
+     "name": "GaragePortBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 22,
+     "name": "",
+     "type": "transition",
+     "spec": "0004090200fa"
+    },
+    {
+     "num": 23,
+     "name": "MulleShopBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 24,
+     "name": "mikroShopBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 25,
+     "name": "",
+     "type": "script",
+     "scriptType": "score"
+    },
+    {
+     "num": 26,
+     "name": "Highlight_BH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 28,
+     "name": "mikroCar",
+     "type": "sound",
+     "loop": false,
+     "cues": [],
+     "file": "28.wav",
+     "duration": 2.308
+    },
+    {
+     "num": 29,
+     "name": "CursorBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 30,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 31,
+     "name": "helpdot",
+     "type": "bitmap",
+     "w": 11,
+     "h": 12,
+     "regX": 5,
+     "regY": 6,
+     "bpp": 8,
+     "file": "31.png"
+    },
+    {
+     "num": 32,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 33,
+     "name": "03b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "33.png"
+    },
+    {
+     "num": 34,
+     "name": "02",
+     "type": "bitmap",
+     "w": 94,
+     "h": 154,
+     "regX": -154,
+     "regY": 228,
+     "bpp": 8,
+     "file": "34.png"
+    },
+    {
+     "num": 35,
+     "name": "open1",
+     "type": "bitmap",
+     "w": 35,
+     "h": 150,
+     "regX": -212,
+     "regY": 228,
+     "bpp": 8,
+     "file": "35.png"
+    },
+    {
+     "num": 36,
+     "name": "02",
+     "type": "bitmap",
+     "w": 48,
+     "h": 284,
+     "regX": 320,
+     "regY": 219,
+     "bpp": 8,
+     "file": "36.png"
+    },
+    {
+     "num": 37,
+     "name": "open2",
+     "type": "bitmap",
+     "w": 47,
+     "h": 220,
+     "regX": 320,
+     "regY": 220,
+     "bpp": 8,
+     "file": "37.png"
+    },
+    {
+     "num": 38,
+     "name": "02",
+     "type": "bitmap",
+     "w": 30,
+     "h": 192,
+     "regX": 250,
+     "regY": 215,
+     "bpp": 8,
+     "file": "38.png"
+    },
+    {
+     "num": 39,
+     "name": "open3",
+     "type": "bitmap",
+     "w": 29,
+     "h": 149,
+     "regX": 251,
+     "regY": 213,
+     "bpp": 8,
+     "file": "39.png"
+    },
+    {
+     "num": 40,
+     "name": "02e011v0",
+     "type": "sound",
+     "loop": false,
+     "file": "40.wav",
+     "duration": 0.344
+    },
+    {
+     "num": 44,
+     "name": "figgeClick",
+     "type": "shape",
+     "spec": "00010000000001e302800001ff00000105"
+    },
+    {
+     "num": 45,
+     "name": "interuptFiggeBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 78,
+     "name": "BuffaShopAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Wait:[[#RndHold,1,30,60],#Shrug,#Shrug,#Shrug,#Shrug,#Shrug,#Shrug,#Shrug,#Shrug,#Shrug,#Shrug],#Shrug:[41,41,42,42],#GetDown:[41,41,[#Sound,[\"00e031v0\"]],42,42,42,42,43,43,44,44,45,45],#GetUp:[45,45,44,44,43,43,42,42,41,41],#Sleep:[[#RndHold,46,12,18],47,47,47,47]],#Paths:[#Test:[point(0,0),point(0,0)]]]"
+    },
+    {
+     "num": 79,
+     "name": "FiggeAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#freeze:[5],#Talk:[9,8,7,6,7,8,9,10,11,10,9,10,9,12,13], #ComeIn:[1,2,3,4,5], #GoOut:[5,4,3,3,2,1]], #Paths:[#Test:[point(100,100), point(200,200)]]]\n\n\n"
+    },
+    {
+     "num": 80,
+     "name": "FiggeShopBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 81,
+     "name": "Figge_start",
+     "type": "bitmap",
+     "w": 7,
+     "h": 15,
+     "regX": -154,
+     "regY": 207,
+     "bpp": 8,
+     "file": "81.png"
+    },
+    {
+     "num": 82,
+     "name": "02",
+     "type": "bitmap",
+     "w": 14,
+     "h": 87,
+     "regX": -154,
+     "regY": 217,
+     "bpp": 8,
+     "file": "82.png"
+    },
+    {
+     "num": 83,
+     "name": "03",
+     "type": "bitmap",
+     "w": 20,
+     "h": 113,
+     "regX": -154,
+     "regY": 218,
+     "bpp": 8,
+     "file": "83.png"
+    },
+    {
+     "num": 84,
+     "name": "04",
+     "type": "bitmap",
+     "w": 29,
+     "h": 112,
+     "regX": -153,
+     "regY": 219,
+     "bpp": 8,
+     "file": "84.png"
+    },
+    {
+     "num": 85,
+     "name": "05",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "85.png"
+    },
+    {
+     "num": 86,
+     "name": "01",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "86.png"
+    },
+    {
+     "num": 87,
+     "name": "02",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "87.png"
+    },
+    {
+     "num": 88,
+     "name": "03",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "88.png"
+    },
+    {
+     "num": 89,
+     "name": "04",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "89.png"
+    },
+    {
+     "num": 90,
+     "name": "05",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "90.png"
+    },
+    {
+     "num": 91,
+     "name": "06",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "91.png"
+    },
+    {
+     "num": 92,
+     "name": "07",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "92.png"
+    },
+    {
+     "num": 93,
+     "name": "08",
+     "type": "bitmap",
+     "w": 30,
+     "h": 113,
+     "regX": -153,
+     "regY": 220,
+     "bpp": 8,
+     "file": "93.png"
+    },
+    {
+     "num": 94,
+     "name": "BuffaShopBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 100,
+     "name": "03b002v0",
+     "type": "bitmap",
+     "w": 720,
+     "h": 540,
+     "regX": 360,
+     "regY": 270,
+     "bpp": 8,
+     "file": "100.png"
+    },
+    {
+     "num": 101,
+     "name": "03b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "101.png"
+    },
+    {
+     "num": 102,
+     "name": "03b003v0",
+     "type": "bitmap",
+     "w": 47,
+     "h": 57,
+     "regX": 204,
+     "regY": 189,
+     "bpp": 8,
+     "file": "102.png"
+    },
+    {
+     "num": 103,
+     "name": "03b004v0",
+     "type": "bitmap",
+     "w": 60,
+     "h": 37,
+     "regX": -58,
+     "regY": 203,
+     "bpp": 8,
+     "file": "103.png"
+    },
+    {
+     "num": 104,
+     "name": "03b006v0",
+     "type": "bitmap",
+     "w": 54,
+     "h": 42,
+     "regX": -263,
+     "regY": 184,
+     "bpp": 8,
+     "file": "104.png"
+    },
+    {
+     "num": 105,
+     "name": "03b005v0",
+     "type": "bitmap",
+     "w": 72,
+     "h": 68,
+     "regX": 137,
+     "regY": 240,
+     "bpp": 8,
+     "file": "105.png"
+    },
+    {
+     "num": 106,
+     "name": "",
+     "type": "shape",
+     "spec": "000100000000001700300001ff00000105"
+    },
+    {
+     "num": 107,
+     "name": "03e009v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "Loop"
+      },
+      {
+       "time": 0,
+       "name": "Loop"
+      },
+      {
+       "time": 0,
+       "name": "Loop"
+      },
+      {
+       "time": 0,
+       "name": "Loop"
+      },
+      {
+       "time": 10687,
+       "name": "Loop"
+      },
+      {
+       "time": 10687,
+       "name": "Loop"
+      },
+      {
+       "time": 10687,
+       "name": "Loop"
+      },
+      {
+       "time": 10687,
+       "name": "Loop"
+      }
+     ],
+     "file": "107.wav",
+     "duration": 3.757
+    },
+    {
+     "num": 108,
+     "name": "03e010v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "Loop"
+      },
+      {
+       "time": 0,
+       "name": "Loop"
+      },
+      {
+       "time": 7029,
+       "name": "Loop"
+      },
+      {
+       "time": 7029,
+       "name": "Loop"
+      }
+     ],
+     "file": "108.wav",
+     "duration": 2.81
+    },
+    {
+     "num": 109,
+     "name": "",
+     "type": "shape",
+     "spec": "000100000000008000300001ff00000105"
+    },
+    {
+     "num": 127,
+     "name": "raveAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Wait:[[#RndHold,17,30,60],#Scratch,#Scratch,#ScratchHead],  #Scratch:[2,3,4,5,[#Sound,[\"00e029v0\"]],6,5,6,5,4,3,2,1], #ScratchHead:[7,8,9,10,[#RndHold,11,1,5],[#Sound,[\"00e030v0\"]],12,11,12,11,10,9,8,7,1], #LookAround:[13,13,13,13,13,13,13,13,13,13,13,13,14,15,15,15,15,15,15,15,15,14,14,1], #Dance:[24,25,26,25,24,25,26,27,26,25], #Work:[22,22,23,23], #GoBack:[24,25,26,27,28,29,30,31,32,33,34,35],#Freeze:[45], #OpenDoor:[35,36,37,38,39,40,41,42,43,44,44,44,44], #Talk:[17,19,20,21,22,23,24,25], #LookUnderCar:[33,34,35,36,37,[#Sound,[\"03d047v0\",\"03d048v0\",\"03d049v0\",\"03d050v0\",\"03d051v0\"]],[#RndHold,38,30,45],36,35,34,33,32]], #Paths:[#Test:[point(100,100),point(200,200)]]]"
+    },
+    {
+     "num": 128,
+     "name": "talkToMeAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Wait:[[#RndHold,17,30,60],#Scratch,#Scratch,#ScratchHead],  #Scratch:[2,3,4,5,[#Sound,[\"00e029v0\"]],6,5,6,5,4,3,2,1], #ScratchHead:[7,8,9,10,[#RndHold,11,1,5],[#Sound,[\"00e030v0\"]],12,11,12,11,10,9,8,7,1], #LookAround:[13,13,13,13,13,13,13,13,13,13,13,13,14,15,15,15,15,15,15,15,15,14,14,1], #GoTable:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22], #Work:[22,22,23,23], #GoBack:[24,25,26,27,28,29,30,31,32,33,34,35],#Freeze:[45], #OpenDoor:[35,36,37,38,39,40,41,42,43,44,44,44,44], #Talk:[17,19,20,21,22,23,24,25], #LookUnderCar:[33,34,35,36,37,[#Sound,[\"03d047v0\",\"03d048v0\",\"03d049v0\",\"03d050v0\",\"03d051v0\"]],[#RndHold,38,30,45],36,35,34,33,32]], #Paths:[#Test:[point(100,100),point(200,200)]]]"
+    },
+    {
+     "num": 129,
+     "name": "VerkstadAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Wait:[[#RndHold,1,60,120],#Scratch,#Scratch,#ScratchHead], #Talk:[26,27,28,29,30,31,32], #Scratch:[2,3,4,5,6,5,6,5,4,3,2,1], #ScratchHead:[7,8,9,10,[#RndHold,11,1,5],12,11,12,11,10,9,8,7,1], #LookAround:[13,13,13,13,13,13,13,13,13,13,13,13,14,15,15,15,15,15,15,15,15,14,14,1], #GoTable:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22], #Work:[22,22,23,23], #GoBack:[24,25,26,27,28,29,30,31,32,33,34,35],#Freeze:[45], #OpenDoor:[35,36,37,38,39,40,41,42,43,44,44,44,44], #LookUnderCar:[33,34,35,36,37,[#Sound,[\"03d047v0\",\"03d048v0\",\"03d049v0\",\"03d050v0\",\"03d051v0\"]],[#RndHold,38,30,45],36,35,34,33,32]], #Paths:[#Test:[point(100,100),point(200,200)]]]"
+    },
+    {
+     "num": 130,
+     "name": "03a003v0",
+     "type": "bitmap",
+     "w": 73,
+     "h": 227,
+     "regX": 57,
+     "regY": 95,
+     "bpp": 8,
+     "file": "130.png"
+    },
+    {
+     "num": 131,
+     "name": "02",
+     "type": "bitmap",
+     "w": 98,
+     "h": 218,
+     "regX": 43,
+     "regY": 103,
+     "bpp": 8,
+     "file": "131.png"
+    },
+    {
+     "num": 132,
+     "name": "03",
+     "type": "bitmap",
+     "w": 98,
+     "h": 218,
+     "regX": 42,
+     "regY": 103,
+     "bpp": 8,
+     "file": "132.png"
+    },
+    {
+     "num": 133,
+     "name": "04",
+     "type": "bitmap",
+     "w": 92,
+     "h": 221,
+     "regX": 28,
+     "regY": 106,
+     "bpp": 8,
+     "file": "133.png"
+    },
+    {
+     "num": 134,
+     "name": "05",
+     "type": "bitmap",
+     "w": 95,
+     "h": 219,
+     "regX": 29,
+     "regY": 105,
+     "bpp": 8,
+     "file": "134.png"
+    },
+    {
+     "num": 135,
+     "name": "06",
+     "type": "bitmap",
+     "w": 84,
+     "h": 214,
+     "regX": 7,
+     "regY": 111,
+     "bpp": 8,
+     "file": "135.png"
+    },
+    {
+     "num": 136,
+     "name": "07",
+     "type": "bitmap",
+     "w": 89,
+     "h": 212,
+     "regX": 1,
+     "regY": 109,
+     "bpp": 8,
+     "file": "136.png"
+    },
+    {
+     "num": 137,
+     "name": "08",
+     "type": "bitmap",
+     "w": 85,
+     "h": 211,
+     "regX": 2,
+     "regY": 116,
+     "bpp": 8,
+     "file": "137.png"
+    },
+    {
+     "num": 138,
+     "name": "09",
+     "type": "bitmap",
+     "w": 85,
+     "h": 191,
+     "regX": 1,
+     "regY": 119,
+     "bpp": 8,
+     "file": "138.png"
+    },
+    {
+     "num": 139,
+     "name": "10",
+     "type": "bitmap",
+     "w": 82,
+     "h": 194,
+     "regX": 0,
+     "regY": 122,
+     "bpp": 8,
+     "file": "139.png"
+    },
+    {
+     "num": 140,
+     "name": "11",
+     "type": "bitmap",
+     "w": 81,
+     "h": 190,
+     "regX": 1,
+     "regY": 124,
+     "bpp": 8,
+     "file": "140.png"
+    },
+    {
+     "num": 141,
+     "name": "12",
+     "type": "bitmap",
+     "w": 80,
+     "h": 176,
+     "regX": 1,
+     "regY": 125,
+     "bpp": 8,
+     "file": "141.png"
+    },
+    {
+     "num": 142,
+     "name": "13",
+     "type": "bitmap",
+     "w": 78,
+     "h": 175,
+     "regX": 0,
+     "regY": 124,
+     "bpp": 8,
+     "file": "142.png"
+    },
+    {
+     "num": 143,
+     "name": "14",
+     "type": "bitmap",
+     "w": 79,
+     "h": 173,
+     "regX": 0,
+     "regY": 125,
+     "bpp": 8,
+     "file": "143.png"
+    },
+    {
+     "num": 144,
+     "name": "15",
+     "type": "bitmap",
+     "w": 74,
+     "h": 157,
+     "regX": -6,
+     "regY": 124,
+     "bpp": 8,
+     "file": "144.png"
+    },
+    {
+     "num": 145,
+     "name": "16",
+     "type": "bitmap",
+     "w": 76,
+     "h": 160,
+     "regX": -6,
+     "regY": 127,
+     "bpp": 8,
+     "file": "145.png"
+    },
+    {
+     "num": 146,
+     "name": "17",
+     "type": "bitmap",
+     "w": 77,
+     "h": 154,
+     "regX": -11,
+     "regY": 130,
+     "bpp": 8,
+     "file": "146.png"
+    },
+    {
+     "num": 147,
+     "name": "18",
+     "type": "bitmap",
+     "w": 70,
+     "h": 150,
+     "regX": -28,
+     "regY": 132,
+     "bpp": 8,
+     "file": "147.png"
+    },
+    {
+     "num": 148,
+     "name": "19",
+     "type": "bitmap",
+     "w": 65,
+     "h": 162,
+     "regX": -36,
+     "regY": 144,
+     "bpp": 8,
+     "file": "148.png"
+    },
+    {
+     "num": 149,
+     "name": "20",
+     "type": "bitmap",
+     "w": 66,
+     "h": 159,
+     "regX": -38,
+     "regY": 147,
+     "bpp": 8,
+     "file": "149.png"
+    },
+    {
+     "num": 150,
+     "name": "21",
+     "type": "bitmap",
+     "w": 65,
+     "h": 155,
+     "regX": -39,
+     "regY": 151,
+     "bpp": 8,
+     "file": "150.png"
+    },
+    {
+     "num": 151,
+     "name": "22",
+     "type": "bitmap",
+     "w": 71,
+     "h": 157,
+     "regX": -37,
+     "regY": 152,
+     "bpp": 8,
+     "file": "151.png"
+    },
+    {
+     "num": 152,
+     "name": "23",
+     "type": "bitmap",
+     "w": 69,
+     "h": 157,
+     "regX": -39,
+     "regY": 152,
+     "bpp": 8,
+     "file": "152.png"
+    },
+    {
+     "num": 153,
+     "name": "24",
+     "type": "bitmap",
+     "w": 60,
+     "h": 160,
+     "regX": -47,
+     "regY": 152,
+     "bpp": 8,
+     "file": "153.png"
+    },
+    {
+     "num": 154,
+     "name": "25",
+     "type": "bitmap",
+     "w": 51,
+     "h": 167,
+     "regX": -31,
+     "regY": 147,
+     "bpp": 8,
+     "file": "154.png"
+    },
+    {
+     "num": 155,
+     "name": "26",
+     "type": "bitmap",
+     "w": 64,
+     "h": 170,
+     "regX": -19,
+     "regY": 142,
+     "bpp": 8,
+     "file": "155.png"
+    },
+    {
+     "num": 156,
+     "name": "27",
+     "type": "bitmap",
+     "w": 61,
+     "h": 158,
+     "regX": -9,
+     "regY": 130,
+     "bpp": 8,
+     "file": "156.png"
+    },
+    {
+     "num": 157,
+     "name": "28",
+     "type": "bitmap",
+     "w": 53,
+     "h": 179,
+     "regX": -4,
+     "regY": 123,
+     "bpp": 8,
+     "file": "157.png"
+    },
+    {
+     "num": 158,
+     "name": "29",
+     "type": "bitmap",
+     "w": 70,
+     "h": 183,
+     "regX": 15,
+     "regY": 127,
+     "bpp": 8,
+     "file": "158.png"
+    },
+    {
+     "num": 159,
+     "name": "30",
+     "type": "bitmap",
+     "w": 69,
+     "h": 183,
+     "regX": 22,
+     "regY": 127,
+     "bpp": 8,
+     "file": "159.png"
+    },
+    {
+     "num": 160,
+     "name": "31",
+     "type": "bitmap",
+     "w": 74,
+     "h": 215,
+     "regX": 41,
+     "regY": 111,
+     "bpp": 8,
+     "file": "160.png"
+    },
+    {
+     "num": 161,
+     "name": "32",
+     "type": "bitmap",
+     "w": 77,
+     "h": 203,
+     "regX": 52,
+     "regY": 99,
+     "bpp": 8,
+     "file": "161.png"
+    },
+    {
+     "num": 162,
+     "name": "33",
+     "type": "bitmap",
+     "w": 90,
+     "h": 207,
+     "regX": 69,
+     "regY": 99,
+     "bpp": 8,
+     "file": "162.png"
+    },
+    {
+     "num": 163,
+     "name": "34",
+     "type": "bitmap",
+     "w": 84,
+     "h": 207,
+     "regX": 67,
+     "regY": 92,
+     "bpp": 8,
+     "file": "163.png"
+    },
+    {
+     "num": 164,
+     "name": "35",
+     "type": "bitmap",
+     "w": 87,
+     "h": 231,
+     "regX": 76,
+     "regY": 102,
+     "bpp": 8,
+     "file": "164.png"
+    },
+    {
+     "num": 166,
+     "name": "03a004v0",
+     "type": "bitmap",
+     "w": 89,
+     "h": 210,
+     "regX": 77,
+     "regY": 92,
+     "bpp": 8,
+     "file": "166.png"
+    },
+    {
+     "num": 167,
+     "name": "36",
+     "type": "bitmap",
+     "w": 108,
+     "h": 212,
+     "regX": 80,
+     "regY": 97,
+     "bpp": 8,
+     "file": "167.png"
+    },
+    {
+     "num": 168,
+     "name": "37",
+     "type": "bitmap",
+     "w": 100,
+     "h": 225,
+     "regX": 89,
+     "regY": 100,
+     "bpp": 8,
+     "file": "168.png"
+    },
+    {
+     "num": 169,
+     "name": "38",
+     "type": "bitmap",
+     "w": 107,
+     "h": 229,
+     "regX": 98,
+     "regY": 104,
+     "bpp": 8,
+     "file": "169.png"
+    },
+    {
+     "num": 170,
+     "name": "39",
+     "type": "bitmap",
+     "w": 113,
+     "h": 232,
+     "regX": 103,
+     "regY": 101,
+     "bpp": 8,
+     "file": "170.png"
+    },
+    {
+     "num": 171,
+     "name": "40",
+     "type": "bitmap",
+     "w": 74,
+     "h": 233,
+     "regX": 88,
+     "regY": 102,
+     "bpp": 8,
+     "file": "171.png"
+    },
+    {
+     "num": 172,
+     "name": "41",
+     "type": "bitmap",
+     "w": 88,
+     "h": 235,
+     "regX": 99,
+     "regY": 100,
+     "bpp": 8,
+     "file": "172.png"
+    },
+    {
+     "num": 173,
+     "name": "42",
+     "type": "bitmap",
+     "w": 84,
+     "h": 235,
+     "regX": 103,
+     "regY": 103,
+     "bpp": 8,
+     "file": "173.png"
+    },
+    {
+     "num": 174,
+     "name": "43",
+     "type": "bitmap",
+     "w": 83,
+     "h": 201,
+     "regX": 105,
+     "regY": 104,
+     "bpp": 8,
+     "file": "174.png"
+    },
+    {
+     "num": 175,
+     "name": "44",
+     "type": "bitmap",
+     "w": 87,
+     "h": 198,
+     "regX": 105,
+     "regY": 104,
+     "bpp": 8,
+     "file": "175.png"
+    },
+    {
+     "num": 176,
+     "name": "freeze",
+     "type": "bitmap",
+     "w": 117,
+     "h": 198,
+     "regX": 135,
+     "regY": 104,
+     "bpp": 8,
+     "file": "176.png"
+    },
+    {
+     "num": 181,
+     "name": "03e003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "beg loop"
+      },
+      {
+       "time": 261,
+       "name": "end loop"
+      }
+     ],
+     "file": "181.wav",
+     "duration": 0.261
+    },
+    {
+     "num": 182,
+     "name": "03e003v1",
+     "type": "sound",
+     "loop": false,
+     "file": "182.wav",
+     "duration": 0.798
+    },
+    {
+     "num": 183,
+     "name": "03e003v2",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "beg loop"
+      },
+      {
+       "time": 1252,
+       "name": "end loop"
+      }
+     ],
+     "file": "183.wav",
+     "duration": 0.994
+    },
+    {
+     "num": 184,
+     "name": "03d001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "184.wav",
+     "duration": 2.241
+    },
+    {
+     "num": 185,
+     "name": "03e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "185.wav",
+     "duration": 4.714
+    },
+    {
+     "num": 186,
+     "name": "03e002v0",
+     "type": "sound",
+     "loop": false,
+     "file": "186.wav",
+     "duration": 0.392
+    },
+    {
+     "num": 191,
+     "name": "03a009v0",
+     "type": "bitmap",
+     "w": 52,
+     "h": 43,
+     "regX": -16,
+     "regY": 68,
+     "bpp": 8,
+     "file": "191.png"
+    },
+    {
+     "num": 192,
+     "name": "02",
+     "type": "bitmap",
+     "w": 51,
+     "h": 44,
+     "regX": -16,
+     "regY": 68,
+     "bpp": 8,
+     "file": "192.png"
+    },
+    {
+     "num": 193,
+     "name": "03",
+     "type": "bitmap",
+     "w": 49,
+     "h": 42,
+     "regX": -19,
+     "regY": 68,
+     "bpp": 8,
+     "file": "193.png"
+    },
+    {
+     "num": 208,
+     "name": "03d005V0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 49,
+       "name": "talk"
+      },
+      {
+       "time": 1958,
+       "name": "silence"
+      },
+      {
+       "time": 2074,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "208.wav",
+     "duration": 3.734
+    },
+    {
+     "num": 209,
+     "name": "03d006v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 24,
+       "name": "talk"
+      },
+      {
+       "time": 1049,
+       "name": "silence"
+      },
+      {
+       "time": 1208,
+       "name": "talk"
+      },
+      {
+       "time": 3200,
+       "name": "silence"
+      },
+      {
+       "time": 3533,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "209.wav",
+     "duration": 5.552
+    },
+    {
+     "num": 210,
+     "name": "03d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 42,
+       "name": "tALK"
+      },
+      {
+       "time": 1833,
+       "name": "silence"
+      },
+      {
+       "time": 2241,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "210.wav",
+     "duration": 6.34
+    },
+    {
+     "num": 211,
+     "name": "03d009v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 33,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "211.wav",
+     "duration": 1.392
+    },
+    {
+     "num": 212,
+     "name": "03d010v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1141,
+       "name": "silence"
+      },
+      {
+       "time": 1510,
+       "name": "talk"
+      },
+      {
+       "time": 2316,
+       "name": "silence"
+      },
+      {
+       "time": 2400,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "212.wav",
+     "duration": 3.254
+    },
+    {
+     "num": 213,
+     "name": "03d011v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 29,
+       "name": "talk"
+      },
+      {
+       "time": 816,
+       "name": "silence"
+      },
+      {
+       "time": 1000,
+       "name": "talk"
+      },
+      {
+       "time": 2274,
+       "name": "silence"
+      },
+      {
+       "time": 2741,
+       "name": "talk"
+      },
+      {
+       "time": 5749,
+       "name": "silence"
+      },
+      {
+       "time": 6291,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "213.wav",
+     "duration": 7.684
+    },
+    {
+     "num": 214,
+     "name": "03d012v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 933,
+       "name": "silence"
+      },
+      {
+       "time": 1024,
+       "name": "talk"
+      },
+      {
+       "time": 2000,
+       "name": "silence"
+      },
+      {
+       "time": 2124,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "214.wav",
+     "duration": 4.122
+    },
+    {
+     "num": 215,
+     "name": "03d013v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "215.wav",
+     "duration": 2.783
+    },
+    {
+     "num": 216,
+     "name": "03d014v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "216.wav",
+     "duration": 2.422
+    },
+    {
+     "num": 217,
+     "name": "03d015v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 24,
+       "name": "talk"
+      },
+      {
+       "time": 316,
+       "name": "silence"
+      },
+      {
+       "time": 441,
+       "name": "talk"
+      },
+      {
+       "time": 1441,
+       "name": "silence"
+      },
+      {
+       "time": 1766,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "217.wav",
+     "duration": 4.13
+    },
+    {
+     "num": 218,
+     "name": "03d016v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8,
+       "name": "talk"
+      },
+      {
+       "time": 2416,
+       "name": "silence"
+      },
+      {
+       "time": 2683,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "218.wav",
+     "duration": 5.677
+    },
+    {
+     "num": 219,
+     "name": "03d017v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 49,
+       "name": "talk"
+      },
+      {
+       "time": 383,
+       "name": "silence"
+      },
+      {
+       "time": 474,
+       "name": "talk"
+      },
+      {
+       "time": 2333,
+       "name": "silence"
+      },
+      {
+       "time": 2600,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "219.wav",
+     "duration": 5.326
+    },
+    {
+     "num": 220,
+     "name": "03d018v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1116,
+       "name": "silence"
+      },
+      {
+       "time": 1600,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "220.wav",
+     "duration": 2.799
+    },
+    {
+     "num": 221,
+     "name": "03d019v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 49,
+       "name": "talk"
+      },
+      {
+       "time": 283,
+       "name": "silence"
+      },
+      {
+       "time": 341,
+       "name": "talk"
+      },
+      {
+       "time": 824,
+       "name": "silence"
+      },
+      {
+       "time": 1191,
+       "name": "talk"
+      },
+      {
+       "time": 2400,
+       "name": "silence"
+      },
+      {
+       "time": 2533,
+       "name": "talk"
+      },
+      {
+       "time": 3274,
+       "name": "silence"
+      },
+      {
+       "time": 3491,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "221.wav",
+     "duration": 5.129
+    },
+    {
+     "num": 222,
+     "name": "03d020v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 69,
+       "name": "talk"
+      },
+      {
+       "time": 2741,
+       "name": "silence"
+      },
+      {
+       "time": 3358,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "222.wav",
+     "duration": 5.184
+    },
+    {
+     "num": 223,
+     "name": "03d021v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 24,
+       "name": "talk"
+      },
+      {
+       "time": 1249,
+       "name": "silence"
+      },
+      {
+       "time": 1349,
+       "name": "talk"
+      },
+      {
+       "time": 2800,
+       "name": "silence"
+      },
+      {
+       "time": 2974,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "223.wav",
+     "duration": 4.888
+    },
+    {
+     "num": 226,
+     "name": "03d027v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "silence"
+      },
+      {
+       "time": 1639,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "226.wav",
+     "duration": 5.341
+    },
+    {
+     "num": 227,
+     "name": "03d028v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8,
+       "name": "talk"
+      },
+      {
+       "time": 508,
+       "name": "silence"
+      },
+      {
+       "time": 624,
+       "name": "talk"
+      },
+      {
+       "time": 4216,
+       "name": "silence"
+      },
+      {
+       "time": 4808,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "227.wav",
+     "duration": 6.455
+    },
+    {
+     "num": 228,
+     "name": "03d029v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 216,
+       "name": "silence"
+      },
+      {
+       "time": 341,
+       "name": "tlk"
+      },
+      {
+       "time": 616,
+       "name": "silence"
+      },
+      {
+       "time": 728,
+       "name": "talk"
+      },
+      {
+       "time": 2624,
+       "name": "silence"
+      },
+      {
+       "time": 3416,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "228.wav",
+     "duration": 7.458
+    },
+    {
+     "num": 229,
+     "name": "03d030v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 91,
+       "name": "talk"
+      },
+      {
+       "time": 1974,
+       "name": "silence"
+      },
+      {
+       "time": 2649,
+       "name": "talk"
+      },
+      {
+       "time": 5141,
+       "name": "silence"
+      },
+      {
+       "time": 5458,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "229.wav",
+     "duration": 7.959
+    },
+    {
+     "num": 230,
+     "name": "03d031v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 74,
+       "name": "talk"
+      },
+      {
+       "time": 1808,
+       "name": "Ü"
+      },
+      {
+       "time": 2316,
+       "name": "talk"
+      },
+      {
+       "time": 4624,
+       "name": "silence"
+      },
+      {
+       "time": 5358,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "230.wav",
+     "duration": 7.583
+    },
+    {
+     "num": 232,
+     "name": "03d033v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 87,
+       "name": "talk"
+      },
+      {
+       "time": 2292,
+       "name": "silence"
+      },
+      {
+       "time": 2763,
+       "name": "talk¬"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "232.wav",
+     "duration": 6.067
+    },
+    {
+     "num": 233,
+     "name": "03d034v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 691,
+       "name": "silence"
+      },
+      {
+       "time": 958,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "233.wav",
+     "duration": 2.685
+    },
+    {
+     "num": 234,
+     "name": "03d035v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "234.wav",
+     "duration": 1.423
+    },
+    {
+     "num": 235,
+     "name": "03d036v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "235.wav",
+     "duration": 3.104
+    },
+    {
+     "num": 236,
+     "name": "03d037v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 391,
+       "name": "silence"
+      },
+      {
+       "time": 491,
+       "name": "talk"
+      },
+      {
+       "time": 1058,
+       "name": "silence"
+      },
+      {
+       "time": 1400,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "236.wav",
+     "duration": 2.902
+    },
+    {
+     "num": 237,
+     "name": "03d038v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8,
+       "name": "talk"
+      },
+      {
+       "time": 2349,
+       "name": "silence"
+      },
+      {
+       "time": 2758,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "237.wav",
+     "duration": 3.907
+    },
+    {
+     "num": 238,
+     "name": "03d039v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "238.wav",
+     "duration": 1.659
+    },
+    {
+     "num": 239,
+     "name": "03d040v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "239.wav",
+     "duration": 3.309
+    },
+    {
+     "num": 240,
+     "name": "03d041v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "240.wav",
+     "duration": 2.666
+    },
+    {
+     "num": 241,
+     "name": "03d042v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 963,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "241.wav",
+     "duration": 3.796
+    },
+    {
+     "num": 242,
+     "name": "03d043v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "242.wav",
+     "duration": 4.644
+    },
+    {
+     "num": 243,
+     "name": "03d044v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": " talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "243.wav",
+     "duration": 0.884
+    },
+    {
+     "num": 244,
+     "name": "03d045v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 33,
+       "name": "talk"
+      },
+      {
+       "time": 1369,
+       "name": "silence"
+      },
+      {
+       "time": 1541,
+       "name": "talk"
+      },
+      {
+       "time": 4166,
+       "name": "silence"
+      },
+      {
+       "time": 4508,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "244.wav",
+     "duration": 5.968
+    },
+    {
+     "num": 245,
+     "name": "03d046v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1183,
+       "name": "silence"
+      },
+      {
+       "time": 1689,
+       "name": "talk"
+      },
+      {
+       "time": 5055,
+       "name": "silence"
+      },
+      {
+       "time": 5601,
+       "name": "talk"
+      },
+      {
+       "time": 7191,
+       "name": "silence"
+      },
+      {
+       "time": 7882,
+       "name": "talk"
+      },
+      {
+       "time": 8178,
+       "name": "silence"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "245.wav",
+     "duration": 8.338
+    },
+    {
+     "num": 246,
+     "name": "03d047v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "silence"
+      },
+      {
+       "time": 1349,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "246.wav",
+     "duration": 2.685
+    },
+    {
+     "num": 247,
+     "name": "03d048v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1766,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "247.wav",
+     "duration": 3.297
+    },
+    {
+     "num": 248,
+     "name": "03d049v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 908,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "248.wav",
+     "duration": 1.991
+    },
+    {
+     "num": 249,
+     "name": "03d050v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1833,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "249.wav",
+     "duration": 3.529
+    },
+    {
+     "num": 250,
+     "name": "03d051v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1253,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "250.wav",
+     "duration": 2.159
+    },
+    {
+     "num": 251,
+     "name": "03d052v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 2116,
+       "name": "silence"
+      },
+      {
+       "time": 2841,
+       "name": "talk"
+      },
+      {
+       "time": 5316,
+       "name": "silence"
+      },
+      {
+       "time": 5966,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "251.wav",
+     "duration": 10.35
+    },
+    {
+     "num": 252,
+     "name": "03d053v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1648,
+       "name": "silence"
+      },
+      {
+       "time": 2066,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "252.wav",
+     "duration": 4.864
+    },
+    {
+     "num": 253,
+     "name": "03d054v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "253.wav",
+     "duration": 2.803
+    },
+    {
+     "num": 254,
+     "name": "03d055v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1131,
+       "name": "silence"
+      },
+      {
+       "time": 1749,
+       "name": "talk"
+      },
+      {
+       "time": 4274,
+       "name": "silence"
+      },
+      {
+       "time": 4908,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "254.wav",
+     "duration": 7.047
+    },
+    {
+     "num": 255,
+     "name": "03d056v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8,
+       "name": "talk"
+      },
+      {
+       "time": 866,
+       "name": "silence"
+      },
+      {
+       "time": 1024,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "255.wav",
+     "duration": 4.173
+    },
+    {
+     "num": 256,
+     "name": "03d057v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 3016,
+       "name": "silence"
+      },
+      {
+       "time": 3216,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "256.wav",
+     "duration": 5.525
+    },
+    {
+     "num": 257,
+     "name": "03d058v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 2949,
+       "name": "silence"
+      },
+      {
+       "time": 3600,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "257.wav",
+     "duration": 6.885
+    },
+    {
+     "num": 258,
+     "name": "03d059v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1242,
+       "name": "silence"
+      },
+      {
+       "time": 2000,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "258.wav",
+     "duration": 4.22
+    },
+    {
+     "num": 262,
+     "name": "03d060v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1276,
+       "name": "silence"
+      },
+      {
+       "time": 1532,
+       "name": "talk"
+      },
+      {
+       "time": 3157,
+       "name": "silence"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "262.wav",
+     "duration": 3.599
+    },
+    {
+     "num": 263,
+     "name": "03d061v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1624,
+       "name": "silence"
+      },
+      {
+       "time": 1880,
+       "name": "talk"
+      },
+      {
+       "time": 3505,
+       "name": "silence"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "263.wav",
+     "duration": 3.648
+    },
+    {
+     "num": 264,
+     "name": "03d062v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 37,
+       "name": "talk"
+      },
+      {
+       "time": 2623,
+       "name": "silence"
+      },
+      {
+       "time": 3090,
+       "name": "talk"
+      },
+      {
+       "time": 4176,
+       "name": "silence"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "264.wav",
+     "duration": 4.203
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 10,
+   "name": "02"
+  },
+  {
+   "frame": 15,
+   "name": "04"
+  },
+  {
+   "frame": 20,
+   "name": "07"
+  },
+  {
+   "frame": 25,
+   "name": "06"
+  },
+  {
+   "frame": 30,
+   "name": "08"
+  },
+  {
+   "frame": 35,
+   "name": "12"
+  },
+  {
+   "frame": 40,
+   "name": "garage"
+  }
+ ]
+}

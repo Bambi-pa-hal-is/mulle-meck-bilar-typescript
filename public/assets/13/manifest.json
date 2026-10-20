@@ -1,0 +1,184 @@
+{
+ "file": "MOVIES/13.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 2,
+   "members": [
+    {
+     "num": 2,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 5,
+     "name": "ScrollBarArrowsBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 6,
+     "name": "ScrollFieldBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 7,
+     "name": "ScrollEnterDeleteBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 8,
+     "name": "MainScroller",
+     "type": "text",
+     "font": {
+      "name": "Times",
+      "size": 18,
+      "style": 0,
+      "lineHeight": 22,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": " "
+    },
+    {
+     "num": 11,
+     "name": "",
+     "type": "shape",
+     "spec": "000100000000007a001900010000000205"
+    },
+    {
+     "num": 12,
+     "name": "EnterField",
+     "type": "text",
+     "font": {
+      "name": "Times",
+      "size": 24,
+      "style": 0,
+      "lineHeight": 29,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": " "
+    },
+    {
+     "num": 14,
+     "name": "",
+     "type": "shape",
+     "spec": "000100000000001f002400010000000205"
+    },
+    {
+     "num": 16,
+     "name": "DirectoryField",
+     "type": "text",
+     "font": {
+      "name": "Arial",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "c:\\levande\\mullebil\\bilar\\"
+    },
+    {
+     "num": 17,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 18,
+     "name": "07d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "18.wav",
+     "duration": 7.814
+    },
+    {
+     "num": 25,
+     "name": "OKBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 26,
+     "name": "CancelBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 30,
+     "name": "13b005v0",
+     "type": "bitmap",
+     "w": 29,
+     "h": 27,
+     "regX": 14,
+     "regY": 13,
+     "bpp": 8,
+     "file": "30.png"
+    },
+    {
+     "num": 33,
+     "name": "13b001v0",
+     "type": "bitmap",
+     "w": 336,
+     "h": 278,
+     "regX": 168,
+     "regY": 139,
+     "bpp": 8,
+     "file": "33.png"
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "Save"
+  },
+  {
+   "frame": 10,
+   "name": "Load"
+  }
+ ]
+}

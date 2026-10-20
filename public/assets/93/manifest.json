@@ -1,0 +1,206 @@
+{
+ "file": "MOVIES/93.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "93b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "1.png"
+    },
+    {
+     "num": 5,
+     "name": "",
+     "type": "transition",
+     "spec": "0008320207d0"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 17,
+     "name": "FishAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[0],#Blink:[1,1,1,1,2,2,2,2,2,3,3,3,3,3,3,3,2,2,2,2]], #Paths:[]]"
+    },
+    {
+     "num": 18,
+     "name": "93n001v0",
+     "type": "bitmap",
+     "w": 8,
+     "h": 7,
+     "regX": 5,
+     "regY": 1,
+     "bpp": 8,
+     "file": "18.png"
+    },
+    {
+     "num": 19,
+     "name": "2",
+     "type": "bitmap",
+     "w": 8,
+     "h": 7,
+     "regX": 5,
+     "regY": 2,
+     "bpp": 8,
+     "file": "19.png"
+    },
+    {
+     "num": 20,
+     "name": "3",
+     "type": "bitmap",
+     "w": 8,
+     "h": 7,
+     "regX": 3,
+     "regY": 3,
+     "bpp": 8,
+     "file": "20.png"
+    },
+    {
+     "num": 21,
+     "name": "4",
+     "type": "bitmap",
+     "w": 8,
+     "h": 7,
+     "regX": 1,
+     "regY": 6,
+     "bpp": 8,
+     "file": "21.png"
+    },
+    {
+     "num": 185,
+     "name": "93e001v0",
+     "type": "sound",
+     "loop": true,
+     "file": "185.wav",
+     "duration": 20.55
+    },
+    {
+     "num": 200,
+     "name": "93d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 2041,
+       "name": "silence"
+      },
+      {
+       "time": 2483,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "200.wav",
+     "duration": 3.544
+    },
+    {
+     "num": 201,
+     "name": "93d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "201.wav",
+     "duration": 24.708
+    },
+    {
+     "num": 202,
+     "name": "93d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "202.wav",
+     "duration": 11.951
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 5,
+   "name": "Done"
+  },
+  {
+   "frame": 16,
+   "name": "JustDoIt"
+  },
+  {
+   "frame": 19,
+   "name": "Gift"
+  },
+  {
+   "frame": 20,
+   "name": "Back"
+  },
+  {
+   "frame": 26,
+   "name": "Leave"
+  }
+ ]
+}

@@ -1,0 +1,1025 @@
+{
+ "file": "MOVIES/06.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 2,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 4,
+     "name": "IntroScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 5,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 7,
+     "name": "ShowSavedCarBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 13,
+     "name": "SavedCarName",
+     "type": "text",
+     "font": {
+      "name": "Times",
+      "size": 24,
+      "style": 0,
+      "lineHeight": 29,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": " "
+    },
+    {
+     "num": 14,
+     "name": "EnterTextBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 15,
+     "name": "FileStuff",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 18,
+     "name": "ZZDataOnDiskBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 19,
+     "name": "ReplaceScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 21,
+     "name": "00n004v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "21.png"
+    },
+    {
+     "num": 22,
+     "name": "00n005v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 51,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "22.png"
+    },
+    {
+     "num": 23,
+     "name": "00n006v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 51,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "23.png"
+    },
+    {
+     "num": 24,
+     "name": "00n007v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "24.png"
+    },
+    {
+     "num": 25,
+     "name": "00n008v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "25.png"
+    },
+    {
+     "num": 26,
+     "name": "00n009v0",
+     "type": "bitmap",
+     "w": 50,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "26.png"
+    },
+    {
+     "num": 27,
+     "name": "00n010v0",
+     "type": "bitmap",
+     "w": 51,
+     "h": 52,
+     "regX": 25,
+     "regY": 26,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 29,
+     "name": "rectum",
+     "type": "shape",
+     "spec": "000100000000015e01dc00010000010205"
+    },
+    {
+     "num": 30,
+     "name": "LoadCarBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 31,
+     "name": "LoadSaveCarBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 32,
+     "name": "PasteCarBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 33,
+     "name": "CoverBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 34,
+     "name": "GoBackBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 36,
+     "name": "DeleteSavedBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 37,
+     "name": "Utilities",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 38,
+     "name": "06e002v0",
+     "type": "sound",
+     "loop": false,
+     "file": "38.wav",
+     "duration": 0.619
+    },
+    {
+     "num": 39,
+     "name": "06e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "39.wav",
+     "duration": 0.616
+    },
+    {
+     "num": 40,
+     "name": "06e003v0",
+     "type": "sound",
+     "loop": false,
+     "file": "40.wav",
+     "duration": 0.821
+    },
+    {
+     "num": 49,
+     "name": "06n001v0",
+     "type": "bitmap",
+     "w": 11,
+     "h": 13,
+     "regX": -292,
+     "regY": 227,
+     "bpp": 8,
+     "file": "49.png"
+    },
+    {
+     "num": 50,
+     "name": "02",
+     "type": "bitmap",
+     "w": 11,
+     "h": 16,
+     "regX": -292,
+     "regY": 190,
+     "bpp": 8,
+     "file": "50.png"
+    },
+    {
+     "num": 51,
+     "name": "03",
+     "type": "bitmap",
+     "w": 12,
+     "h": 19,
+     "regX": -293,
+     "regY": 150,
+     "bpp": 8,
+     "file": "51.png"
+    },
+    {
+     "num": 52,
+     "name": "04",
+     "type": "bitmap",
+     "w": 12,
+     "h": 17,
+     "regX": -293,
+     "regY": 108,
+     "bpp": 8,
+     "file": "52.png"
+    },
+    {
+     "num": 53,
+     "name": "05",
+     "type": "bitmap",
+     "w": 12,
+     "h": 18,
+     "regX": -293,
+     "regY": 69,
+     "bpp": 8,
+     "file": "53.png"
+    },
+    {
+     "num": 54,
+     "name": "06",
+     "type": "bitmap",
+     "w": 10,
+     "h": 17,
+     "regX": -293,
+     "regY": 29,
+     "bpp": 8,
+     "file": "54.png"
+    },
+    {
+     "num": 55,
+     "name": "07",
+     "type": "bitmap",
+     "w": 10,
+     "h": 15,
+     "regX": -293,
+     "regY": -14,
+     "bpp": 8,
+     "file": "55.png"
+    },
+    {
+     "num": 56,
+     "name": "08",
+     "type": "bitmap",
+     "w": 10,
+     "h": 17,
+     "regX": -293,
+     "regY": -50,
+     "bpp": 8,
+     "file": "56.png"
+    },
+    {
+     "num": 57,
+     "name": "09",
+     "type": "bitmap",
+     "w": 10,
+     "h": 18,
+     "regX": -293,
+     "regY": -90,
+     "bpp": 8,
+     "file": "57.png"
+    },
+    {
+     "num": 58,
+     "name": "10",
+     "type": "bitmap",
+     "w": 16,
+     "h": 18,
+     "regX": -293,
+     "regY": -132,
+     "bpp": 8,
+     "file": "58.png"
+    },
+    {
+     "num": 59,
+     "name": "11",
+     "type": "bitmap",
+     "w": 11,
+     "h": 15,
+     "regX": -293,
+     "regY": -173,
+     "bpp": 8,
+     "file": "59.png"
+    },
+    {
+     "num": 60,
+     "name": "12",
+     "type": "bitmap",
+     "w": 16,
+     "h": 17,
+     "regX": -293,
+     "regY": -210,
+     "bpp": 8,
+     "file": "60.png"
+    },
+    {
+     "num": 61,
+     "name": "06n002v0",
+     "type": "bitmap",
+     "w": 11,
+     "h": 13,
+     "regX": -292,
+     "regY": 227,
+     "bpp": 8,
+     "file": "61.png"
+    },
+    {
+     "num": 62,
+     "name": "02",
+     "type": "bitmap",
+     "w": 11,
+     "h": 16,
+     "regX": -292,
+     "regY": 190,
+     "bpp": 8,
+     "file": "62.png"
+    },
+    {
+     "num": 63,
+     "name": "03",
+     "type": "bitmap",
+     "w": 12,
+     "h": 19,
+     "regX": -293,
+     "regY": 150,
+     "bpp": 8,
+     "file": "63.png"
+    },
+    {
+     "num": 64,
+     "name": "04",
+     "type": "bitmap",
+     "w": 12,
+     "h": 17,
+     "regX": -293,
+     "regY": 108,
+     "bpp": 8,
+     "file": "64.png"
+    },
+    {
+     "num": 65,
+     "name": "05",
+     "type": "bitmap",
+     "w": 12,
+     "h": 18,
+     "regX": -293,
+     "regY": 69,
+     "bpp": 8,
+     "file": "65.png"
+    },
+    {
+     "num": 66,
+     "name": "06",
+     "type": "bitmap",
+     "w": 10,
+     "h": 17,
+     "regX": -293,
+     "regY": 29,
+     "bpp": 8,
+     "file": "66.png"
+    },
+    {
+     "num": 67,
+     "name": "07",
+     "type": "bitmap",
+     "w": 10,
+     "h": 15,
+     "regX": -293,
+     "regY": -14,
+     "bpp": 8,
+     "file": "67.png"
+    },
+    {
+     "num": 68,
+     "name": "08",
+     "type": "bitmap",
+     "w": 10,
+     "h": 17,
+     "regX": -293,
+     "regY": -50,
+     "bpp": 8,
+     "file": "68.png"
+    },
+    {
+     "num": 69,
+     "name": "09",
+     "type": "bitmap",
+     "w": 10,
+     "h": 18,
+     "regX": -293,
+     "regY": -90,
+     "bpp": 8,
+     "file": "69.png"
+    },
+    {
+     "num": 70,
+     "name": "10",
+     "type": "bitmap",
+     "w": 16,
+     "h": 18,
+     "regX": -293,
+     "regY": -132,
+     "bpp": 8,
+     "file": "70.png"
+    },
+    {
+     "num": 71,
+     "name": "11",
+     "type": "bitmap",
+     "w": 11,
+     "h": 15,
+     "regX": -293,
+     "regY": -173,
+     "bpp": 8,
+     "file": "71.png"
+    },
+    {
+     "num": 72,
+     "name": "12",
+     "type": "bitmap",
+     "w": 16,
+     "h": 17,
+     "regX": -293,
+     "regY": -210,
+     "bpp": 8,
+     "file": "72.png"
+    },
+    {
+     "num": 73,
+     "name": "06n003v0",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "73.png"
+    },
+    {
+     "num": 74,
+     "name": "02",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "74.png"
+    },
+    {
+     "num": 75,
+     "name": "03",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "75.png"
+    },
+    {
+     "num": 76,
+     "name": "04",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "76.png"
+    },
+    {
+     "num": 77,
+     "name": "05",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "77.png"
+    },
+    {
+     "num": 78,
+     "name": "06",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "78.png"
+    },
+    {
+     "num": 79,
+     "name": "07",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "79.png"
+    },
+    {
+     "num": 80,
+     "name": "08",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "80.png"
+    },
+    {
+     "num": 81,
+     "name": "09",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "81.png"
+    },
+    {
+     "num": 82,
+     "name": "10",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "82.png"
+    },
+    {
+     "num": 83,
+     "name": "11",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "83.png"
+    },
+    {
+     "num": 84,
+     "name": "12",
+     "type": "bitmap",
+     "w": 38,
+     "h": 480,
+     "regX": -282,
+     "regY": 240,
+     "bpp": 8,
+     "file": "84.png"
+    },
+    {
+     "num": 93,
+     "name": "06b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "93.png"
+    },
+    {
+     "num": 97,
+     "name": "06b008v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 93,
+     "regX": 320,
+     "regY": -147,
+     "bpp": 8,
+     "file": "97.png"
+    },
+    {
+     "num": 98,
+     "name": "06b009v0",
+     "type": "bitmap",
+     "w": 68,
+     "h": 392,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "98.png"
+    },
+    {
+     "num": 99,
+     "name": "06b010v0",
+     "type": "bitmap",
+     "w": 573,
+     "h": 52,
+     "regX": 253,
+     "regY": 240,
+     "bpp": 8,
+     "file": "99.png"
+    },
+    {
+     "num": 100,
+     "name": "06b011v0",
+     "type": "bitmap",
+     "w": 111,
+     "h": 341,
+     "regX": -209,
+     "regY": 189,
+     "bpp": 8,
+     "file": "100.png"
+    },
+    {
+     "num": 101,
+     "name": "06b017v0",
+     "type": "bitmap",
+     "w": 214,
+     "h": 40,
+     "regX": 107,
+     "regY": 20,
+     "bpp": 8,
+     "file": "101.png"
+    },
+    {
+     "num": 120,
+     "name": "",
+     "type": "shape",
+     "spec": "000100000000001f00370001ff00000205"
+    },
+    {
+     "num": 137,
+     "name": "06d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "137.wav",
+     "duration": 5.016
+    },
+    {
+     "num": 138,
+     "name": "06d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "138.wav",
+     "duration": 1.173
+    },
+    {
+     "num": 139,
+     "name": "06d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "139.wav",
+     "duration": 1.98
+    },
+    {
+     "num": 140,
+     "name": "06d004v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "140.wav",
+     "duration": 1.8
+    },
+    {
+     "num": 143,
+     "name": "06d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "143.wav",
+     "duration": 7.593
+    },
+    {
+     "num": 145,
+     "name": "07d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "145.wav",
+     "duration": 4.274
+    },
+    {
+     "num": 146,
+     "name": "07d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "146.wav",
+     "duration": 7.814
+    },
+    {
+     "num": 147,
+     "name": "07d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "147.wav",
+     "duration": 3.181
+    },
+    {
+     "num": 148,
+     "name": "07d004v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "148.wav",
+     "duration": 3.505
+    },
+    {
+     "num": 149,
+     "name": "07d005v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "149.wav",
+     "duration": 7.879
+    },
+    {
+     "num": 150,
+     "name": "07d006v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "150.wav",
+     "duration": 3.569
+    },
+    {
+     "num": 153,
+     "name": "06b007v0",
+     "type": "bitmap",
+     "w": 37,
+     "h": 52,
+     "regX": 18,
+     "regY": 26,
+     "bpp": 8,
+     "file": "153.png"
+    },
+    {
+     "num": 154,
+     "name": "06t001v0",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "MinBil"
+    },
+    {
+     "num": 155,
+     "name": "06b005v0",
+     "type": "bitmap",
+     "w": 54,
+     "h": 30,
+     "regX": 27,
+     "regY": 15,
+     "bpp": 8,
+     "file": "155.png"
+    },
+    {
+     "num": 156,
+     "name": "06b006v0",
+     "type": "bitmap",
+     "w": 54,
+     "h": 30,
+     "regX": 27,
+     "regY": 15,
+     "bpp": 8,
+     "file": "156.png"
+    },
+    {
+     "num": 158,
+     "name": "06b013v0",
+     "type": "bitmap",
+     "w": 174,
+     "h": 67,
+     "regX": 87,
+     "regY": 33,
+     "bpp": 8,
+     "file": "158.png"
+    },
+    {
+     "num": 159,
+     "name": "06b014v0",
+     "type": "bitmap",
+     "w": 260,
+     "h": 211,
+     "regX": 130,
+     "regY": 105,
+     "bpp": 8,
+     "file": "159.png"
+    },
+    {
+     "num": 160,
+     "name": "06b015v0",
+     "type": "bitmap",
+     "w": 146,
+     "h": 67,
+     "regX": 73,
+     "regY": 33,
+     "bpp": 8,
+     "file": "160.png"
+    },
+    {
+     "num": 161,
+     "name": "07b005v0",
+     "type": "bitmap",
+     "w": 56,
+     "h": 55,
+     "regX": 28,
+     "regY": 27,
+     "bpp": 8,
+     "file": "161.png"
+    },
+    {
+     "num": 162,
+     "name": "07b004v0",
+     "type": "bitmap",
+     "w": 108,
+     "h": 97,
+     "regX": 54,
+     "regY": 48,
+     "bpp": 8,
+     "file": "162.png"
+    },
+    {
+     "num": 163,
+     "name": "06b014v0",
+     "type": "bitmap",
+     "w": 269,
+     "h": 228,
+     "regX": 138,
+     "regY": 121,
+     "bpp": 8,
+     "file": "163.png"
+    },
+    {
+     "num": 164,
+     "name": "06b016v0",
+     "type": "bitmap",
+     "w": 56,
+     "h": 54,
+     "regX": 28,
+     "regY": 27,
+     "bpp": 8,
+     "file": "164.png"
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "Save"
+  },
+  {
+   "frame": 13,
+   "name": "Load"
+  },
+  {
+   "frame": 22,
+   "name": "Leave"
+  }
+ ]
+}

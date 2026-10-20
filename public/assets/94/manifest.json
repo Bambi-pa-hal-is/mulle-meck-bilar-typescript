@@ -1,0 +1,783 @@
+{
+ "file": "MOVIES/94.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "transition",
+     "spec": "0008320207d0"
+    },
+    {
+     "num": 2,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 4,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 17,
+     "name": "94n001v0",
+     "type": "bitmap",
+     "w": 7,
+     "h": 17,
+     "regX": 3,
+     "regY": 8,
+     "bpp": 8,
+     "file": "17.png"
+    },
+    {
+     "num": 18,
+     "name": "02",
+     "type": "bitmap",
+     "w": 12,
+     "h": 19,
+     "regX": 6,
+     "regY": 9,
+     "bpp": 8,
+     "file": "18.png"
+    },
+    {
+     "num": 19,
+     "name": "03",
+     "type": "bitmap",
+     "w": 12,
+     "h": 18,
+     "regX": 6,
+     "regY": 9,
+     "bpp": 8,
+     "file": "19.png"
+    },
+    {
+     "num": 20,
+     "name": "04",
+     "type": "bitmap",
+     "w": 13,
+     "h": 20,
+     "regX": 6,
+     "regY": 10,
+     "bpp": 8,
+     "file": "20.png"
+    },
+    {
+     "num": 21,
+     "name": "05",
+     "type": "bitmap",
+     "w": 13,
+     "h": 19,
+     "regX": 6,
+     "regY": 9,
+     "bpp": 8,
+     "file": "21.png"
+    },
+    {
+     "num": 22,
+     "name": "PointsBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 29,
+     "name": "JudgeBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 30,
+     "name": "JudgeAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1], #Wait:[[#RndHold,1,11,45],#Blink], #JudgeUp:[1,2,3,4,5,6,7], #TalkUp:[8,9,10,[#RndFrame,[8,9,10]],[#RndFrame,[8,9,10,11]]], #Talk:[13,14,13,13,15,15,16,13,17], #JudgeDown:[7,6,5,4,3,2,1], #Blink:[5]], #Paths:[]]\n\n\n"
+    },
+    {
+     "num": 31,
+     "name": "94a001v0",
+     "type": "bitmap",
+     "w": 93,
+     "h": 105,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "31.png"
+    },
+    {
+     "num": 32,
+     "name": "02",
+     "type": "bitmap",
+     "w": 90,
+     "h": 105,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "32.png"
+    },
+    {
+     "num": 33,
+     "name": "03",
+     "type": "bitmap",
+     "w": 95,
+     "h": 111,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "33.png"
+    },
+    {
+     "num": 34,
+     "name": "04",
+     "type": "bitmap",
+     "w": 90,
+     "h": 112,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "34.png"
+    },
+    {
+     "num": 35,
+     "name": "05",
+     "type": "bitmap",
+     "w": 94,
+     "h": 95,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "35.png"
+    },
+    {
+     "num": 36,
+     "name": "06",
+     "type": "bitmap",
+     "w": 82,
+     "h": 114,
+     "regX": 42,
+     "regY": 130,
+     "bpp": 8,
+     "file": "36.png"
+    },
+    {
+     "num": 37,
+     "name": "07",
+     "type": "bitmap",
+     "w": 82,
+     "h": 114,
+     "regX": 42,
+     "regY": 130,
+     "bpp": 8,
+     "file": "37.png"
+    },
+    {
+     "num": 38,
+     "name": "08",
+     "type": "bitmap",
+     "w": 82,
+     "h": 114,
+     "regX": 42,
+     "regY": 130,
+     "bpp": 8,
+     "file": "38.png"
+    },
+    {
+     "num": 39,
+     "name": "09",
+     "type": "bitmap",
+     "w": 82,
+     "h": 114,
+     "regX": 42,
+     "regY": 130,
+     "bpp": 8,
+     "file": "39.png"
+    },
+    {
+     "num": 40,
+     "name": "10",
+     "type": "bitmap",
+     "w": 82,
+     "h": 114,
+     "regX": 42,
+     "regY": 130,
+     "bpp": 8,
+     "file": "40.png"
+    },
+    {
+     "num": 41,
+     "name": "11",
+     "type": "bitmap",
+     "w": 82,
+     "h": 114,
+     "regX": 42,
+     "regY": 130,
+     "bpp": 8,
+     "file": "41.png"
+    },
+    {
+     "num": 42,
+     "name": "12",
+     "type": "bitmap",
+     "w": 82,
+     "h": 114,
+     "regX": 42,
+     "regY": 130,
+     "bpp": 8,
+     "file": "42.png"
+    },
+    {
+     "num": 43,
+     "name": "13",
+     "type": "bitmap",
+     "w": 93,
+     "h": 105,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "43.png"
+    },
+    {
+     "num": 44,
+     "name": "14",
+     "type": "bitmap",
+     "w": 93,
+     "h": 105,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "44.png"
+    },
+    {
+     "num": 45,
+     "name": "15",
+     "type": "bitmap",
+     "w": 93,
+     "h": 105,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "45.png"
+    },
+    {
+     "num": 46,
+     "name": "16",
+     "type": "bitmap",
+     "w": 93,
+     "h": 105,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "46.png"
+    },
+    {
+     "num": 47,
+     "name": "17",
+     "type": "bitmap",
+     "w": 93,
+     "h": 105,
+     "regX": 42,
+     "regY": 111,
+     "bpp": 8,
+     "file": "47.png"
+    },
+    {
+     "num": 48,
+     "name": "",
+     "type": "transition",
+     "spec": "000202020320"
+    },
+    {
+     "num": 49,
+     "name": "JudgeUpAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[7], #Wait:[[#RndHold,7,11,45],#Blink], #JudgeUp:[1,2,3,4,5,6,7], #Talk:[8,9,10,[#RndFrame,[8,9,10]],[#RndFrame,[8,9,10,11]]], #TalkDown:[13,14,13,13,15,15,16,13,17], #JudgeDown:[7,6,5,4,3,2,1], #Blink:[5]], #Paths:[]]\n\n\n"
+    },
+    {
+     "num": 53,
+     "name": "MulleTurnAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[13], #Wait:[[#RndHold, 1, 11, 45], #Blink], #Turn:[1,1,1,1,1,1,1,1,1,1,1,1,1,13,13,13,13], #Look:[14,14,16,16,17,17,17,17,17,17,17,18,17,17,17,17,17,17,17,16,16,14,14], #Blink:[5]], #Paths:[]]\n"
+    },
+    {
+     "num": 61,
+     "name": "01",
+     "type": "bitmap",
+     "w": 50,
+     "h": 50,
+     "regX": 25,
+     "regY": 25,
+     "bpp": 8,
+     "file": "61.png"
+    },
+    {
+     "num": 62,
+     "name": "",
+     "type": "bitmap",
+     "w": 52,
+     "h": 52,
+     "regX": 26,
+     "regY": 26,
+     "bpp": 8,
+     "file": "62.png"
+    },
+    {
+     "num": 63,
+     "name": "ThingAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Blink:[2,2,1,1,2,2,1,1,2,2,1,1,2,2]], #Paths:[]]"
+    },
+    {
+     "num": 185,
+     "name": "94e001v0",
+     "type": "sound",
+     "loop": true,
+     "file": "185.wav",
+     "duration": 7.08
+    },
+    {
+     "num": 200,
+     "name": "94b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "200.png"
+    },
+    {
+     "num": 201,
+     "name": "94d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "silence"
+      },
+      {
+       "time": 433,
+       "name": "silence"
+      },
+      {
+       "time": 766,
+       "name": "talk"
+      },
+      {
+       "time": 3091,
+       "name": "silence"
+      },
+      {
+       "time": 3700,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "201.wav",
+     "duration": 6.589
+    },
+    {
+     "num": 202,
+     "name": "94d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 833,
+       "name": "silence"
+      },
+      {
+       "time": 1408,
+       "name": "talk"
+      },
+      {
+       "time": 3000,
+       "name": "silence"
+      },
+      {
+       "time": 3400,
+       "name": "talk"
+      },
+      {
+       "time": 4266,
+       "name": "silence"
+      },
+      {
+       "time": 4483,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "202.wav",
+     "duration": 6.316
+    },
+    {
+     "num": 203,
+     "name": "94d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 108,
+       "name": "talk"
+      },
+      {
+       "time": 7108,
+       "name": "silence"
+      },
+      {
+       "time": 7668,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "203.wav",
+     "duration": 10.87
+    },
+    {
+     "num": 204,
+     "name": "94d004v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 95,
+       "name": "talk"
+      },
+      {
+       "time": 1509,
+       "name": "talk"
+      },
+      {
+       "time": 1941,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "204.wav",
+     "duration": 5.195
+    },
+    {
+     "num": 205,
+     "name": "94d005v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 45,
+       "name": "talk"
+      },
+      {
+       "time": 1425,
+       "name": "silence"
+      },
+      {
+       "time": 1666,
+       "name": "talk"
+      },
+      {
+       "time": 2508,
+       "name": "silence"
+      },
+      {
+       "time": 2900,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "205.wav",
+     "duration": 4.754
+    },
+    {
+     "num": 206,
+     "name": "94d006v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 43,
+       "name": "talk"
+      },
+      {
+       "time": 1583,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "206.wav",
+     "duration": 3.848
+    },
+    {
+     "num": 207,
+     "name": "94d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 591,
+       "name": "silence"
+      },
+      {
+       "time": 1091,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "207.wav",
+     "duration": 4.679
+    },
+    {
+     "num": 208,
+     "name": "94d008v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1249,
+       "name": "silence"
+      },
+      {
+       "time": 1381,
+       "name": "talk"
+      },
+      {
+       "time": 2316,
+       "name": "silence"
+      },
+      {
+       "time": 2858,
+       "name": "talk"
+      },
+      {
+       "time": 4966,
+       "name": "silence"
+      },
+      {
+       "time": 5333,
+       "name": "talk"
+      },
+      {
+       "time": 6558,
+       "name": "silence"
+      },
+      {
+       "time": 6933,
+       "name": "talk"
+      },
+      {
+       "time": 7824,
+       "name": "silence"
+      },
+      {
+       "time": 8133,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "208.wav",
+     "duration": 8.745
+    },
+    {
+     "num": 209,
+     "name": "94d009v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 300,
+       "name": "silence"
+      },
+      {
+       "time": 524,
+       "name": "talk"
+      },
+      {
+       "time": 3541,
+       "name": "silence"
+      },
+      {
+       "time": 4233,
+       "name": "talk"
+      },
+      {
+       "time": 8783,
+       "name": "silence"
+      },
+      {
+       "time": 9158,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "209.wav",
+     "duration": 12.579
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 2,
+   "name": "start"
+  },
+  {
+   "frame": 6,
+   "name": "Car"
+  },
+  {
+   "frame": 9,
+   "name": "Turn"
+  },
+  {
+   "frame": 15,
+   "name": "Lift"
+  },
+  {
+   "frame": 19,
+   "name": "Judge"
+  },
+  {
+   "frame": 24,
+   "name": "lower"
+  },
+  {
+   "frame": 29,
+   "name": "check"
+  },
+  {
+   "frame": 34,
+   "name": "Medalj"
+  },
+  {
+   "frame": 40,
+   "name": "Medaljblink"
+  },
+  {
+   "frame": 50,
+   "name": "Leave"
+  }
+ ]
+}

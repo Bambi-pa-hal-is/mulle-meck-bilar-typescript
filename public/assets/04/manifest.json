@@ -1,0 +1,1872 @@
+{
+ "file": "MOVIES/04.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 2,
+     "name": "05go",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 3,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 4,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 5,
+     "name": "PartsCommon",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 7,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 8,
+     "name": "yardBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "",
+     "type": "script",
+     "scriptType": "score"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "transition",
+     "spec": "00040902015e"
+    },
+    {
+     "num": 11,
+     "name": "DragPartBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 12,
+     "name": "startmovie",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 13,
+     "name": "01",
+     "type": "bitmap",
+     "w": 60,
+     "h": 192,
+     "regX": -143,
+     "regY": 192,
+     "bpp": 8,
+     "file": "13.png"
+    },
+    {
+     "num": 14,
+     "name": "open1",
+     "type": "bitmap",
+     "w": 81,
+     "h": 165,
+     "regX": -68,
+     "regY": 193,
+     "bpp": 8,
+     "file": "14.png"
+    },
+    {
+     "num": 15,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 16,
+     "name": "04b001v0",
+     "type": "bitmap",
+     "w": 172,
+     "h": 90,
+     "regX": 274,
+     "regY": 145,
+     "bpp": 8,
+     "file": "16.png"
+    },
+    {
+     "num": 17,
+     "name": "04b001v0",
+     "type": "bitmap",
+     "w": 172,
+     "h": 90,
+     "regX": 274,
+     "regY": 145,
+     "bpp": 8,
+     "file": "17.png"
+    },
+    {
+     "num": 18,
+     "name": "SafeDragScript",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 19,
+     "name": "DoorBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 20,
+     "name": "CarPortBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 21,
+     "name": "DrawJunkBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 22,
+     "name": "FloorPartBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 23,
+     "name": "packageBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 24,
+     "name": "noteBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 25,
+     "name": "ScreenObject",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 26,
+     "name": "MouseClick",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 27,
+     "name": "04b002v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 28,
+     "name": "BuffaYardBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 29,
+     "name": "GeneralAncestor",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 30,
+     "name": "04b003v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "30.png"
+    },
+    {
+     "num": 31,
+     "name": "MulleyardBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 32,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 33,
+     "name": "MulleCarBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 35,
+     "name": "",
+     "type": "shape",
+     "spec": "000100000000009500aa0001ff00000105"
+    },
+    {
+     "num": 36,
+     "name": "carClickBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 37,
+     "name": "04b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "37.png"
+    },
+    {
+     "num": 38,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 39,
+     "name": "testspeak",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 2228,
+       "name": "silence"
+      },
+      {
+       "time": 3064,
+       "name": "talk"
+      }
+     ],
+     "file": "39.wav",
+     "duration": 6.229
+    },
+    {
+     "num": 40,
+     "name": "01",
+     "type": "bitmap",
+     "w": 95,
+     "h": 254,
+     "regX": -225,
+     "regY": 192,
+     "bpp": 8,
+     "file": "40.png"
+    },
+    {
+     "num": 41,
+     "name": "open2",
+     "type": "bitmap",
+     "w": 79,
+     "h": 216,
+     "regX": -158,
+     "regY": 203,
+     "bpp": 8,
+     "file": "41.png"
+    },
+    {
+     "num": 42,
+     "name": "04n001v0",
+     "type": "bitmap",
+     "w": 55,
+     "h": 25,
+     "regX": 262,
+     "regY": -85,
+     "bpp": 8,
+     "file": "42.png"
+    },
+    {
+     "num": 43,
+     "name": "02",
+     "type": "bitmap",
+     "w": 49,
+     "h": 27,
+     "regX": 263,
+     "regY": -68,
+     "bpp": 8,
+     "file": "43.png"
+    },
+    {
+     "num": 44,
+     "name": "02b005v0",
+     "type": "bitmap",
+     "w": 49,
+     "h": 38,
+     "regX": 263,
+     "regY": -68,
+     "bpp": 8,
+     "file": "44.png"
+    },
+    {
+     "num": 45,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 46,
+     "name": "MailBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 47,
+     "name": "04b006v0",
+     "type": "bitmap",
+     "w": 720,
+     "h": 540,
+     "regX": 360,
+     "regY": 270,
+     "bpp": 8,
+     "file": "47.png"
+    },
+    {
+     "num": 48,
+     "name": "04e009v0",
+     "type": "sound",
+     "loop": false,
+     "file": "48.wav",
+     "duration": 0.245
+    },
+    {
+     "num": 49,
+     "name": "04e010v0",
+     "type": "sound",
+     "loop": false,
+     "file": "49.wav",
+     "duration": 0.324
+    },
+    {
+     "num": 53,
+     "name": "04b004v0",
+     "type": "bitmap",
+     "w": 117,
+     "h": 95,
+     "regX": 58,
+     "regY": 47,
+     "bpp": 8,
+     "file": "53.png"
+    },
+    {
+     "num": 61,
+     "name": "MulleCarAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1], #Wait:[[#RndHold, 1, 30, 50], #WaveFromCar, #buffa, #buffa],#Talk:[9,10,11,12,13,14,15,14,13,12,11,10],#buffa:[17,18,19,18],  #waveFromCar:[8,7,6,5,4,3,2,1,[#RndHold, 1, 30, 50],3,4,5,6,7,8,1,[#RndHold, 1, 30, 80]]], #Paths:[#Test:[point(100,100), point(200,200)]]]"
+    },
+    {
+     "num": 62,
+     "name": "MulleCarTalkAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1], #Wait:[[#RndHold, 9, 30, 50], #WaveFromCar, #buffa, #buffa],#Talk:[9,10,11,12,13,14,15,14,13,12,11,10],#buffa:[17,18,19,18],  #waveFromCar:[8,7,6,5,4,3,2,1,[#RndHold, 1, 30, 50],3,4,5,6,7,8,1,[#RndHold, 1, 30, 80]]], #Paths:[#Test:[point(100,100), point(200,200)]]]"
+    },
+    {
+     "num": 94,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 96,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 97,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 98,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 99,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 100,
+     "name": "",
+     "type": "script",
+     "scriptType": "movie"
+    },
+    {
+     "num": 101,
+     "name": "ASoundBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 102,
+     "name": "Go to Marker",
+     "type": "script",
+     "scriptType": "score"
+    },
+    {
+     "num": 103,
+     "name": "TittAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Geneva",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#suck:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1,1]], #Paths:[]]"
+    },
+    {
+     "num": 104,
+     "name": "",
+     "type": "bitmap",
+     "w": 56,
+     "h": 23,
+     "regX": 28,
+     "regY": 11,
+     "bpp": 8,
+     "file": "104.png"
+    },
+    {
+     "num": 105,
+     "name": "goToCrashBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 108,
+     "name": "83e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "108.wav",
+     "duration": 10.187
+    },
+    {
+     "num": 109,
+     "name": "83e002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8891,
+       "name": "Cue 1"
+      }
+     ],
+     "file": "109.wav",
+     "duration": 9.444
+    },
+    {
+     "num": 110,
+     "name": "83e003v0",
+     "type": "sound",
+     "loop": false,
+     "file": "110.wav",
+     "duration": 1.689
+    },
+    {
+     "num": 111,
+     "name": "83e004v0",
+     "type": "sound",
+     "loop": false,
+     "file": "111.wav",
+     "duration": 6.998
+    },
+    {
+     "num": 112,
+     "name": "Mulle bakgrundsljud",
+     "type": "sound",
+     "loop": true,
+     "file": "112.wav",
+     "duration": 10.486
+    },
+    {
+     "num": 116,
+     "name": "04b002v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "116.png"
+    },
+    {
+     "num": 117,
+     "name": "04b003v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "117.png"
+    },
+    {
+     "num": 118,
+     "name": "04b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "118.png"
+    },
+    {
+     "num": 119,
+     "name": "",
+     "type": "transition",
+     "spec": "000409020000"
+    },
+    {
+     "num": 120,
+     "name": "bil",
+     "type": "bitmap",
+     "w": 458,
+     "h": 343,
+     "regX": 197,
+     "regY": 203,
+     "bpp": 8,
+     "file": "120.png"
+    },
+    {
+     "num": 121,
+     "name": "04a006v0",
+     "type": "bitmap",
+     "w": 205,
+     "h": 162,
+     "regX": 55,
+     "regY": 13,
+     "bpp": 8,
+     "file": "121.png"
+    },
+    {
+     "num": 122,
+     "name": "02",
+     "type": "bitmap",
+     "w": 205,
+     "h": 165,
+     "regX": 55,
+     "regY": 16,
+     "bpp": 8,
+     "file": "122.png"
+    },
+    {
+     "num": 123,
+     "name": "03",
+     "type": "bitmap",
+     "w": 205,
+     "h": 166,
+     "regX": 55,
+     "regY": 17,
+     "bpp": 8,
+     "file": "123.png"
+    },
+    {
+     "num": 124,
+     "name": "04",
+     "type": "bitmap",
+     "w": 205,
+     "h": 167,
+     "regX": 55,
+     "regY": 18,
+     "bpp": 8,
+     "file": "124.png"
+    },
+    {
+     "num": 125,
+     "name": "05",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "125.png"
+    },
+    {
+     "num": 126,
+     "name": "06",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "126.png"
+    },
+    {
+     "num": 127,
+     "name": "07",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "127.png"
+    },
+    {
+     "num": 128,
+     "name": "04a006v1",
+     "type": "bitmap",
+     "w": 205,
+     "h": 162,
+     "regX": 55,
+     "regY": 13,
+     "bpp": 8,
+     "file": "128.png"
+    },
+    {
+     "num": 129,
+     "name": "02",
+     "type": "bitmap",
+     "w": 205,
+     "h": 165,
+     "regX": 55,
+     "regY": 16,
+     "bpp": 8,
+     "file": "129.png"
+    },
+    {
+     "num": 130,
+     "name": "03",
+     "type": "bitmap",
+     "w": 205,
+     "h": 166,
+     "regX": 55,
+     "regY": 17,
+     "bpp": 8,
+     "file": "130.png"
+    },
+    {
+     "num": 131,
+     "name": "04",
+     "type": "bitmap",
+     "w": 205,
+     "h": 167,
+     "regX": 55,
+     "regY": 18,
+     "bpp": 8,
+     "file": "131.png"
+    },
+    {
+     "num": 132,
+     "name": "05",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "132.png"
+    },
+    {
+     "num": 133,
+     "name": "06",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "133.png"
+    },
+    {
+     "num": 134,
+     "name": "07",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "134.png"
+    },
+    {
+     "num": 135,
+     "name": "YrMulleAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Yr:[1,2,3,3,2,3,3,2,3,3,4,6,7,6,7,6,7,5,5,5,5,5,4,3,2,1]], #Paths:[]]\n"
+    },
+    {
+     "num": 194,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 195,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 196,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 197,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 198,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 199,
+     "name": "UI Rollover Change Pointer ",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 200,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 201,
+     "name": "UI Rollover Change Member",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 202,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 203,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 204,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 205,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 206,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 207,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 208,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 209,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 210,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 211,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 212,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 213,
+     "name": "ASoundBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 214,
+     "name": "Go to Marker",
+     "type": "script",
+     "scriptType": "score"
+    },
+    {
+     "num": 215,
+     "name": "TittAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Geneva",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#suck:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1,1]], #Paths:[]]"
+    },
+    {
+     "num": 219,
+     "name": "ASoundBH",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 224,
+     "name": "Mulle bakgrundsljud",
+     "type": "sound",
+     "loop": true,
+     "file": "224.wav",
+     "duration": 10.486
+    },
+    {
+     "num": 228,
+     "name": "04b002v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "228.png"
+    },
+    {
+     "num": 229,
+     "name": "04b003v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "229.png"
+    },
+    {
+     "num": 230,
+     "name": "04b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "230.png"
+    },
+    {
+     "num": 233,
+     "name": "04a006v0",
+     "type": "bitmap",
+     "w": 205,
+     "h": 162,
+     "regX": 55,
+     "regY": 13,
+     "bpp": 8,
+     "file": "233.png"
+    },
+    {
+     "num": 234,
+     "name": "02",
+     "type": "bitmap",
+     "w": 205,
+     "h": 165,
+     "regX": 55,
+     "regY": 16,
+     "bpp": 8,
+     "file": "234.png"
+    },
+    {
+     "num": 235,
+     "name": "03",
+     "type": "bitmap",
+     "w": 205,
+     "h": 166,
+     "regX": 55,
+     "regY": 17,
+     "bpp": 8,
+     "file": "235.png"
+    },
+    {
+     "num": 236,
+     "name": "04",
+     "type": "bitmap",
+     "w": 205,
+     "h": 167,
+     "regX": 55,
+     "regY": 18,
+     "bpp": 8,
+     "file": "236.png"
+    },
+    {
+     "num": 237,
+     "name": "05",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "237.png"
+    },
+    {
+     "num": 238,
+     "name": "06",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "238.png"
+    },
+    {
+     "num": 239,
+     "name": "07",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "239.png"
+    },
+    {
+     "num": 240,
+     "name": "04a006v1",
+     "type": "bitmap",
+     "w": 205,
+     "h": 162,
+     "regX": 55,
+     "regY": 13,
+     "bpp": 8,
+     "file": "240.png"
+    },
+    {
+     "num": 241,
+     "name": "02",
+     "type": "bitmap",
+     "w": 205,
+     "h": 165,
+     "regX": 55,
+     "regY": 16,
+     "bpp": 8,
+     "file": "241.png"
+    },
+    {
+     "num": 242,
+     "name": "03",
+     "type": "bitmap",
+     "w": 205,
+     "h": 166,
+     "regX": 55,
+     "regY": 17,
+     "bpp": 8,
+     "file": "242.png"
+    },
+    {
+     "num": 243,
+     "name": "04",
+     "type": "bitmap",
+     "w": 205,
+     "h": 167,
+     "regX": 55,
+     "regY": 18,
+     "bpp": 8,
+     "file": "243.png"
+    },
+    {
+     "num": 244,
+     "name": "05",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "244.png"
+    },
+    {
+     "num": 245,
+     "name": "06",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "245.png"
+    },
+    {
+     "num": 246,
+     "name": "07",
+     "type": "bitmap",
+     "w": 205,
+     "h": 169,
+     "regX": 55,
+     "regY": 20,
+     "bpp": 8,
+     "file": "246.png"
+    },
+    {
+     "num": 247,
+     "name": "YrMulleAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 12,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Yr:[1,2,3,3,2,3,3,2,3,3,4,6,7,6,7,6,7,5,5,5,5,5,4,3,2,1]], #Paths:[]]\n"
+    },
+    {
+     "num": 250,
+     "name": "83e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "250.wav",
+     "duration": 10.187
+    },
+    {
+     "num": 251,
+     "name": "83e002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8891,
+       "name": "Cue 1"
+      }
+     ],
+     "file": "251.wav",
+     "duration": 9.444
+    },
+    {
+     "num": 252,
+     "name": "83e003v0",
+     "type": "sound",
+     "loop": false,
+     "file": "252.wav",
+     "duration": 1.689
+    },
+    {
+     "num": 253,
+     "name": "83e004v0",
+     "type": "sound",
+     "loop": false,
+     "file": "253.wav",
+     "duration": 6.998
+    },
+    {
+     "num": 261,
+     "name": "04d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 783,
+       "name": "silence"
+      },
+      {
+       "time": 1008,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "261.wav",
+     "duration": 2.094
+    },
+    {
+     "num": 262,
+     "name": "04d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "262.wav",
+     "duration": 1.924
+    },
+    {
+     "num": 263,
+     "name": "04d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 8,
+       "name": "talk"
+      },
+      {
+       "time": 349,
+       "name": "silence"
+      },
+      {
+       "time": 458,
+       "name": "talk"
+      },
+      {
+       "time": 2391,
+       "name": "silence"
+      },
+      {
+       "time": 2391,
+       "name": "silence"
+      },
+      {
+       "time": 2841,
+       "name": "talk"
+      },
+      {
+       "time": 2841,
+       "name": "talk"
+      },
+      {
+       "time": 4974,
+       "name": "silence"
+      },
+      {
+       "time": 5483,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "263.wav",
+     "duration": 8.545
+    },
+    {
+     "num": 264,
+     "name": "04d004v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1400,
+       "name": "talk"
+      },
+      {
+       "time": 2208,
+       "name": "silence"
+      },
+      {
+       "time": 2849,
+       "name": "talk"
+      },
+      {
+       "time": 7366,
+       "name": "silence"
+      },
+      {
+       "time": 7974,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "264.wav",
+     "duration": 10.04
+    },
+    {
+     "num": 265,
+     "name": "04d005v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1233,
+       "name": "silence"
+      },
+      {
+       "time": 1341,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "265.wav",
+     "duration": 4.447
+    },
+    {
+     "num": 266,
+     "name": "04d006v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1291,
+       "name": "talk"
+      },
+      {
+       "time": 2883,
+       "name": "silence"
+      },
+      {
+       "time": 3149,
+       "name": "talk"
+      },
+      {
+       "time": 4911,
+       "name": "Cue 2"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "266.wav",
+     "duration": 6.345
+    },
+    {
+     "num": 267,
+     "name": "04d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1044,
+       "name": "silence"
+      },
+      {
+       "time": 1509,
+       "name": "talk"
+      },
+      {
+       "time": 2833,
+       "name": "silence"
+      },
+      {
+       "time": 3041,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "267.wav",
+     "duration": 5.787
+    },
+    {
+     "num": 268,
+     "name": "04d008v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 29,
+       "name": "talk"
+      },
+      {
+       "time": 733,
+       "name": "silence"
+      },
+      {
+       "time": 1058,
+       "name": "talk"
+      },
+      {
+       "time": 2000,
+       "name": "silence"
+      },
+      {
+       "time": 2116,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "268.wav",
+     "duration": 4.087
+    },
+    {
+     "num": 269,
+     "name": "04d009v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1849,
+       "name": "silence"
+      },
+      {
+       "time": 1941,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "269.wav",
+     "duration": 5.077
+    },
+    {
+     "num": 270,
+     "name": "04d010v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "270.wav",
+     "duration": 3.193
+    },
+    {
+     "num": 272,
+     "name": "04d013v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1624,
+       "name": "silence"
+      },
+      {
+       "time": 2191,
+       "name": "talk"
+      },
+      {
+       "time": 3416,
+       "name": "silence"
+      },
+      {
+       "time": 3866,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "272.wav",
+     "duration": 6.078
+    },
+    {
+     "num": 273,
+     "name": "04d014v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 541,
+       "name": "silence"
+      },
+      {
+       "time": 1041,
+       "name": "talk"
+      },
+      {
+       "time": 2274,
+       "name": "silence"
+      },
+      {
+       "time": 3216,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "273.wav",
+     "duration": 5.082
+    },
+    {
+     "num": 274,
+     "name": "04d015v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 3158,
+       "name": "silence"
+      },
+      {
+       "time": 3624,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "274.wav",
+     "duration": 5.248
+    },
+    {
+     "num": 275,
+     "name": "04d016v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 391,
+       "name": "silence"
+      },
+      {
+       "time": 833,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "275.wav",
+     "duration": 3.489
+    },
+    {
+     "num": 276,
+     "name": "04d017v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "276.wav",
+     "duration": 3.473
+    },
+    {
+     "num": 277,
+     "name": "04d018v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "277.wav",
+     "duration": 2.059
+    },
+    {
+     "num": 279,
+     "name": "04d020v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 366,
+       "name": "silence"
+      },
+      {
+       "time": 658,
+       "name": "talk"
+      },
+      {
+       "time": 949,
+       "name": "silence"
+      },
+      {
+       "time": 1544,
+       "name": "talk"
+      },
+      {
+       "time": 3300,
+       "name": "silence"
+      },
+      {
+       "time": 3639,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "279.wav",
+     "duration": 5.367
+    },
+    {
+     "num": 280,
+     "name": "04d021v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 22,
+       "name": "talk"
+      },
+      {
+       "time": 1247,
+       "name": "silence"
+      },
+      {
+       "time": 1762,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "280.wav",
+     "duration": 4.64
+    },
+    {
+     "num": 281,
+     "name": "04d022v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1085,
+       "name": "silence"
+      },
+      {
+       "time": 1462,
+       "name": "talk"
+      },
+      {
+       "time": 3743,
+       "name": "silence"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "281.wav",
+     "duration": 3.907
+    },
+    {
+     "num": 282,
+     "name": "04d023v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "282.wav",
+     "duration": 6.53
+    },
+    {
+     "num": 312,
+     "name": "04e002v1",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 2530,
+       "name": "ToNextFrame"
+      }
+     ],
+     "file": "312.wav",
+     "duration": 7.716
+    },
+    {
+     "num": 314,
+     "name": "04e002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 1369,
+       "name": "ToNextFrame"
+      }
+     ],
+     "file": "314.wav",
+     "duration": 6.269
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 2,
+   "name": "start"
+  },
+  {
+   "frame": 10,
+   "name": "giftstuff"
+  },
+  {
+   "frame": 20,
+   "name": "garage"
+  },
+  {
+   "frame": 30,
+   "name": "12"
+  },
+  {
+   "frame": 35,
+   "name": "08"
+  },
+  {
+   "frame": 40,
+   "name": "03"
+  },
+  {
+   "frame": 49,
+   "name": "05"
+  },
+  {
+   "frame": 55,
+   "name": "noCar"
+  },
+  {
+   "frame": 60,
+   "name": "XXX"
+  },
+  {
+   "frame": 64,
+   "name": "fence"
+  },
+  {
+   "frame": 84,
+   "name": "offroad"
+  }
+ ]
+}

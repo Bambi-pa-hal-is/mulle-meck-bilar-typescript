@@ -1,0 +1,199 @@
+{
+ "file": "MOVIES/89.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "89b001v0",
+     "type": "bitmap",
+     "w": 720,
+     "h": 540,
+     "regX": 360,
+     "regY": 270,
+     "bpp": 8,
+     "file": "1.png"
+    },
+    {
+     "num": 5,
+     "name": "",
+     "type": "transition",
+     "spec": "0008320207d0"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 17,
+     "name": "FireAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[0],#Blink:[1,1,2,2,2]], #Paths:[]]"
+    },
+    {
+     "num": 18,
+     "name": "89n001v0",
+     "type": "bitmap",
+     "w": 135,
+     "h": 115,
+     "regX": 67,
+     "regY": 57,
+     "bpp": 8,
+     "file": "18.png"
+    },
+    {
+     "num": 19,
+     "name": "2",
+     "type": "bitmap",
+     "w": 135,
+     "h": 115,
+     "regX": 67,
+     "regY": 57,
+     "bpp": 8,
+     "file": "19.png"
+    },
+    {
+     "num": 20,
+     "name": "3",
+     "type": "bitmap",
+     "w": 135,
+     "h": 115,
+     "regX": 67,
+     "regY": 57,
+     "bpp": 8,
+     "file": "20.png"
+    },
+    {
+     "num": 177,
+     "name": "89e001v0",
+     "type": "sound",
+     "loop": true,
+     "file": "177.wav",
+     "duration": 13.166
+    },
+    {
+     "num": 200,
+     "name": "89d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "200.wav",
+     "duration": 12.066
+    },
+    {
+     "num": 201,
+     "name": "89d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "201.wav",
+     "duration": 15.663
+    },
+    {
+     "num": 202,
+     "name": "89d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 916,
+       "name": "silence"
+      },
+      {
+       "time": 1658,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "202.wav",
+     "duration": 4.818
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 5,
+   "name": "Done"
+  },
+  {
+   "frame": 16,
+   "name": "JustDoIt"
+  },
+  {
+   "frame": 19,
+   "name": "Gift"
+  },
+  {
+   "frame": 20,
+   "name": "Blink"
+  },
+  {
+   "frame": 30,
+   "name": "BAck"
+  },
+  {
+   "frame": 36,
+   "name": "Leave"
+  }
+ ]
+}

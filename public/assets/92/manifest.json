@@ -1,0 +1,520 @@
+{
+ "file": "MOVIES/92.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 2,
+   "members": [
+    {
+     "num": 2,
+     "name": "92b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "2.png"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 12,
+     "name": "dunk",
+     "type": "bitmap",
+     "w": 53,
+     "h": 40,
+     "regX": 26,
+     "regY": 20,
+     "bpp": 8,
+     "file": "12.png"
+    },
+    {
+     "num": 17,
+     "name": "01",
+     "type": "bitmap",
+     "w": 78,
+     "h": 220,
+     "regX": -85,
+     "regY": 78,
+     "bpp": 8,
+     "file": "17.png"
+    },
+    {
+     "num": 18,
+     "name": "Granne1",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "18.png"
+    },
+    {
+     "num": 19,
+     "name": "03",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "19.png"
+    },
+    {
+     "num": 20,
+     "name": "04",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "20.png"
+    },
+    {
+     "num": 21,
+     "name": "05",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "21.png"
+    },
+    {
+     "num": 22,
+     "name": "06",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "22.png"
+    },
+    {
+     "num": 23,
+     "name": "07",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "23.png"
+    },
+    {
+     "num": 24,
+     "name": "08",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "24.png"
+    },
+    {
+     "num": 25,
+     "name": "09",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "25.png"
+    },
+    {
+     "num": 26,
+     "name": "02",
+     "type": "bitmap",
+     "w": 37,
+     "h": 44,
+     "regX": -105,
+     "regY": 78,
+     "bpp": 8,
+     "file": "26.png"
+    },
+    {
+     "num": 27,
+     "name": "10",
+     "type": "bitmap",
+     "w": 83,
+     "h": 220,
+     "regX": -78,
+     "regY": 78,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 28,
+     "name": "NeighbourAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1], #Wait:[[#RndHold, 0, 10, 44], #Blink], #Talk:[2,3,[#RndFrame, [1,2,3,4]],4,5], #Blink:[6]], #Paths:[]]"
+    },
+    {
+     "num": 38,
+     "name": "DogAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#wift:[1,2,3,4,5,3,2,1]], #Paths:[]]\n"
+    },
+    {
+     "num": 41,
+     "name": "85a001v0",
+     "type": "bitmap",
+     "w": 87,
+     "h": 96,
+     "regX": 0,
+     "regY": 17,
+     "bpp": 8,
+     "file": "41.png"
+    },
+    {
+     "num": 42,
+     "name": "02",
+     "type": "bitmap",
+     "w": 93,
+     "h": 96,
+     "regX": 0,
+     "regY": 17,
+     "bpp": 8,
+     "file": "42.png"
+    },
+    {
+     "num": 43,
+     "name": "03",
+     "type": "bitmap",
+     "w": 99,
+     "h": 96,
+     "regX": 0,
+     "regY": 17,
+     "bpp": 8,
+     "file": "43.png"
+    },
+    {
+     "num": 44,
+     "name": "04",
+     "type": "bitmap",
+     "w": 106,
+     "h": 96,
+     "regX": 0,
+     "regY": 17,
+     "bpp": 8,
+     "file": "44.png"
+    },
+    {
+     "num": 45,
+     "name": "05",
+     "type": "bitmap",
+     "w": 100,
+     "h": 96,
+     "regX": 0,
+     "regY": 17,
+     "bpp": 8,
+     "file": "45.png"
+    },
+    {
+     "num": 182,
+     "name": "92e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "182.wav",
+     "duration": 2.914
+    },
+    {
+     "num": 183,
+     "name": "92e002v0",
+     "type": "sound",
+     "loop": true,
+     "file": "183.wav",
+     "duration": 6.548
+    },
+    {
+     "num": 200,
+     "name": "92d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "200.wav",
+     "duration": 14.371
+    },
+    {
+     "num": 201,
+     "name": "92d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "201.wav",
+     "duration": 4.053
+    },
+    {
+     "num": 202,
+     "name": "92d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk "
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "202.wav",
+     "duration": 1.958
+    },
+    {
+     "num": 203,
+     "name": "92d004v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1066,
+       "name": "silence"
+      },
+      {
+       "time": 1549,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "203.wav",
+     "duration": 2.85
+    },
+    {
+     "num": 204,
+     "name": "92d005v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 24,
+       "name": "tALK"
+      },
+      {
+       "time": 2466,
+       "name": "silence"
+      },
+      {
+       "time": 2766,
+       "name": "TALK"
+      },
+      {
+       "time": 3816,
+       "name": "silence"
+      },
+      {
+       "time": 4616,
+       "name": "talk"
+      },
+      {
+       "time": 7140,
+       "name": "silence"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "204.wav",
+     "duration": 7.639
+    },
+    {
+     "num": 205,
+     "name": "92d006v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1224,
+       "name": "silence"
+      },
+      {
+       "time": 1816,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "205.wav",
+     "duration": 4.156
+    },
+    {
+     "num": 206,
+     "name": "92d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1183,
+       "name": "silence"
+      },
+      {
+       "time": 1508,
+       "name": "talk"
+      },
+      {
+       "time": 2224,
+       "name": "silence"
+      },
+      {
+       "time": 2866,
+       "name": "talk"
+      },
+      {
+       "time": 4233,
+       "name": "silence"
+      },
+      {
+       "time": 4574,
+       "name": "talk"
+      },
+      {
+       "time": 6074,
+       "name": "silence"
+      },
+      {
+       "time": 6591,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "206.wav",
+     "duration": 7.454
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 6,
+   "name": "Done"
+  },
+  {
+   "frame": 20,
+   "name": "CantDoIt"
+  },
+  {
+   "frame": 23,
+   "name": "Granne ber om hjlp"
+  },
+  {
+   "frame": 36,
+   "name": "Mulle nekar"
+  },
+  {
+   "frame": 58,
+   "name": "JustDoIt"
+  },
+  {
+   "frame": 63,
+   "name": "Jajamenssan"
+  },
+  {
+   "frame": 72,
+   "name": "Granntack"
+  },
+  {
+   "frame": 83,
+   "name": "Thing"
+  },
+  {
+   "frame": 88,
+   "name": "Mulle tack"
+  },
+  {
+   "frame": 100,
+   "name": "Leave"
+  }
+ ]
+}

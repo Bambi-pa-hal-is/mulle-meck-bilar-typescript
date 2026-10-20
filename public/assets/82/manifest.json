@@ -1,0 +1,672 @@
+{
+ "file": "MOVIES/82.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "82b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "1.png"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 17,
+     "name": "MooseAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[0],#Blink:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2]], #Paths:[]]"
+    },
+    {
+     "num": 18,
+     "name": "82a003v0",
+     "type": "bitmap",
+     "w": 32,
+     "h": 30,
+     "regX": 16,
+     "regY": 15,
+     "bpp": 8,
+     "file": "18.png"
+    },
+    {
+     "num": 19,
+     "name": "",
+     "type": "bitmap",
+     "w": 32,
+     "h": 30,
+     "regX": 16,
+     "regY": 15,
+     "bpp": 8,
+     "file": "19.png"
+    },
+    {
+     "num": 25,
+     "name": "TittAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#suck:[1,1,1,1,1,2,3,3,3,3,3,3,3,2]], #Paths:[]]"
+    },
+    {
+     "num": 26,
+     "name": "82a002v0",
+     "type": "bitmap",
+     "w": 45,
+     "h": 42,
+     "regX": 22,
+     "regY": 21,
+     "bpp": 8,
+     "file": "26.png"
+    },
+    {
+     "num": 27,
+     "name": "2",
+     "type": "bitmap",
+     "w": 45,
+     "h": 42,
+     "regX": 22,
+     "regY": 21,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 28,
+     "name": "3",
+     "type": "bitmap",
+     "w": 45,
+     "h": 42,
+     "regX": 22,
+     "regY": 21,
+     "bpp": 8,
+     "file": "28.png"
+    },
+    {
+     "num": 29,
+     "name": "4",
+     "type": "bitmap",
+     "w": 45,
+     "h": 42,
+     "regX": 22,
+     "regY": 21,
+     "bpp": 8,
+     "file": "29.png"
+    },
+    {
+     "num": 30,
+     "name": "5",
+     "type": "bitmap",
+     "w": 45,
+     "h": 42,
+     "regX": 22,
+     "regY": 21,
+     "bpp": 8,
+     "file": "30.png"
+    },
+    {
+     "num": 31,
+     "name": "6",
+     "type": "bitmap",
+     "w": 45,
+     "h": 42,
+     "regX": 22,
+     "regY": 21,
+     "bpp": 8,
+     "file": "31.png"
+    },
+    {
+     "num": 32,
+     "name": "HelpAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#help:[2,3,3,2,4,3,2,2,5,5,4,3,3,4,6]], #Paths:[]]"
+    },
+    {
+     "num": 33,
+     "name": "WeakCarAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Svag:[1,1,1,1,1,2,2,3,3,4,4,5,5,5,5,5,5,4,4,3,3,2,2,4,4,5,5,5,5,5]], #Paths:[]]"
+    },
+    {
+     "num": 34,
+     "name": "82a001v0",
+     "type": "bitmap",
+     "w": 213,
+     "h": 63,
+     "regX": 320,
+     "regY": -43,
+     "bpp": 8,
+     "file": "34.png"
+    },
+    {
+     "num": 35,
+     "name": "03",
+     "type": "bitmap",
+     "w": 214,
+     "h": 60,
+     "regX": 320,
+     "regY": -42,
+     "bpp": 8,
+     "file": "35.png"
+    },
+    {
+     "num": 36,
+     "name": "04",
+     "type": "bitmap",
+     "w": 215,
+     "h": 55,
+     "regX": 320,
+     "regY": -40,
+     "bpp": 8,
+     "file": "36.png"
+    },
+    {
+     "num": 37,
+     "name": "05",
+     "type": "bitmap",
+     "w": 216,
+     "h": 50,
+     "regX": 320,
+     "regY": -39,
+     "bpp": 8,
+     "file": "37.png"
+    },
+    {
+     "num": 38,
+     "name": "06",
+     "type": "bitmap",
+     "w": 220,
+     "h": 40,
+     "regX": 320,
+     "regY": -39,
+     "bpp": 8,
+     "file": "38.png"
+    },
+    {
+     "num": 39,
+     "name": "09",
+     "type": "bitmap",
+     "w": 273,
+     "h": 64,
+     "regX": 14,
+     "regY": -30,
+     "bpp": 8,
+     "file": "39.png"
+    },
+    {
+     "num": 41,
+     "name": "StrongCarAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#strong:[1,1,1,1,1,1,1,1,1,1,1,1,2,2,3,3,4,4,5,5,5]], #Paths:[]]"
+    },
+    {
+     "num": 42,
+     "name": "DragCarAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[0],#strong:[1,1,1,1,1,2,2,3,3,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5]], #Paths:[]]"
+    },
+    {
+     "num": 43,
+     "name": "01",
+     "type": "bitmap",
+     "w": 394,
+     "h": 154,
+     "regX": 197,
+     "regY": 84,
+     "bpp": 8,
+     "file": "43.png"
+    },
+    {
+     "num": 44,
+     "name": "01",
+     "type": "bitmap",
+     "w": 394,
+     "h": 154,
+     "regX": 197,
+     "regY": 84,
+     "bpp": 8,
+     "file": "44.png"
+    },
+    {
+     "num": 49,
+     "name": "SittAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#Sitt:[1,2,3,4,5,6,7]], #Paths:[]]"
+    },
+    {
+     "num": 50,
+     "name": "Sitt",
+     "type": "bitmap",
+     "w": 153,
+     "h": 97,
+     "regX": 104,
+     "regY": 8,
+     "bpp": 8,
+     "file": "50.png"
+    },
+    {
+     "num": 51,
+     "name": "15",
+     "type": "bitmap",
+     "w": 161,
+     "h": 82,
+     "regX": 107,
+     "regY": -9,
+     "bpp": 8,
+     "file": "51.png"
+    },
+    {
+     "num": 52,
+     "name": "16",
+     "type": "bitmap",
+     "w": 144,
+     "h": 97,
+     "regX": 82,
+     "regY": 9,
+     "bpp": 8,
+     "file": "52.png"
+    },
+    {
+     "num": 53,
+     "name": "17",
+     "type": "bitmap",
+     "w": 133,
+     "h": 113,
+     "regX": 62,
+     "regY": 24,
+     "bpp": 8,
+     "file": "53.png"
+    },
+    {
+     "num": 54,
+     "name": "18",
+     "type": "bitmap",
+     "w": 135,
+     "h": 88,
+     "regX": 62,
+     "regY": -1,
+     "bpp": 8,
+     "file": "54.png"
+    },
+    {
+     "num": 55,
+     "name": "19",
+     "type": "bitmap",
+     "w": 93,
+     "h": 78,
+     "regX": 38,
+     "regY": -11,
+     "bpp": 8,
+     "file": "55.png"
+    },
+    {
+     "num": 56,
+     "name": "20",
+     "type": "bitmap",
+     "w": 66,
+     "h": 96,
+     "regX": 9,
+     "regY": 8,
+     "bpp": 8,
+     "file": "56.png"
+    },
+    {
+     "num": 57,
+     "name": "01",
+     "type": "bitmap",
+     "w": 56,
+     "h": 98,
+     "regX": 204,
+     "regY": 12,
+     "bpp": 8,
+     "file": "57.png"
+    },
+    {
+     "num": 83,
+     "name": "82d009v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 133,
+       "name": "silence"
+      },
+      {
+       "time": 333,
+       "name": "talk"
+      },
+      {
+       "time": 516,
+       "name": "silence"
+      },
+      {
+       "time": 791,
+       "name": "talk"
+      },
+      {
+       "time": 1541,
+       "name": "silence"
+      },
+      {
+       "time": 1966,
+       "name": "talk"
+      },
+      {
+       "time": 2166,
+       "name": "silence"
+      },
+      {
+       "time": 2341,
+       "name": "talk"
+      },
+      {
+       "time": 2716,
+       "name": "silence"
+      },
+      {
+       "time": 3241,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "83.wav",
+     "duration": 4.724
+    },
+    {
+     "num": 173,
+     "name": "82e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "173.wav",
+     "duration": 8.377
+    },
+    {
+     "num": 174,
+     "name": "82e002v0",
+     "type": "sound",
+     "loop": false,
+     "file": "174.wav",
+     "duration": 9.444
+    },
+    {
+     "num": 200,
+     "name": "82d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 816,
+       "name": "talk"
+      },
+      {
+       "time": 1174,
+       "name": "talk"
+      },
+      {
+       "time": 2558,
+       "name": "silence"
+      },
+      {
+       "time": 3166,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "200.wav",
+     "duration": 4.894
+    },
+    {
+     "num": 201,
+     "name": "82d006v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 374,
+       "name": "silence"
+      },
+      {
+       "time": 533,
+       "name": "talk"
+      },
+      {
+       "time": 1224,
+       "name": "silence"
+      },
+      {
+       "time": 1949,
+       "name": "talk"
+      },
+      {
+       "time": 3674,
+       "name": "silence"
+      },
+      {
+       "time": 4324,
+       "name": "talk"
+      },
+      {
+       "time": 5100,
+       "name": "silence"
+      },
+      {
+       "time": 5900,
+       "name": "talk"
+      }
+     ],
+     "file": "201.wav",
+     "duration": 7.48
+    },
+    {
+     "num": 202,
+     "name": "82d009v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 133,
+       "name": "silence"
+      },
+      {
+       "time": 333,
+       "name": "talk"
+      },
+      {
+       "time": 516,
+       "name": "silence"
+      },
+      {
+       "time": 791,
+       "name": "talk"
+      },
+      {
+       "time": 1541,
+       "name": "silence"
+      },
+      {
+       "time": 1966,
+       "name": "talk"
+      },
+      {
+       "time": 2166,
+       "name": "silence"
+      },
+      {
+       "time": 2341,
+       "name": "talk"
+      },
+      {
+       "time": 2716,
+       "name": "silence"
+      },
+      {
+       "time": 3241,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "202.wav",
+     "duration": 4.724
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 5,
+   "name": "CantDoIt"
+  },
+  {
+   "frame": 12,
+   "name": "Mulle tvekar"
+  },
+  {
+   "frame": 23,
+   "name": "JustDoIt"
+  },
+  {
+   "frame": 110,
+   "name": "Mulletalk"
+  },
+  {
+   "frame": 120,
+   "name": "Leave"
+  }
+ ]
+}

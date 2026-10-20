@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mulle Meck bygger bilar</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #000; overflow: hidden; }
+    body { display: flex; align-items: center; justify-content: center; }
+    canvas { image-rendering: crisp-edges; image-rendering: pixelated; cursor: none; touch-action: none; }
+    #start { position: absolute; inset: 0; display: flex; flex-direction: column; gap: 28px; align-items: center;
+      justify-content: center; color: #fff; font: 24px sans-serif; background: #000; cursor: pointer; }
+    #extras { font-size: 17px; color: #ccc; cursor: pointer; user-select: none; display: flex; gap: 10px; align-items: center; }
+    #extras input { width: 20px; height: 20px; cursor: pointer; }
+    #extras small { display: block; color: #888; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <canvas id="stage" width="640" height="480"></canvas>
+  <div id="start">
+    <div id="startText">Laddar…</div>
+    <label id="extras"><input type="checkbox" id="extrasBox">
+      <span>Använd extramaterial<small>Figges skrot (ny värld + minispel) och extra bildelar</small></span></label>
+  </div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

@@ -1,0 +1,254 @@
+{
+ "file": "MOVIES/85.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 2,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 18,
+     "name": "TittAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 14,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#Still:[1],#suck:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1,1]], #Paths:[]]"
+    },
+    {
+     "num": 23,
+     "name": "",
+     "type": "transition",
+     "spec": "000409020000"
+    },
+    {
+     "num": 25,
+     "name": "85b001v0",
+     "type": "bitmap",
+     "w": 640,
+     "h": 480,
+     "regX": 320,
+     "regY": 240,
+     "bpp": 8,
+     "file": "25.png"
+    },
+    {
+     "num": 26,
+     "name": "85a001v0",
+     "type": "bitmap",
+     "w": 87,
+     "h": 96,
+     "regX": 264,
+     "regY": 48,
+     "bpp": 8,
+     "file": "26.png"
+    },
+    {
+     "num": 27,
+     "name": "02",
+     "type": "bitmap",
+     "w": 93,
+     "h": 96,
+     "regX": 270,
+     "regY": 48,
+     "bpp": 8,
+     "file": "27.png"
+    },
+    {
+     "num": 28,
+     "name": "03",
+     "type": "bitmap",
+     "w": 99,
+     "h": 96,
+     "regX": 276,
+     "regY": 48,
+     "bpp": 8,
+     "file": "28.png"
+    },
+    {
+     "num": 29,
+     "name": "04",
+     "type": "bitmap",
+     "w": 106,
+     "h": 96,
+     "regX": 283,
+     "regY": 48,
+     "bpp": 8,
+     "file": "29.png"
+    },
+    {
+     "num": 30,
+     "name": "05",
+     "type": "bitmap",
+     "w": 100,
+     "h": 96,
+     "regX": 277,
+     "regY": 48,
+     "bpp": 8,
+     "file": "30.png"
+    },
+    {
+     "num": 31,
+     "name": "DogAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#wift:[1,2,3,4,5,3,2]], #Paths:[]]\n"
+    },
+    {
+     "num": 34,
+     "name": "01",
+     "type": "bitmap",
+     "w": 82,
+     "h": 96,
+     "regX": 70,
+     "regY": 17,
+     "bpp": 8,
+     "file": "34.png"
+    },
+    {
+     "num": 190,
+     "name": "85e001v0",
+     "type": "sound",
+     "loop": false,
+     "file": "190.wav",
+     "duration": 7.082
+    },
+    {
+     "num": 200,
+     "name": "85d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 1074,
+       "name": "silence"
+      },
+      {
+       "time": 1916,
+       "name": "talk"
+      },
+      {
+       "time": 2691,
+       "name": "silence"
+      },
+      {
+       "time": 3166,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "200.wav",
+     "duration": 5.085
+    },
+    {
+     "num": 201,
+     "name": "85d002v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 3458,
+       "name": "silence"
+      },
+      {
+       "time": 4016,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "201.wav",
+     "duration": 5.552
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 3,
+   "name": "Prata"
+  },
+  {
+   "frame": 7,
+   "name": "Pause"
+  },
+  {
+   "frame": 13,
+   "name": "Tillbaka"
+  },
+  {
+   "frame": 20,
+   "name": "Leave"
+  }
+ ]
+}

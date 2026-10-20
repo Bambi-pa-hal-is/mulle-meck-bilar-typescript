@@ -1,0 +1,154 @@
+{
+ "file": "MOVIES/91.dir",
+ "kind": "MV93",
+ "castLibs": [
+  "Internal",
+  "00",
+  "data",
+  "CDdata"
+ ],
+ "casts": [
+  {
+   "name": "Internal",
+   "index": 0,
+   "minMember": 1,
+   "members": [
+    {
+     "num": 1,
+     "name": "91b001v0",
+     "type": "bitmap",
+     "w": 720,
+     "h": 540,
+     "regX": 360,
+     "regY": 270,
+     "bpp": 8,
+     "file": "1.png"
+    },
+    {
+     "num": 5,
+     "name": "",
+     "type": "transition",
+     "spec": "0008320207d0"
+    },
+    {
+     "num": 6,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "score"
+    },
+    {
+     "num": 9,
+     "name": "Dir",
+     "type": "script",
+     "script": true,
+     "scriptType": "parent"
+    },
+    {
+     "num": 10,
+     "name": "",
+     "type": "script",
+     "script": true,
+     "scriptType": "movie"
+    },
+    {
+     "num": 17,
+     "name": "DogAnimChart",
+     "type": "text",
+     "font": {
+      "name": "Courier New",
+      "size": 12,
+      "style": 0,
+      "lineHeight": 16,
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "text": "[#Actions:[#wift:[2,[#RndFrame, [3,4]],1]], #Paths:[]]\n"
+    },
+    {
+     "num": 174,
+     "name": "91e001v0",
+     "type": "sound",
+     "loop": true,
+     "file": "174.wav",
+     "duration": 10.391
+    },
+    {
+     "num": 200,
+     "name": "91d001v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "200.wav",
+     "duration": 13.124
+    },
+    {
+     "num": 201,
+     "name": "91d003v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "201.wav",
+     "duration": 9.287
+    },
+    {
+     "num": 202,
+     "name": "91d007v0",
+     "type": "sound",
+     "loop": false,
+     "cues": [
+      {
+       "time": 0,
+       "name": "talk"
+      },
+      {
+       "time": 63401993,
+       "name": ""
+      }
+     ],
+     "file": "202.wav",
+     "duration": 3.957
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "frame": 1,
+   "name": "start"
+  },
+  {
+   "frame": 6,
+   "name": "Done"
+  },
+  {
+   "frame": 17,
+   "name": "JustDoIt"
+  },
+  {
+   "frame": 18,
+   "name": "Gift"
+  },
+  {
+   "frame": 19,
+   "name": "Blink"
+  },
+  {
+   "frame": 34,
+   "name": "Leave"
+  }
+ ]
+}

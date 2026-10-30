@@ -1,0 +1,434 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "assets": [
+    {
+      "id": 1,
+      "prompt": "Use case: stylized-concept. Asset type: modular top-down 2D game car part sprite for a whimsical Swedish junk-built-car children's game. Primary request: ONE bare salvaged automobile ladder chassis, rusty charcoal steel frame with two long rails and crossbars, a few patchy metal plates. No wheels, no body, no engine, no seat. Camera strictly overhead orthographic, front of car pointing straight UP, long axis vertical. Center the part on a truly transparent canvas, occupy central 65% width and 85% height. Hand-painted gouache and dark ink outlines, muted worn colors, readable chunky details at tiny sprite size. No cast shadow, no text, no labels, no ground, no checkerboard. This is an isolated layer for assembling different cars."
+    },
+    {
+      "id": 5,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: open rectangular pickup cargo bed made of weathered teal corrugated steel panels with a wooden plank floor. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 12,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red ribbed vinyl bench seat with orange highlights, backrest at bottom of image. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 13,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: dark navy vintage automobile cabin with curved black roof, pale blue windshield at top, open lower end, no hood. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 16,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: open rectangular wooden cargo crate with honey-colored vertical planks and plank floor. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 17,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: tapered silver aircraft nose cone repurposed as a car hood, black tip pointing up. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 18,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: silver aircraft cockpit canopy repurposed as car cabin, pale blue glass and open rear. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 19,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: mint green vintage car hood with two headlamps and chrome grille at top, black wheel arches. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 20,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: mint green car cabin with a cream roof and pale blue windshield at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 21,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: mint green vintage car rear body with open central space and rounded rear fenders. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 22,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: bright green rounded tractor hood with rust patches and grille at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 23,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: golden yellow racing car rear body, sculpted wheel arches, open center. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 24,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: curved dark cobalt blue beetle car hood, rounded top edge. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center the entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra car chassis, wheels, engines or other parts beyond the requested subject."
+    },
+    {
+      "id": 25,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red racing car hood with white circle and black number 8 on top, rounded front pointing up. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 26,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: bare square metal car cabin frame with glass windshield at top, no solid roof. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 27,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red and bright green open car cabin with cream canvas roof. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 28,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red racing car rear body, white circle and black number 8 on top, open central area. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 29,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: golden yellow vintage car cabin with cream canvas roof, blue windshield at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 30,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: mustard yellow vintage truck hood with curved grille at top, rounded fenders. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 31,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: tiny whimsical red wooden house used as car cabin, red clay tiled roof, white framing. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 32,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: minimal curved wire frame car canopy, transparent open middle, thin black tubes. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 33,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: rust-orange antique tractor hood with rounded nose and five long black grille slots at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 36,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: tiny red wooden outhouse cargo box, dark grey shingle roof, white trim. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 37,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: tiny red wooden outhouse used as car cabin, dark grey shingle roof, white trim. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 61,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single thin black bicycle tire viewed strictly from above as a narrow vertical tread strip, hint of metal spokes on edges. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 63,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single perforated silver metal drum wheel viewed from above as a vertical cylindrical strip with rows of round holes. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 67,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: curved chrome front bumper with two blue auxiliary lamps, horizontal bar, front edge toward top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 68,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: curved rusty brown rear bumper, horizontal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 88,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single cream spherical wheel with thin black seam lines, overhead view. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 95,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single steel circular saw blade used as wheel, overhead view of narrow thick toothed vertical strip, no face-on disk. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 98,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single wooden spoked wagon wheel with brass rim, overhead narrow vertical strip, visible brown wood edges. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 99,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: golden tan fabric car canopy stretched over thin black rods, no body or wheels. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 100,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single wooden kitchen chair used as a car seat, honey-colored wood, backrest at bottom. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 115,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single large tractor tire, deep black knobby rubber tread, dark yellow rim peeking along edges, overhead vertical strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 118,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single small black rubber wheel, red metal rim, overhead narrow vertical strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 119,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: pale blue compact car hood with two headlamps and white grille at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 120,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: small round three-legged wooden stool used as a car seat, light wood. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 128,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: rectangular wicker cargo basket with pale yellow woven sides, dark red rim, open top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 129,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: green upholstered armchair used as a car seat, chunky striped velvet, backrest at bottom. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 136,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: curved wooden barrel section used as an open cargo bucket, brown staves and black metal hoops. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 138,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: old white enamel bathtub used as car cargo bed, open white oval interior, rust stained rim. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 142,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single ordinary black rubber car tire with blue steel rim, overhead vertical tread strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 145,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single ordinary black rubber car tire with red steel rim, overhead vertical tread strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 148,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: small blue wooden shed used as car cargo box, flat gray roof, orange trim. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 149,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: one continuous black rubber caterpillar tank track, long vertical loop with thick brown tread blocks, overhead view. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 154,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: burgundy red vintage automobile hood, round twin headlamps and curved chrome grille at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 157,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: small green canvas tent used as car cabin, green fabric ridge roof, no wheels. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 160,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: small octagonal pale wood and white glass gazebo used as car cabin, green pyramidal roof. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 161,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: triangular shiny chrome grille and bumper, horizontal base at bottom, pointed toward top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 167,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: white porcelain toilet used as car seat, orange padded tank and seat, cistern at bottom. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 168,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: pale blue steam locomotive front boiler used as car hood, short black chimney at top, riveted curved metal. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 172,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: large spherical rusty silver industrial pump as cargo, copper valves and brass pipes, overhead view. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 173,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: long red fire engine extendable ladder as rear cargo, silver rungs, ladder aligned vertically, no truck or wheels. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 174,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: cream white ambulance car hood with red stripe, grille and headlights at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 175,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: boxy cream ambulance rear cargo body with red stripe and flat white roof. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 177,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: white ambulance car cabin with red stripe, blue windows at top and white roof. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 184,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: long wooden storage chest used as car seat, brass hinges, honey wood planks. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 188,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single black car tire with chrome hubcap visible at edges, overhead vertical tread strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 189,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: folding navy blue canvas camping chair used as car seat, backrest at bottom. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 191,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red racing car cabin with cream roof and blue windshield at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 192,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red cylindrical soda can repurposed as a car hood, round silver end pointing up, abstract white stripe with no lettering. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 193,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red curved soda can section used as rear car body, silver open end pointing down, abstract white stripe without text. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 197,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single curved silver ski bumper, horizontal slender metal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 198,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single curved brown wooden ski bumper, horizontal slender wood bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 199,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red striped fabric garden swing canopy used as car cabin, four thin metal support rods, transparent beneath. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 201,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: pair of long white skis with blue trim used as front bumper, horizontal bars with curved tips. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 202,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: pair of long white skis with blue trim used as rear bumper, horizontal bars with curved tips. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 208,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: white and black police car cabin with pale blue windshield at top, gray roof, no letters or words. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 209,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: black and white police car hood, white top with black curved nose at top, no letters or words. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 210,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: black vintage car rear body, curved fenders around open central area. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 212,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: bright red vintage fire truck hood, chrome grille and paired round headlamps at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 214,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: open shallow rectangular red wooden pickup cargo bed, red plank floor and sides. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 215,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: red truck cabin with flat red roof and two pale blue front windows at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 221,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: silver aircraft canopy used as car cabin, cream rounded roof, orange lightning stripe. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 227,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: silver aircraft nose cone used as car hood, orange nose tip pointing up, orange lightning stripe. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 229,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: silver aircraft tail used as rear car cargo, red vertical tail fin and small silver wings, no engine. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 232,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single red roller skate used as wheel, tan laces, four small black wheels, overhead vertical view. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 235,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: open wooden sleigh cargo box with curved tall back at bottom, honey planks. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 243,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: black curved heavy rubber front bumper, horizontal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 244,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: black curved heavy rubber rear bumper, horizontal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 247,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single wide off-road tire with deep knobby black rubber tread, red rim along edge, overhead vertical strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 249,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: chrome curved front bumper with paired round auxiliary lamps, horizontal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 250,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: black metal rear bumper with upturned ends, horizontal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 256,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single solid wooden log wheel, wood grain and bark, overhead vertical cylindrical strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 259,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single smooth black tire with silver steel rim along edges, overhead vertical tread strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 263,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single old brown leather sandal used as a wheel, overhead view, toe pointing up. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 264,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: boxy blue bus cabin with white stripe and red accent, flat pale blue roof, wide windshield at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 270,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: short round wooden tree stump used as seat, visible circular growth rings on top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 278,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: dark blue and mustard yellow old car hood with chrome grille at top, weathered paint. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 279,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: golden yellow taxi hood with chrome grille and round headlights at top. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 281,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: golden yellow taxi rear body, curved fenders and black checker strip, open center. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 282,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: golden yellow taxi cabin with flat cream roof, windshield at top, black checker trim, no words. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 292,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: cream curved automobile front bumper, horizontal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 293,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: cream curved automobile rear bumper, horizontal bar. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 294,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: green ribbed vinyl bench car seat, backrest at bottom, two seats joined. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 295,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: brown ribbed leather bench car seat, backrest at bottom, two seats joined. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 299,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single yellow roller skate used as wheel, brown laces and small black wheels, toe pointing up. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 300,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: green racing car hood with white roundel and black number 2 on top, curved nose pointing up. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 301,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: green racing rear car body with sculpted fenders, open middle and white roundel. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 302,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: green open racing car cabin with low windshield at top, no roof. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 305,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: single dark blue rubber tire with silver wire spoke rim visible at edges, overhead vertical tread strip. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 601,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: pale sky blue vintage automobile hood, round headlights and chrome grille at front edge, worn paint. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 602,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: pale sky blue woody station wagon rear cargo body, varnished honey-brown timber frame around an open rectangular center, cream roof edging, rear fenders. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 603,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: pale sky blue woody station wagon cabin, honey-brown timber framed doors, pale cream roof and pale blue windshield at front edge. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 604,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: whimsical dark navy blue shark head used as a car hood, broad rounded nose pointing up, angry tiny eyes, a curved red mouth with white triangular teeth at front edge, cream underside. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 606,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: dark navy blue shark tail used as rear car body, a blue hollow cylinder open at its top front end with reddish brown inner surface, cream underside and tall forked shark tail fin at bottom rear, no shark head. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    },
+    {
+      "id": 607,
+      "prompt": "Use case: stylized-concept. Asset type: one isolated modular car part sprite for a whimsical hand-built junk-car game. Subject: dark navy blue shark-shaped open car cabin, hollow oval blue shell with reddish brown interior, cream lower edge, thin curved gray wire canopy frame and pale blue windshield at top, no hood, no shark head or tail. Camera strictly TOP-DOWN orthographic, car front points UP, rear points DOWN. Only this part, not a complete car. Center entire object with generous transparent margins. Hand-painted gouache, dark ink outlines, muted weathered colors, chunky readable shapes for a tiny 2D game sprite. Truly transparent background. No ground, no cast shadow, no checkerboard, no labels or watermark. No extra chassis, wheels, engines or other parts beyond requested subject."
+    }
+  ]
+}

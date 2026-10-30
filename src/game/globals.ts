@@ -38,6 +38,8 @@ export class MulleGlobals {
 
   /** Extra material (Plugins folder): Figge's scrapyard world + extra parts. Chosen on the start screen. */
   extras = false;
+  /** Optional generated overworld car artwork, chosen on the start screen. */
+  customCarAssets = false;
   /** Plugin casts loaded when extras are on (searched for part/world/map data and images). */
   pluginLibs: CastLib[] = [];
   /** World selected in the world chooser (movie 18); "" = the first world. */

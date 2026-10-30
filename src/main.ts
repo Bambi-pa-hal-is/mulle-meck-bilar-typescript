@@ -28,6 +28,17 @@ extrasBox.addEventListener("change", () => {
   location.reload(); // the databases are merged at load time
 });
 
+// Artwork is independent of the optional game content and defaults to the original sprites.
+const CUSTOM_CAR_ASSETS_KEY = "mullebil.customCarAssets";
+const customCarAssetsBox = document.getElementById("customCarAssetsBox") as HTMLInputElement;
+G.mulle.customCarAssets = localStorage.getItem(CUSTOM_CAR_ASSETS_KEY) === "1";
+customCarAssetsBox.checked = G.mulle.customCarAssets;
+document.getElementById("customCarAssets")!.addEventListener("click", e => e.stopPropagation());
+customCarAssetsBox.addEventListener("change", () => {
+  G.mulle.customCarAssets = customCarAssetsBox.checked;
+  localStorage.setItem(CUSTOM_CAR_ASSETS_KEY, customCarAssetsBox.checked ? "1" : "0");
+});
+
 // Load the game data, then preload the shared casts (characters, parts, maps) so play is smooth.
 startText.textContent = "Laddar… 0%";
 const ready = (async () => {

@@ -67,6 +67,30 @@ src/scenes/      One module per original movie (m02_junkyard, m03_garage, m04_ya
 See [PLAN.md](PLAN.md) for the architecture and phases, and
 [NEXT_STEPS.md](NEXT_STEPS.md) for current status and remaining work.
 
+### Custom overworld car artwork
+
+Enable **Använd AI-genererad bilgrafik** on the start screen to use custom car artwork.
+The option is off by default and remembers your choice independently of extra material.
+When enabled, driving assembles the mounted large parts using generated transparent sprites,
+so changing body sections, seats, wheels, cargo or bumpers changes the car outside
+the workshop. Artwork and generation prompts live in
+[`public/assets/overworld-parts/`](public/assets/overworld-parts/README.md).
+The renderer rotates overhead parts through all 16 headings and adjusts their
+projection for terrain inclination. The tutorial demo uses its original animation.
+
+[Car examples](docs/overworld-car-examples.png) · [All part designs](docs/overworld-parts.png)
+
+Browser verification (with Vite running and Playwright available):
+
+```sh
+node tools/qa-overworld.mjs
+```
+
+For a shared Playwright installation, set `PLAYWRIGHT_MODULE` to its `index.mjs`;
+`PLAYWRIGHT_CHROMIUM_EXECUTABLE` optionally selects an installed browser binary.
+The check covers base/optional part designs, headings and slopes, appearance changes,
+and the original-artwork fallback when generated assets cannot load.
+
 ## Disclaimer
 
 This is an unofficial fan project for preservation and learning. *Mulle Meck* and the

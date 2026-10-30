@@ -1,0 +1,671 @@
+[
+  {
+    "id": 1,
+    "view": "20b001v2",
+    "file": "part-1.png",
+    "kind": "chassis"
+  },
+  {
+    "id": 5,
+    "view": "20b005v2",
+    "file": "part-5.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 12,
+    "view": "20b012v2",
+    "file": "part-12.png",
+    "kind": "seat"
+  },
+  {
+    "id": 13,
+    "view": "20b013v2",
+    "file": "part-13.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 16,
+    "view": "20b015v2",
+    "file": "part-16.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 17,
+    "view": "20b017v2",
+    "file": "part-17.png",
+    "kind": "hood",
+    "width": 16,
+    "height": 22
+  },
+  {
+    "id": 18,
+    "view": "20b018v2",
+    "file": "part-18.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 19,
+    "view": "20b019v2",
+    "file": "part-19.png",
+    "kind": "hood"
+  },
+  {
+    "id": 20,
+    "view": "20b020v2",
+    "file": "part-20.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 21,
+    "view": "20b021v2",
+    "file": "part-21.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 22,
+    "view": "20b022v2",
+    "file": "part-22.png",
+    "kind": "hood"
+  },
+  {
+    "id": 23,
+    "view": "20b023v2",
+    "file": "part-23.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 24,
+    "view": "20b024v2",
+    "file": "part-24.png",
+    "kind": "hood"
+  },
+  {
+    "id": 25,
+    "view": "20b025v2",
+    "file": "part-25.png",
+    "kind": "hood"
+  },
+  {
+    "id": 26,
+    "view": "20b026v2",
+    "file": "part-26.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 27,
+    "view": "20b027v2",
+    "file": "part-27.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 28,
+    "view": "20b028v2",
+    "file": "part-28.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 29,
+    "view": "20b029v2",
+    "file": "part-29.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 30,
+    "view": "20b030v2",
+    "file": "part-30.png",
+    "kind": "hood"
+  },
+  {
+    "id": 31,
+    "view": "20b031v2",
+    "file": "part-31.png",
+    "kind": "cabin",
+    "width": 18,
+    "height": 20
+  },
+  {
+    "id": 32,
+    "view": "20b032v2",
+    "file": "part-32.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 33,
+    "view": "20b033v2",
+    "file": "part-33.png",
+    "kind": "hood"
+  },
+  {
+    "id": 36,
+    "view": "20b036v2",
+    "file": "part-36.png",
+    "kind": "cargo",
+    "width": 16,
+    "height": 20
+  },
+  {
+    "id": 37,
+    "view": "20b037v2",
+    "file": "part-37.png",
+    "kind": "cabin",
+    "width": 16,
+    "height": 20
+  },
+  {
+    "id": 61,
+    "view": "20b060v2",
+    "file": "part-61.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 63,
+    "view": "20b062v2",
+    "file": "part-63.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 67,
+    "view": "20b067v2",
+    "file": "part-67.png",
+    "kind": "frontBumper"
+  },
+  {
+    "id": 68,
+    "view": "20b068v2",
+    "file": "part-68.png",
+    "kind": "rearBumper"
+  },
+  {
+    "id": 88,
+    "view": "20b087v2",
+    "file": "part-88.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 95,
+    "view": "20b094v2",
+    "file": "part-95.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 98,
+    "view": "20b097v2",
+    "file": "part-98.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 99,
+    "view": "20b099v2",
+    "file": "part-99.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 100,
+    "view": "20b100v2",
+    "file": "part-100.png",
+    "kind": "seat"
+  },
+  {
+    "id": 115,
+    "view": "20b114v2",
+    "file": "part-115.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 118,
+    "view": "20b117v2",
+    "file": "part-118.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 119,
+    "view": "20b119v2",
+    "file": "part-119.png",
+    "kind": "hood"
+  },
+  {
+    "id": 120,
+    "view": "20b120v2",
+    "file": "part-120.png",
+    "kind": "seat"
+  },
+  {
+    "id": 128,
+    "view": "20b127v2",
+    "file": "part-128.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 129,
+    "view": "20b129v2",
+    "file": "part-129.png",
+    "kind": "seat"
+  },
+  {
+    "id": 136,
+    "view": "20b135v2",
+    "file": "part-136.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 138,
+    "view": "20b138v2",
+    "file": "part-138.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 142,
+    "view": "20b141v2",
+    "file": "part-142.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 145,
+    "view": "20b144v2",
+    "file": "part-145.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 148,
+    "view": "20b147v2",
+    "file": "part-148.png",
+    "kind": "cargo",
+    "width": 18,
+    "height": 20
+  },
+  {
+    "id": 149,
+    "view": "20b149v2",
+    "file": "part-149.png",
+    "kind": "track"
+  },
+  {
+    "id": 154,
+    "view": "20b154v2",
+    "file": "part-154.png",
+    "kind": "hood"
+  },
+  {
+    "id": 157,
+    "view": "20b156v2",
+    "file": "part-157.png",
+    "kind": "cargo",
+    "width": 22,
+    "height": 19
+  },
+  {
+    "id": 160,
+    "view": "20b159v2",
+    "file": "part-160.png",
+    "kind": "cargo",
+    "width": 22,
+    "height": 22
+  },
+  {
+    "id": 161,
+    "view": "20b161v2",
+    "file": "part-161.png",
+    "kind": "frontBumper"
+  },
+  {
+    "id": 167,
+    "view": "20b167v2",
+    "file": "part-167.png",
+    "kind": "seat"
+  },
+  {
+    "id": 168,
+    "view": "20b168v2",
+    "file": "part-168.png",
+    "kind": "hood",
+    "width": 18,
+    "height": 18
+  },
+  {
+    "id": 172,
+    "view": "20b172v2",
+    "file": "part-172.png",
+    "kind": "cargo",
+    "width": 16,
+    "height": 17
+  },
+  {
+    "id": 173,
+    "view": "20b173v2",
+    "file": "part-173.png",
+    "kind": "cargo",
+    "width": 9,
+    "height": 30,
+    "offsetY": 10
+  },
+  {
+    "id": 174,
+    "view": "20b174v2",
+    "file": "part-174.png",
+    "kind": "hood"
+  },
+  {
+    "id": 175,
+    "view": "20b175v2",
+    "file": "part-175.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 177,
+    "view": "20b177v2",
+    "file": "part-177.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 184,
+    "view": "20b184v2",
+    "file": "part-184.png",
+    "kind": "seat"
+  },
+  {
+    "id": 188,
+    "view": "20b187v2",
+    "file": "part-188.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 189,
+    "view": "20b189v2",
+    "file": "part-189.png",
+    "kind": "seat"
+  },
+  {
+    "id": 191,
+    "view": "20b191v2",
+    "file": "part-191.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 192,
+    "view": "20b192v2",
+    "file": "part-192.png",
+    "kind": "hood"
+  },
+  {
+    "id": 193,
+    "view": "20b193v2",
+    "file": "part-193.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 197,
+    "view": "20b197v2",
+    "file": "part-197.png",
+    "kind": "frontBumper"
+  },
+  {
+    "id": 198,
+    "view": "20b198v2",
+    "file": "part-198.png",
+    "kind": "rearBumper"
+  },
+  {
+    "id": 199,
+    "view": "20b199v2",
+    "file": "part-199.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 201,
+    "view": "20b201v2",
+    "file": "part-201.png",
+    "kind": "frontBumper"
+  },
+  {
+    "id": 202,
+    "view": "20b202v2",
+    "file": "part-202.png",
+    "kind": "rearBumper"
+  },
+  {
+    "id": 208,
+    "view": "20b208v2",
+    "file": "part-208.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 209,
+    "view": "20b209v2",
+    "file": "part-209.png",
+    "kind": "hood"
+  },
+  {
+    "id": 210,
+    "view": "20b210v2",
+    "file": "part-210.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 212,
+    "view": "20b212v2",
+    "file": "part-212.png",
+    "kind": "hood"
+  },
+  {
+    "id": 214,
+    "view": "20b214v2",
+    "file": "part-214.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 215,
+    "view": "20b215v2",
+    "file": "part-215.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 221,
+    "view": "20b221v2",
+    "file": "part-221.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 227,
+    "view": "20b227v2",
+    "file": "part-227.png",
+    "kind": "hood",
+    "width": 17,
+    "height": 21
+  },
+  {
+    "id": 229,
+    "view": "20b229v2",
+    "file": "part-229.png",
+    "kind": "cargo",
+    "width": 27,
+    "height": 23
+  },
+  {
+    "id": 232,
+    "view": "20b231v2",
+    "file": "part-232.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 235,
+    "view": "20b235v2",
+    "file": "part-235.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 243,
+    "view": "20b243v2",
+    "file": "part-243.png",
+    "kind": "frontBumper"
+  },
+  {
+    "id": 244,
+    "view": "20b244v2",
+    "file": "part-244.png",
+    "kind": "rearBumper"
+  },
+  {
+    "id": 247,
+    "view": "20b246v2",
+    "file": "part-247.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 249,
+    "view": "20b249v2",
+    "file": "part-249.png",
+    "kind": "frontBumper"
+  },
+  {
+    "id": 250,
+    "view": "20b250v2",
+    "file": "part-250.png",
+    "kind": "rearBumper"
+  },
+  {
+    "id": 256,
+    "view": "20b255v2",
+    "file": "part-256.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 259,
+    "view": "20b258v2",
+    "file": "part-259.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 263,
+    "view": "20b262v2",
+    "file": "part-263.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 264,
+    "view": "20b264v2",
+    "file": "part-264.png",
+    "kind": "cabin",
+    "width": 22,
+    "height": 20
+  },
+  {
+    "id": 270,
+    "view": "20b270v2",
+    "file": "part-270.png",
+    "kind": "seat"
+  },
+  {
+    "id": 278,
+    "view": "20b278v2",
+    "file": "part-278.png",
+    "kind": "hood"
+  },
+  {
+    "id": 279,
+    "view": "20b279v2",
+    "file": "part-279.png",
+    "kind": "hood"
+  },
+  {
+    "id": 281,
+    "view": "20b281v2",
+    "file": "part-281.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 282,
+    "view": "20b282v2",
+    "file": "part-282.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 292,
+    "view": "20b292v2",
+    "file": "part-292.png",
+    "kind": "frontBumper"
+  },
+  {
+    "id": 293,
+    "view": "20b293v2",
+    "file": "part-293.png",
+    "kind": "rearBumper"
+  },
+  {
+    "id": 294,
+    "view": "20b294v2",
+    "file": "part-294.png",
+    "kind": "seat"
+  },
+  {
+    "id": 295,
+    "view": "20b295v2",
+    "file": "part-295.png",
+    "kind": "seat"
+  },
+  {
+    "id": 299,
+    "view": "20b298v2",
+    "file": "part-299.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 300,
+    "view": "20b300v2",
+    "file": "part-300.png",
+    "kind": "hood"
+  },
+  {
+    "id": 301,
+    "view": "20b301v2",
+    "file": "part-301.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 302,
+    "view": "20b302v2",
+    "file": "part-302.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 305,
+    "view": "20b304v2",
+    "file": "part-305.png",
+    "kind": "wheel"
+  },
+  {
+    "id": 601,
+    "view": "66b008v2",
+    "file": "part-601.png",
+    "kind": "hood"
+  },
+  {
+    "id": 602,
+    "view": "66b009v2",
+    "file": "part-602.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 603,
+    "view": "66b010v2",
+    "file": "part-603.png",
+    "kind": "cabin"
+  },
+  {
+    "id": 604,
+    "view": "66b011v2",
+    "file": "part-604.png",
+    "kind": "hood"
+  },
+  {
+    "id": 606,
+    "view": "66b013v2",
+    "file": "part-606.png",
+    "kind": "cargo"
+  },
+  {
+    "id": 607,
+    "view": "66b014v2",
+    "file": "part-607.png",
+    "kind": "cabin"
+  }
+]

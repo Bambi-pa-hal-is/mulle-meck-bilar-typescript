@@ -10,6 +10,7 @@ import type { Engine } from "../engine/engine.ts";
 import { GameDir } from "../game/dir.ts";
 import { G, random, pick } from "../game/runtime.ts";
 import { CarDriving, type CarDriveHost } from "../game/cardriving.ts";
+import { OverworldCar } from "../game/overworldcar.ts";
 import { World, loadMap, loadObject, loadTopology, pt, type MapData } from "../game/world.ts";
 import { WorldObject, makeHandler } from "./m05_objects.ts";
 
@@ -25,12 +26,15 @@ const ENGINE_SOUNDS = [
   ["05e032v0", "05e038v0", "05e033v0", "05e034v0", "05e035v0", "05e036v0", "05e037v0"],
 ];
 
-/** DisplayCar: draws the car sprite (direction × slope frames) and plays engine sound by speed. */
+/** DisplayCar: assembles mounted parts (original frames for the demo) and plays engine sound by speed. */
 class DisplayCar {
   soundOn = true; visible = true; private lastSpeed = 0; private sndId = 0; private sndList: string[] = [];
   private firstFrame: number;
+  private appearance: OverworldCar | null;
   constructor(private d: DriveDir, private car: CarDriving, private spName: "car", show: boolean) {
     this.firstFrame = show ? d.movie.memberNum("ShowCarPic") - 36 : d.movie.memberNum("CarPic");
+    this.appearance = !show && G.mulle.customCarAssets
+      ? new OverworldCar(d.movie, G.mulle.user!.car, G.mulle.parts) : null;
     d.addLoopObject(this);
   }
   get sprite() { return this.d.movie.sprite(this.d.sp(this.spName)); }
@@ -47,7 +51,7 @@ class DisplayCar {
   }
   show(yes: boolean) { this.visible = yes; if (!yes) this.d.movie.setMemberByName(this.sprite, "Dummy"); else this.display(); }
   stopEngine() { if (this.sndList.length) this.sndId = G.sound.play(this.sndList[1], "BG"); }
-  kill() { this.d.deleteLoopObject(this); this.d.movie.setMemberByName(this.sprite, "Dummy"); G.sound.stop(this.sndId); }
+  kill() { this.appearance?.dispose(); this.d.deleteLoopObject(this); this.d.movie.setMemberByName(this.sprite, "Dummy"); G.sound.stop(this.sndId); }
   loop() { this.display(); }
   display() {
     if ((this.d.mode !== "Driving" && this.d.mode !== "Showing") || !this.visible) return;
@@ -55,8 +59,10 @@ class DisplayCar {
     this.car.step(new Point(m.engine.mouse.x | 0, m.engine.mouse.y | 0));
     const loc = this.car.getShowCoordinate();
     s.setLoc(loc.x, loc.y);
-    const ref = m.member("CarPic")!;
-    m.setMember(s, m.memberInLib(ref, this.firstFrame + this.car.direction + (2 + this.car.inclination) * 16));
+    if (!this.appearance?.display(s, this.car.direction, this.car.inclination)) {
+      const ref = m.member("CarPic")!;
+      m.setMember(s, m.memberInLib(ref, this.firstFrame + this.car.direction + (2 + this.car.inclination) * 16));
+    }
     s.width = s.height = 0; s.ink = 36; s.puppet = true;
     const max = Math.trunc(this.car.q.speed / 100) || 1;
     const percent = Math.trunc((100 * Math.abs(this.car.getSpeed())) / max);
